@@ -1,0 +1,1246 @@
+
+<!doctype html>
+<html lang="es" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      <link rel="icon" href="../../img/favicon.png">
+      <meta name="generator" content="mkdocs-1.3.1, mkdocs-material-8.4.1">
+    
+    
+      
+        <title>Leyes - Lambda</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.69437709.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.cbb835fc.min.css">
+        
+          
+          
+          <meta name="theme-color" content="#ff6e42">
+        
+      
+      
+    
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+  </head>
+  
+  
+    
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="slate" data-md-color-primary="deep-orange" data-md-color-accent="">
+  
+    
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#leyes" class="md-skip">
+          Saltar a contenido
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Cabecera">
+    <a href="../.." title="Lambda" class="md-header__button md-logo" aria-label="Lambda" data-md-component="logo">
+      
+  <img src="../../img/lambda.svg" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Lambda
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Leyes
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Búsqueda" placeholder="Búsqueda" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" aria-label="Limpiar" tabindex="-1">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Inicializando búsqueda
+          </div>
+          <ol class="md-search-result__list"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navegación" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="Lambda" class="md-nav__button md-logo" aria-label="Lambda" data-md-component="logo">
+      
+  <img src="../../img/lambda.svg" alt="logo">
+
+    </a>
+    Lambda
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        Lambda
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_2" type="checkbox" id="__nav_2" >
+      
+      
+      
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+      
+      
+        <label class="md-nav__link" for="__nav_2">
+          1. Perfil
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="1. Perfil" data-md-level="1">
+        <label class="md-nav__title" for="__nav_2">
+          <span class="md-nav__icon md-icon"></span>
+          1. Perfil
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../1.%20Perfil/1.%20Primeros-Pasos/" class="md-nav__link">
+        Primeros Pasos
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../1.%20Perfil/Academia-Militar/" class="md-nav__link">
+        Academia Militar
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../1.%20Perfil/Casa/" class="md-nav__link">
+        Casa
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../1.%20Perfil/Experiencia-Laboral/" class="md-nav__link">
+        Experiencia Laboral
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../1.%20Perfil/Fin-del-Dia/" class="md-nav__link">
+        Fin del Día
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../1.%20Perfil/Habilidades/" class="md-nav__link">
+        Habilidades
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_3" type="checkbox" id="__nav_3" >
+      
+      
+      
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+      
+      
+        <label class="md-nav__link" for="__nav_3">
+          2. Economia
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="2. Economia" data-md-level="1">
+        <label class="md-nav__title" for="__nav_3">
+          <span class="md-nav__icon md-icon"></span>
+          2. Economia
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../2.%20Economia/Almacen/" class="md-nav__link">
+        Almacén
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../2.%20Economia/Comerciar/" class="md-nav__link">
+        Comerciar
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../2.%20Economia/Contaminaci%C3%B3n/" class="md-nav__link">
+        Contaminación
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../2.%20Economia/Coste-de-Fronteras/" class="md-nav__link">
+        Coste de Fronteras
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../2.%20Economia/Departamentos/" class="md-nav__link">
+        Departamentos
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../2.%20Economia/Experiencia-Laboral/" class="md-nav__link">
+        Experiencia Laboral
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../2.%20Economia/Exploracion-Profunda/" class="md-nav__link">
+        Exploración Profunda
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../2.%20Economia/Indices/" class="md-nav__link">
+        Índices
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../2.%20Economia/Mercado-Estatal/" class="md-nav__link">
+        Mercado Estatal
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../2.%20Economia/Recursos/" class="md-nav__link">
+        Recursos
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../2.%20Economia/Subastas-de-F%C3%A1bricas/" class="md-nav__link">
+        Subastas de Fábricas
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../2.%20Economia/Trabajar/" class="md-nav__link">
+        Trabajar
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+    
+  
+  
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_4" type="checkbox" id="__nav_4" checked>
+      
+      
+      
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+      
+      
+        <label class="md-nav__link" for="__nav_4">
+          3. Politica
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="3. Politica" data-md-level="1">
+        <label class="md-nav__title" for="__nav_4">
+          <span class="md-nav__icon md-icon"></span>
+          3. Politica
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Autonomias/" class="md-nav__link">
+        Autonomías
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Bloque/" class="md-nav__link">
+        Bloque
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Elecciones/" class="md-nav__link">
+        Elecciones
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Formas-de-gobierno/" class="md-nav__link">
+        Formas de gobierno
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Independencia/" class="md-nav__link">
+        Independencia
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+    
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        Leyes
+      </a>
+      
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Votacion-en-el-Parlamento/" class="md-nav__link">
+        Votación en el parlamento
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Votar/" class="md-nav__link">
+        Votar
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_5" type="checkbox" id="__nav_5" >
+      
+      
+      
+        
+          
+        
+          
+        
+          
+        
+      
+      
+        <label class="md-nav__link" for="__nav_5">
+          4. Guerras
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="4. Guerras" data-md-level="1">
+        <label class="md-nav__title" for="__nav_5">
+          <span class="md-nav__icon md-icon"></span>
+          4. Guerras
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../4.%20Guerras/Entrenamiento-Militar/" class="md-nav__link">
+        Entrenamiento Militar
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../4.%20Guerras/Guerras/" class="md-nav__link">
+        Guerras
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../4.%20Guerras/Tropas/" class="md-nav__link">
+        Tropas
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_6" type="checkbox" id="__nav_6" >
+      
+      
+      
+        
+          
+        
+          
+        
+          
+        
+          
+        
+      
+      
+        <label class="md-nav__link" for="__nav_6">
+          5. Pro
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="5. Pro" data-md-level="1">
+        <label class="md-nav__title" for="__nav_6">
+          <span class="md-nav__icon md-icon"></span>
+          5. Pro
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../5.%20Pro/Calculadoras/" class="md-nav__link">
+        Calculadoras
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../5.%20Pro/Formulas/" class="md-nav__link">
+        Fórmulas
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../5.%20Pro/Multicuentas/" class="md-nav__link">
+        Multicuentas
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../5.%20Pro/Tablas-del-juego/" class="md-nav__link">
+        Tablas del juego
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_7" type="checkbox" id="__nav_7" >
+      
+      
+      
+        
+          
+            
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+      
+      
+        
+        
+        <div class="md-nav__link md-nav__link--index ">
+          <a href="../../6.%20Historia/">6. Historia</a>
+          
+            <label for="__nav_7">
+              <span class="md-nav__icon md-icon"></span>
+            </label>
+          
+        </div>
+      
+      <nav class="md-nav" aria-label="6. Historia" data-md-level="1">
+        <label class="md-nav__title" for="__nav_7">
+          <span class="md-nav__icon md-icon"></span>
+          6. Historia
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../6.%20Historia/01-Periodo-Habsburgo/" class="md-nav__link">
+        Período Habsburgo
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../6.%20Historia/02-Periodo-Republica/" class="md-nav__link">
+        Período República
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../6.%20Historia/03-Periodo-Taifas/" class="md-nav__link">
+        Período Taifas
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../6.%20Historia/04-Periodo-Renacentista/" class="md-nav__link">
+        Período Renacentista
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../6.%20Historia/05-Periodo-Reino/" class="md-nav__link">
+        Gran Período Monárquico
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../6.%20Historia/06-Periodo-Taifas2021/" class="md-nav__link">
+        Período Segundas Taifas
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Tabla de contenidos">
+  
+  
+  
+    
+  
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          <div class="md-content" data-md-component="content">
+            <article class="md-content__inner md-typeset">
+              
+                
+
+
+<h1 id="leyes">Leyes</h1>
+<p><strong>LEYES TÍPICAS</strong></p>
+<p><strong><em>Nuevo edificio:</em></strong></p>
+<p>Construye la cantidad indicada de edificios públicos (no incluidos academias militares y fábricas). Esto tiene un coste correspondiente al número de edificios referentes a la construcción. Éstas leyes pueden aceptarla de forma inmediatamente los dictadores, monarcas, ministros de economía y los gobernadores, estos último en República.</p>
+<p><strong><em>Exploración de recursos:</em></strong></p>
+<p>Ésta la ley se pone conforme se gastan los recursos por el trabajo de los ciudadanos. Existe un límite diario invariable de recarga que es 2500 para oro y un límite de recarga momentáneo que es hasta un máximo indicado por el nivel de exploración profunda (siendo el máximo 637 puntos para oro). Pueden aceptarla inmediatamente los dictadores, monarcas, ministros de economía y los gobernadores en República.</p>
+<p><em><strong>Acuerdo militar:</strong></em></p>
+<p>Permite participar en un frente en el que participe la nación con quien compartes el acuerdo desde el territorio de tu nación (Con la respectiva penalización por distancia). Ésta ley también es algo simbólico como garantía de defensa entre naciones, que puede respetarse o no. Sólo pueden aceptarla de forma inmediatamente los dictadores, monarcas y ministros de exteriores.</p>
+<p><strong><em>Exploración profunda:</em></strong></p>
+<p>Aumenta el valor de exploración profunda de un recurso en un territorio durante una semana. Sólo puede haber una activa a la vez por región (puedes tener todas tus regiones con una exploración profunda para cada recurso). Éstas leyes cuestan diamantes, oro y dinero. Ésta ley sólo pueden aceptarla inmediatamente los dictadores, monarcas y ministros de economías.</p>
+<p><strong><em>Declaración de guerra:</em></strong></p>
+<p>Inicias un frente de ataque desde una región de tu país a otra región de un país de otro bloque con frontera terrestre a esta región. En los frentes terrestres se emplean bombarderos, naves, tanques o misiles (radiación). – Pueden aceptarla inmediatamente los dictadores, monarcas y presidentes con cargo de Comandante (ley).</p>
+<p><strong><em>Declaración de guerra naval:</em></strong></p>
+<p>Inicias un frente de ataque desde una región costera de tu país a otra región de un país de otro bloque que esté al alcance. Hay que decir que éste tipo de guerra dura 48 horas y se compone de dos tipos de batallas, la batalla naval (primeras 24 horas de guerra) en la que se usan acorazados y el desembarco (las otras 24 horas de guerra), en la que se usa las tropas terrestres. Ésta ley pueden aceptarla inmediatamente los dictadores, monarcas y presidentes con cargo de Comandante (ley).</p>
+<p><em><strong>Declaración de guerra espacial:</strong></em></p>
+<p>Inicias un frente de ataque desde una región de tu país en la Tierra hacia otra  otra región de un país de otro bloque en la Luna. En ésta guerra se emplean satélites espaciales, la tropa más cara del juego, durante el día que dura la batalla. Ésta ley pueden aceptarla inmediatamente los dictadores, monarcas y presidentes con cargo de Comandante (ley) y sólo si la región seleccionada es de las 20 regiones con más puertos espaciales.</p>
+<p><em><strong>Modificación del impuesto sobre la renta:</strong></em></p>
+<p>Establece un porcentaje a la renta en toda la nación. Se aplica sobre el dinero ($) obtenido por el trabajo en oro o recursos a sueldo fijo (siempre $). Ésta ley pueden aceptarla inmediatamente los dictadores, monarcas y ministros de economía.</p>
+<p><em><strong>Consolidación de la región:</strong></em></p>
+<p>Cede una región de tu nación a otra nación. El otro estado debe aceptar esta consolidación para que se realice correctamente. Ésta ley no puede aceptarse instantáneamente, tiene una duración de 24 horas desde que el país que recibe la región pone dicha ley en su parlamento. Cómo es de constumbre, ésta ley sólo pueden ponerla el presidente de la república, monarca o dictador.  </p>
+<p><strong><em>Nueva elección de parlamento:</em></strong></p>
+<p>Ésta ley inicia nuevas elecciones al parlamento pero no convoca las elecciones presidenciales. Cómo se puede ver al poner la ley, ésta ley no es de aprobación inmediata sino que hay que esperar las 24 horas de la ley.</p>
+<p><strong><em>Vender recursos:</em></strong></p>
+<p>Permite poner a la venta recursos y oro de las arcas del estado en el mercado estatal a cierta cantidad de dinero ($). Pueden aceptarla inmediatamente los dictadores, monarcas y ministros de economía.</p>
+<p><strong><em>Presupuesto de transferencia:</em></strong></p>
+<p>Envía recursos y oro directamente desde unas arcas a otras. Se lleva a cabo entre dos estados, de una autonomía a su propio estado o de un estado a una autonomía. Ésta ley pueden aceptarla inmediatamente los dictadores, monarcas y ministros de economía si son estatales. Sí son autonómicas se hacen en 24h.</p>
+<p><strong><em>Las fábricas de salidas de impuestos:</em></strong></p>
+<p>Establece un porcentaje a todos los recursos generados en toda la nación. Se aplica sobre los recursos obtenidos por el trabajo en las fábricas (salvo oro). Ésta ley pueden aceptarla inmediatamente los dictadores, monarcas y ministros de economía.</p>
+<p><strong><em>Trabajando en la región sin residencia:</em></strong></p>
+<p>Impide o Permite trabajar en el territorio si no se cuenta con residencia o permiso de trabajo en el territorio. Ésta ley la puede aceptar de forma inmediata el monarca o dictador mientras que en república tarda 24 horas en acpetarse.  </p>
+<p><em><strong>Acuerdo migratorio:</strong></em></p>
+<p>Permite a los que se encuentren en la nación en cuestión entrar en el territorio de tu nación libremente a pesar de tener las fronteras cerradas o no tener ni permiso de trabajo ni residencia. Puede hacerse bilateral desde el otro parlamento y que desde tu nación pueda entrarse al otro estado. Ésta ley pueden aceptarla inmediatamente los dictadores, monarcas y ministros de exteriores.  </p>
+<p><strong><em>Tasas del mercado:</em></strong></p>
+<p>Establece un porcentaje a las ventas de todos los ciudadanos que se encuentren el territorio y hagan una transacción (venta, no compra). Se aplica sobre el dinero ($) obtenido por la venta de recursos o armas en el mercado. Esta tasa se extrae del precio establecido por el usuario. Pueden aceptarla inmediatamente los dictadores, monarcas y ministros de economía.</p>
+<p><em><strong>Cerrar/abrir fronteras:</strong></em>  </p>
+<p>Permite o impide la libre circulación de personas que no cuenten con permiso de trabajo o residencia, ni provengan de un estado con acuerdo migratorio. Pueden aceptarla inmediatamente los dictadores, monarcas y ministros de exteriores.</p>
+<p><strong><em>Cambiar cuota de viaje:</em></strong></p>
+<p>Establece un precio simbólico (máx. de 120k$) que se debe abonar cada vez que se pisa una de las regiones de tu estado. El valor depende del nivel del jugador, incrementándose progresivamente. Pueden aceptarla directamente dictadores y monarcas.</p>
+<p><strong><em>Tamaño del parlamento:</em></strong></p>
+<p>Establece el máximo número de parlamentarios en el hemiciclo (60, 80, 100 o 150). Pueden aceptarla directamente monarcas.</p>
+<p><strong><em>Partido hegemónico:</em></strong></p>
+<p>Cambia el sistema de gobierno a Partido Único. Esto hace que únicamente un partido pueda obtener escaños en el parlamento, el resto quedan fuera. Ésta ley debe aprobarse con un 80% de los votos, sólo entonces se hace instantáneamente. 31 días.</p>
+<p><strong><em>Cambiar título del estado:</em></strong></p>
+<p>Cambia el nombre del territorio por el texto seleccionado. Pueden aceptarla directamente dictadores y monarcas. Tambien pueden poner ésta ley los parlamentarios pero para que sea aprobada necesita una mayoría simple y que transcurra las 24 horas de la ley.  </p>
+<p><em><strong>Confirmar consolidación de la región:</strong></em></p>
+<p>Tras proponer la ley de consolidación del estado emisor, se aprueba esta ley en el estado receptor para que el traspaso de la región se haga correctamente.  </p>
+<p><strong><em>Cambiar el escudo de armas</em></strong>:</p>
+<p>Cambia el escudo del territorio por la imagen seleccionada. Pueden aceptarla directamente dictadores y monarcas. Tambien pueden poner ésta ley los parlamentarios pero para que sea aprobada necesita una mayoría simple y que transcurra las 24 horas de la ley.  </p>
+<p><strong><em>Comandante de Estado:</em></strong></p>
+<p>Permite al presidente declarar guerras instantáneamente una vez se le declara Comandante. Ésta ley no puede ser aprobada instantáneamente.</p>
+<p><strong><em>Proclamación de la dictadura:</em></strong></p>
+<p>Cambia el sistema de gobierno a Dictadura y de ésta forma el Dictador propone casi todas las leyes al instantáneamente. El asesor económico (ministro de economía) es capaz de proponerlas sin aceptarlas y recargar oro instantáneamente. La Dictadura debe de aprobarse con un 80% de los votos, sólo entonces se hace instantáneamente. La nación debe haber cumplido un mínimo de 31 días desde su formación.</p>
+<p><em><strong>Procesamiento de líder:</strong></em></p>
+<p>Una vez aprobada se convocan nuevas elecciones presidenciales. Ésta ley no puede aceptarse instantáneamente y únicamente contra presidentes.</p>
+<p><strong><em>Residencia:</em></strong></p>
+<p>Permite alternar entre conceder las residencias libremente (se solicitan y aceptan directamente por encontrarte en esa región) o las acepta/deniega el líder o el ministro de exteriores en República. Ésta ley no puede aceptarse instantáneamente.</p>
+<p><strong><em>Gestión de autonomías:</em></strong></p>
+<p>Concede/Elimina una autonomía sobre una región. Sólo pueden aceptarla directamente dictadores y monarcas. En república debe ser aceptada por una mayoría simple y se debe esperar las 24 horas de la ley.</p>
+<p><strong><em>Adjuntar a la autonomía:</em></strong></p>
+<p>Permite adscribir la región seleccionada a una autonomía preexistente, eso hace que termine formando parte de ella. Ésta ley permite formar macroautonomías. Como de constumbre, ésta ley pueden aceptarla directamente dictadores y monarcas. En el caso de la república la ley tarda 24 horas y debe ser aceptada por mayoría simple.</p>
+<p><strong><em>Declaración de independencia:</em></strong></p>
+<p>La región seleccionada deja de pertenecer al estado para ser una región independientes. Una vez independiente sus fronteras permanecen abiertas, a las 24h comenzarán las elecciones y cuenta con 1 semana de inmunidad. Ésta ley no puede ser aceptada de forma instantáneamente.</p>
+<p><strong><em>Trasladar la capital del estado:</em></strong> </p>
+<p>Se designa la región seleccionada como capital del estado. Cuenta como punto de almacén del presupuesto del estado y no puede declararse autonomía.</p>
+<p><strong><em>Nombrar gobernador de la región:</em></strong></p>
+<p>Elige a una persona como gobernador de una autonomía desde el parlamento nacional. El gobernador puede construir y recargar oro en la región inmediatamente. Ésta ley pueden aceptarla directamente dictadores y monarcas.</p>
+<p><strong>LEYES ESPECIALES</strong></p>
+<p><strong><em>Formar estado:</em></strong></p>
+<p>Tras contar con parlamento, una región independiente puede establecerse como país. Inicia las elecciones de líder, que no podrá ser nombrado dictador ni cambiarse la forma de gobierno durante un mes. Se decreta en cuanto la mayoría de los parlamentarios la han aceptado.</p>
+<p><strong><em>Declarar monarquía:</em></strong> </p>
+<p>El dictador pasa a ser rey, se cambia la forma de gobierno a monarquía y se convocan elecciones parlamentarias. En monarquía las leyes pueden ser decretadas por los parlamentarios, pero el rey decide si se aceptan o se desechan. Ésta ley sólo puede decretarla el dictador.</p>
+<p><strong><em>Declarar partido único:</em></strong></p>
+<p>El dictador permanece, pero aparece un Parlamento con los miembros del partido del Dictador. Ésta forma de gobierno es similar a dictadura, pero con un Parlamento que puede proponer leyes (aceptadas por el Dictador exclusivamente). Ésta forma de gobierno sólo puede decretarla el dictador.  </p>
+<p><strong><em>Cancelar dictadura:</em></strong></p>
+<p>El dictador desaparece y se inician elecciones para pasar a formar una República. Las elecciones a la República saltan de forma simultánea y se decreta una República plena y formal a las 24h. Sólo puede decretarla el dictador.</p>
+<p><strong><em>Cancelar monarquía:</em></strong></p>
+<p>El rey abdica y se convocan elecciones presidenciales, eso hará que la forma de gobierno pase a ser República. Sólo puede decretarla el monarca.</p>
+<p><em><strong>Comprar en el mercado del estado</strong></em>:</p>
+<p>Permite comprar recursos en el mercado estatal por dinero ($) de las arcas estatales. Sólo puede pujarse por la oferta más barata de ese momento. Únicamente el líder y el economista a través de las arcas estatales o el gobernador con el presupuesto autonómico pueden comprar en este mercado.</p>
+<p><strong><em>Cambiar porcentaje de petróleo/minerales transladados al presupuesto:</em></strong></p>
+<p>Establece un impuesto al petróleo y mineral trabajado. Ésta ley se aplica sobre las fábricas del administrador. Sólo pueden aceptarlade forma inmediata los dictadores, monarcas y ministros de economía desde el ordenador. Pero hay que decir que actualmente ésta ley está obsoleta.</p>
+
+
+
+
+              
+            </article>
+            
+          </div>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+    
+    <nav class="md-footer__inner md-grid" aria-label="Pie" >
+      
+        
+        <a href="../Independencia/" class="md-footer__link md-footer__link--prev" aria-label="Anterior: Independencia" rel="prev">
+          <div class="md-footer__button md-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+          </div>
+          <div class="md-footer__title">
+            <div class="md-ellipsis">
+              <span class="md-footer__direction">
+                Anterior
+              </span>
+              Independencia
+            </div>
+          </div>
+        </a>
+      
+      
+        
+        <a href="../Votacion-en-el-Parlamento/" class="md-footer__link md-footer__link--next" aria-label="Siguiente: Votación en el parlamento" rel="next">
+          <div class="md-footer__title">
+            <div class="md-ellipsis">
+              <span class="md-footer__direction">
+                Siguiente
+              </span>
+              Votación en el parlamento
+            </div>
+          </div>
+          <div class="md-footer__button md-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11H4Z"/></svg>
+          </div>
+        </a>
+      
+    </nav>
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    <script id="__config" type="application/json">{"base": "../..", "features": ["navigation.indexes"], "search": "../../assets/javascripts/workers/search.ecf98df9.min.js", "translations": {"clipboard.copied": "Copiado al portapapeles", "clipboard.copy": "Copiar al portapapeles", "search.config.lang": "es", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "B\u00fasqueda", "search.result.more.one": "1 m\u00e1s en esta p\u00e1gina", "search.result.more.other": "# m\u00e1s en esta p\u00e1gina", "search.result.none": "No se encontraron documentos", "search.result.one": "1 documento encontrado", "search.result.other": "# documentos encontrados", "search.result.placeholder": "Teclee para comenzar b\u00fasqueda", "search.result.term.missing": "Falta", "select.version.title": "Seleccionar versi\u00f3n"}}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.9c69f0bc.min.js"></script>
+      
+    
+  </body>
+</html>
