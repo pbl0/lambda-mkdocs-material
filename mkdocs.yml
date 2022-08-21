@@ -1,0 +1,15 @@
+site_name: Lambda
+theme:
+  name: material
+  language: es
+  palette:
+    scheme: slate
+    primary: deep orange
+  features:
+    - navigation.indexes
+  logo: img/lambda.svg  
+  favicon: img/favicon.png  
+markdown_extensions:
+  - pymdownx.tasklist:
+      custom_checkbox: true
+
