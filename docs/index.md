@@ -10,8 +10,8 @@ El proyecto original fue creado por Alexia/Yuuuh/Elsa, antiguo jugador de RR que
 
 La nueva página no tiene animos de lucro, ni tendrá anuncios y tampoco tiene costes de hosteo o dominios.
 
-# ¿Eres nuevo en RR?
-Empieza por [primeros pasos](./1.-Perfil/01-Primeros-Pasos).
+##  ¿Eres nuevo en RR?
+Empieza por [primeros pasos](/01-Primeros-Pasos).
 
 ## Colaborar
 
@@ -26,26 +26,25 @@ Tareas pendientes:
 - [ ] Sacar nuevas capturas de pantalla.
     - [x] Academia militar
     - [x] Guerras 
-    - [ ] Casa
-    - [ ] Exp. laboral
-    - [ ] Almacen
+    - [x] Casa
+    - [x] Exp. laboral
+    - [x] Almacen
     - [ ] Comerciar
     - [ ] Contaminación
-    - [ ]  Departamentos
+    - [ ] Departamentos
     - [ ] Subastas de fábricas
     - [ ] Trabajar
     - [ ] Autonomias
     - [ ] Bloque
     - [ ] Formas de gobierno
     - [ ] Votar
-    - [ ] Entrenamiento militar
+    - [x] Entrenamiento militar
 - [ ] Actualizar incorrecciones.
-- [ ] Guia Nueva Casa.
+- [x] Guia Nueva Casa.
 - [ ] Borrar articulos innecesarios o redundantes.
 - [ ] Añadir nuevo contenido del discord.
+    - [x] Daño alpha
 - [ ] Arreglar tablas de contenido
 - [x] Mejorar diseño
 - [x] Añadir barra de busqueda.
 - [x] Añadir sección de historia.
-
-###### tags:`index`

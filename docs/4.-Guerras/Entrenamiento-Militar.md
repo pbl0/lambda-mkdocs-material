@@ -8,14 +8,14 @@ category: guerras
 
 - El **entrenamiento militar** permite obtener experiencia por causar daño en guerra en un simulador sin peligro de causar conflictos diplomáticos.
 - Se obtiene **bastante experiencia** a cambio de tropas (dinero), y si es intensivo por muchas tropas y energía (oro).
-- Para **iniciar el entrenamiento militar** selecciona la pestaña de Guerras y el botón azul que pone «Entrenamiento Militar»  
+- Para **iniciar el entrenamiento militar** selecciona la pestaña de Guerras y el botón gris que pone «Entrenamiento Militar»  
     
 
-![]()
+<img class="screenshot" src="/img/posts/guerras/train.jpg" alt="Imagen de boton entrenamiento"/>
 
 - Para atacar selecciona el botón _Enviar mis tropas_ de cualquiera de los frentes (en entrenamiento militar no importa), selecciona la tropa que quieres usar y pulsa _Atacar_, que es cualquiera de los botones inferiores (Botones rojo, azul y verde):
 
-![]()
+<img class="screenshot" src="/img/posts/guerras/guerra.jpg" alt="Imagen de guerra"/>
 
 - En Entrenamiento Militar **no importa el frente** en el que hagas daño, ya que es una simulación.
 - Se muestran las **tropas** lanzadas en el ataque y las disponibles en el [almacén](http://lambda-rr.es/almacen/) para futuros ataques. Aunque sea una simulación el **coste de tropas es real** y se descuentan de tu inventario. También el gasto en energéticas.

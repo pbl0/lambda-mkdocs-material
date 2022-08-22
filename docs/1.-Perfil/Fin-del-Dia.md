@@ -8,8 +8,8 @@ El fin del día se conoce como la **hora a la que se resetean** los temporizador
 
 ### **Temporizadores diarios que se resetean**
 
-- Construir [academia militar](http://lambda-rr.es/2018/10/21/academia-militar/) (el número de edificios en la región no, eso es a la misma hora a los 14 días).
-- Trabajar departamentos (el valor de departamentos no, eso es a la misma hora a los 7 días).
+- Construir [academia militar](/1.-Perfil/Academia-Militar/) (el número de edificios en la región no, eso es a la misma hora a los 14 días).
+- Trabajar departamentos (el valor de [departamentos](/2.-Economia/Departamentos/) no, eso es a la misma hora a los 7 días).
 - El **oro** (2500) y los recursos disponibles para recargarse en la región de forma diaria.
 - Las subastas de las **fábricas privadas** (siempre pueden retrasarse un poco por nuevas pujas).
 - Se concede la **medalla** al «mejor periodista del día» (el artículo con más karma en ese momento se lleva la medalla).

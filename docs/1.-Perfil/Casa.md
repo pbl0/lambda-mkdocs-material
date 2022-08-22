@@ -1,27 +1,20 @@
 # Casa
 
-## REQUIERE ACTUALIZACIÓN
-## ESTA PÁGINA REFIERE A LA VERSIÓN ANTERIOR DE LA CASA
+La casa es actualmente un conjunto de buffs de pago que duran una semana, no es recomendable usarla si eres de nivel bajo, ya que, los costes si quieres tener un buff decente, van a costar mucho dinero.
 
+<img class="screenshot" src="/img/posts/casa/casa.jpg" alt="Imagen de casa"/>
 
-La casa es un edificio personal con nivel propio de 0 a 99 que se puede construir desde cualquier nivel, aunque es recomendado partir del nivel 80 o cuando tengas las [habilidades](http://lambda-rr.es/habilidades/) a más del 150.
+La casa se divide en 3 secciones:
 
-Tiene dos funciones principales:
+## Gimnasio (Gym)
+El gimnasio es un buff de daño, como veréis con las demás secciones, el máximo buff es de un 25%, el gimnasio por tanto hará que hagas un 25% (o el porcentaje que hayas pagado) mas de daño mientras tengas este buff.
 
-- Aumentar la capacidad del [almacén](http://lambda-rr.es/almacen/), a razón de 1% por nivel.
-- Disminuye el tiempo de mejora de las habilidades, a razón de 0,25% por nivel.
+## Librería (Library)
+La librería es un buff que reduce el tiempo de subida de stats, siendo el máximo, como hemos visto anteriormente un 25%, este buff es el menos recomendable si eres nivel bajo ya que, en niveles bajos los tiempos de subida de stats suelen ser cortos y no suele ser rentable usar este buff para ahorrarte unos pocos minutos por el precio que tendrás que pagar
 
-Cuando construir la casa:
+## Taller (Workshop)
+El Taller es un buff de descuento que reduce los recursos que necesitas para producir algo, actualmente, el descuento al producir se basa en tus stats de Fuerza y Educación, este buff afectaría a este descuento ya creado y siendo el máximo de descuento basado en tus stats 50% este buff del taller aumentaría un 25% mas el descuento que tengas, siendo un 12,5% si tienes el descuento de stats al 50%.
 
-- Necesites mucho espacio de almacenamiento, esto sumado a la habilidad Aguante te deja disparar tu espacio de almacenamiento.
-- Cuando tengas las habilidades a más del 150, dado que reduce el tiempo necesario para estudiarlas.
+## Porcentajes de los buffs
 
-![]()
-
-Ejemplo del panel de casa  
-
-#### Limitaciones de la casa
-
-- Solo puede estar construida en una región, eso quiere decir que si mueves tu residencia dejas atrás la casa y sus beneficios.
-- Mover la casa es gratuito aunque sanciona con un 5% del nivel de la misma.
-- Si la región donde se encuentra la casa es conquistada, la misma perderá un 10% de su nivel.
+> El porcentaje que consigas dependerá de lo que hayan pagado otros jugadores respecto a lo que hayas pagado tu, es decir, si hay gente que ha pagado mucho por conseguir el 25% tendras que igualarlos para poder conseguir ese 25% y todos los demás porcentajes inferiores irán marcados por la misma mecánica. 

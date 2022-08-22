@@ -1,6 +1,6 @@
 
-5. Pro
-======
+5. Avanzado
+===========
 
 - [Calculadoras](./Calculadoras.md)
 - [Formulas](./Formulas.md)
