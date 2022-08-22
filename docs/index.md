@@ -31,3 +31,5 @@ Tareas pendientes:
 - [x] Añadir cabecera a las páginas.
 - [x] Añadir barra de busqueda.
 - [x] Añadir sección de historia.
+
+###### tags:`index`
