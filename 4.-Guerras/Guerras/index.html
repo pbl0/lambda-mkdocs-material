@@ -22,10 +22,6 @@
         
         <link rel="stylesheet" href="../../assets/stylesheets/palette.cbb835fc.min.css">
         
-          
-          
-          <meta name="theme-color" content="#ff6e42">
-        
       
       
     
@@ -35,8 +31,8 @@
         
         
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
-        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Ubuntu:300,300i,400,400i,700,700i%7CUbuntu+mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Ubuntu";--md-code-font:"Ubuntu mono"}</style>
       
     
     
@@ -53,12 +49,16 @@
   
     
     
+      
     
     
     
-    <body dir="ltr" data-md-color-scheme="slate" data-md-color-primary="deep-orange" data-md-color-accent="">
+    
+    <body dir="ltr" data-md-color-scheme="slate" data-md-color-primary="deep-orange" data-md-color-accent="orange">
   
     
+    
+      <script>var palette=__md_get("__palette");if(palette&&"object"==typeof palette.color)for(var key of Object.keys(palette.color))document.body.setAttribute("data-md-color-"+key,palette.color[key])</script>
     
     <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
     <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
@@ -104,6 +104,28 @@
         </div>
       </div>
     </div>
+    
+      <form class="md-header__option" data-md-component="palette">
+        
+          
+          
+          <input class="md-option" data-md-color-media="" data-md-color-scheme="slate" data-md-color-primary="deep-orange" data-md-color-accent="orange"  aria-label="Cambiar a modo claro"  type="radio" name="__palette" id="__palette_1">
+          
+            <label class="md-header__button md-icon" title="Cambiar a modo claro" for="__palette_2" hidden>
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 18c-.89 0-1.74-.2-2.5-.55C11.56 16.5 13 14.42 13 12c0-2.42-1.44-4.5-3.5-5.45C10.26 6.2 11.11 6 12 6a6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12 20 8.69Z"/></svg>
+            </label>
+          
+        
+          
+          
+          <input class="md-option" data-md-color-media="" data-md-color-scheme="default" data-md-color-primary="deep-orange" data-md-color-accent="orange"  aria-label="Cambiar a modo oscuro"  type="radio" name="__palette" id="__palette_2">
+          
+            <label class="md-header__button md-icon" title="Cambiar a modo oscuro" for="__palette_1" hidden>
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a4 4 0 0 0-4 4 4 4 0 0 0 4 4 4 4 0 0 0 4-4 4 4 0 0 0-4-4m0 10a6 6 0 0 1-6-6 6 6 0 0 1 6-6 6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12 20 8.69Z"/></svg>
+            </label>
+          
+        
+      </form>
     
     
     
@@ -220,8 +242,6 @@
         
           
         
-          
-        
       
       
         
@@ -280,20 +300,6 @@
     <li class="md-nav__item">
       <a href="../../1.-Perfil/Casa/" class="md-nav__link">
         Casa
-      </a>
-    </li>
-  
-
-            
-          
-            
-              
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../../1.-Perfil/Experiencia-Laboral/" class="md-nav__link">
-        Experiencia Laboral
       </a>
     </li>
   
@@ -829,9 +835,174 @@
         
       
       
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          Guerras
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
       <a href="./" class="md-nav__link md-nav__link--active">
         Guerras
       </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Tabla de contenidos">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Tabla de contenidos
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#realizar-un-ataque" class="md-nav__link">
+    Realizar un ataque
+  </a>
+  
+    <nav class="md-nav" aria-label="Realizar un ataque">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#modos-de-ataque" class="md-nav__link">
+    Modos de ataque
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#tips" class="md-nav__link">
+    Tips
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tipos-de-frentes" class="md-nav__link">
+    Tipos de frentes
+  </a>
+  
+    <nav class="md-nav" aria-label="Tipos de frentes">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#terrestre" class="md-nav__link">
+    Terrestre
+  </a>
+  
+    <nav class="md-nav" aria-label="Terrestre">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#batalla-terrestre" class="md-nav__link">
+    Batalla terrestre
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#frentes-internos" class="md-nav__link">
+    Frentes internos
+  </a>
+  
+    <nav class="md-nav" aria-label="Frentes internos">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#golpe-de-estado" class="md-nav__link">
+    Golpe de estado
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#revolucion" class="md-nav__link">
+    Revolución
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#maritimo" class="md-nav__link">
+    Marítimo
+  </a>
+  
+    <nav class="md-nav" aria-label="Marítimo">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#batalla-naval" class="md-nav__link">
+    Batalla naval
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#espacial" class="md-nav__link">
+    Espacial
+  </a>
+  
+    <nav class="md-nav" aria-label="Espacial">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#batalla-espacial" class="md-nav__link">
+    Batalla espacial
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#batalla-lunar" class="md-nav__link">
+    Batalla lunar
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#resultados-de-batalla" class="md-nav__link">
+    Resultados de batalla
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
       
     </li>
   
@@ -1134,6 +1305,155 @@
     
   
   
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Tabla de contenidos
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#realizar-un-ataque" class="md-nav__link">
+    Realizar un ataque
+  </a>
+  
+    <nav class="md-nav" aria-label="Realizar un ataque">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#modos-de-ataque" class="md-nav__link">
+    Modos de ataque
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#tips" class="md-nav__link">
+    Tips
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tipos-de-frentes" class="md-nav__link">
+    Tipos de frentes
+  </a>
+  
+    <nav class="md-nav" aria-label="Tipos de frentes">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#terrestre" class="md-nav__link">
+    Terrestre
+  </a>
+  
+    <nav class="md-nav" aria-label="Terrestre">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#batalla-terrestre" class="md-nav__link">
+    Batalla terrestre
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#frentes-internos" class="md-nav__link">
+    Frentes internos
+  </a>
+  
+    <nav class="md-nav" aria-label="Frentes internos">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#golpe-de-estado" class="md-nav__link">
+    Golpe de estado
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#revolucion" class="md-nav__link">
+    Revolución
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#maritimo" class="md-nav__link">
+    Marítimo
+  </a>
+  
+    <nav class="md-nav" aria-label="Marítimo">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#batalla-naval" class="md-nav__link">
+    Batalla naval
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#espacial" class="md-nav__link">
+    Espacial
+  </a>
+  
+    <nav class="md-nav" aria-label="Espacial">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#batalla-espacial" class="md-nav__link">
+    Batalla espacial
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#batalla-lunar" class="md-nav__link">
+    Batalla lunar
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#resultados-de-batalla" class="md-nav__link">
+    Resultados de batalla
+  </a>
+  
+</li>
+      
+    </ul>
+  
 </nav>
                   </div>
                 </div>
@@ -1147,28 +1467,35 @@
 
 
 <h1 id="guerras">Guerras</h1>
-<p><strong>Realizar un ataque</strong>:</p>
+<h2 id="realizar-un-ataque">Realizar un ataque</h2>
 <p>Para atacar en un frente, debes seleccionar el frente concreto, seleccionar el botón <em>Enviar mis tropas</em> del frente que apoyas (toma tu tiempo para evitar disgustos), selecciona la tropa que quieres enviar y pulsa <em>Atacar</em> (Botones rojo, azul y verde):</p>
-<p><img alt="" src="https://es.lambda-rr.es/wp-content/uploads/2018/10/IMG_20180716_013724.jpg" /></p>
-<p><strong>Modos de ataque</strong>:</p>
+<p><img class="screenshot" src="/img/posts/guerras/guerra.jpg" alt="Imagen de guerra"/></p>
+<h3 id="modos-de-ataque">Modos de ataque</h3>
 <p>Rojo: Lanzas un único ataque de forma manual. Puedes recargar la barra de energía cada 10 minutos gastando energéticas o esperar a que se recargue más lentamente de forma pasiva y atacar con la energía que tengas.</p>
 <p>Azul (<em>Premium</em>): Ataca cada 10 minutos, gastando energéticas (oro). Máximo daño gastando 180 de oro por hora.</p>
 <p>Verde (<em>Premium</em>): Ataca cada hora usando la Medalla de actividad en guerra. Daño constante sin gastar energéticas ni oro (sólo tropas).</p>
-<p><strong>Tips (LECTURA OBLIGADA)</strong>:</p>
-<p>Al atacar gastas las tropas que seleccionas. Para reponerlas debes comprarlas en el mercado por $. Si te equivocas de frente estás ayudando al enemigo. No te equivoques. La tropa que selecciones se usará esa vez, pero el juego ataca automáticamente con la tropa disponible más numerosa de tu almacén, así que tenlo en cuenta y compra sobretodo aquella que quieras usar preferentemente. La tropa que más se usa en guerra suele ser el tanque, ya que hace más daño. En entrenamiento se suele usar el bombardero (triangular), el más barato. Antes de poner el automático del Premium haz un ataque manual con la barra de energía completa. Esto evita que el daño máximo esté falseado y los ataques sean óptimos.</p>
-<p><strong>TIPOS DE FRENTES</strong>:</p>
-<p><strong>Terrestre</strong>:</p>
-<p><strong><em>Entre países</em></strong></p>
-<p><em>Batalla terrestre:</em> Una región (atacante) de un país ataca la región de otro país de otro bloque (defensor) con el que comparte frontera. Éstas batallas duran 24h y se emplean bombarderos, cazas, tanques y misiles (estos últimos generan radiación). Si se gana la región pasa a formar parte del país atacante junto a su botín.</p>
-<p><strong><em>Dentro del país</em></strong></p>
-<p><em>Golpe de estado</em>: Tres jugadores en una región con desarrollo al nivel 1 presionan el botón de Iniciar golpe. En ese momento se inicia un frente (24h) con bombarderos y cazas sin bonus de nación. Para defender es necesario estar en la región, pero para atacar basta con estar en el mismo mapa (aunque existe penalización por distancia). Pueden iniciarse en la misma región cada 3 días y un jugador sólo puede iniciar una simultáneamente.</p>
-<p><em>Revolución:</em> Tres jugadores en una misma región presionan el botón de Iniciar revolución gastando 75 de oro. En ese momento se inicia un frente (24h) con tropas terrestres sin bonus de nación. Para atacar y defender es necesario estar en la región, y pueden iniciarse a los 3 días de finalizar la anterior.</p>
-<p><strong>Marítimo</strong>:</p>
-<p><em>Batalla naval:</em> Una región con costa (atacante) de un país ataca la región con costa de otro país de otro bloque (defensor) al alcance marítimo (1.500km). Ésta guera dura 48h (mar y desembarco) y se emplean acorazados (mar) y luego tropas terrestres (desembarco). Si se gana la batalla de mar (24h) se inicia el desembarco con el daño inicial del final de la batalla (24h), si se gana este último la región pasa a formar parte del país atacante junto a su botín.</p>
-<p><strong>Espacial</strong>:</p>
-<p><em>Batalla espacial:</em> Una región (atacante) de un país en la Tierra ataca la región de otro país en la Luna de otro bloque (defensor), o viceversa. Ésta guerra dura 24h y se emplean estaciones espaciales, que son muy caras. Si se gana la región pasa a formar parte del país atacante junto a su botín.</p>
-<p><em>Batalla lunar</em>: Una región (atacante) de un país en la Luna ataca la región de otro país de otro bloque (defensor) con el que comparte frontera. Ésta guerra dura 24h y en ella se emplean tanques lunares. Si se gana la guerra, dicha región atacada la pasa a formar parte del país atacante junto a su botín.</p>
-<p><strong>Resultados de batalla</strong>:</p>
+<h3 id="tips">Tips</h3>
+<blockquote>
+<p>Al atacar gastas las tropas que seleccionas. Para reponerlas debes comprarlas en el <a href="/2.-Economia/Comerciar/">mercado</a> por $. Si te equivocas de frente estás ayudando al enemigo. No te equivoques. La tropa que selecciones se usará esa vez, pero el juego ataca automáticamente con la tropa disponible más numerosa de tu almacén, así que tenlo en cuenta y compra sobretodo aquella que quieras usar preferentemente. La tropa que más se usa en guerra suele ser el tanque, ya que hace más daño. En entrenamiento se suele usar el bombardero (triangular), el más barato. Antes de poner el automático del Premium haz un ataque manual con la barra de energía completa. Esto evita que el daño máximo esté falseado y los ataques sean óptimos.</p>
+</blockquote>
+<h2 id="tipos-de-frentes">Tipos de frentes</h2>
+<h3 id="terrestre">Terrestre</h3>
+<h4 id="batalla-terrestre">Batalla terrestre</h4>
+<p>Una región (atacante) de un país ataca la región de otro país de otro bloque (defensor) con el que comparte frontera. Éstas batallas duran 24h y se emplean bombarderos, cazas, tanques y misiles (estos últimos generan radiación). Si se gana la región pasa a formar parte del país atacante junto a su botín.</p>
+<h4 id="frentes-internos">Frentes internos</h4>
+<h5 id="golpe-de-estado">Golpe de estado</h5>
+<p>Tres jugadores en una región con desarrollo al nivel 1 presionan el botón de Iniciar golpe. En ese momento se inicia un frente (24h) con bombarderos y cazas sin bonus de nación. Para defender es necesario estar en la región, pero para atacar basta con estar en el mismo mapa (aunque existe penalización por distancia). Pueden iniciarse en la misma región cada 3 días y un jugador sólo puede iniciar una simultáneamente.</p>
+<h5 id="revolucion">Revolución</h5>
+<p>Tres jugadores en una misma región presionan el botón de Iniciar revolución gastando 75 de oro. En ese momento se inicia un frente (24h) con tropas terrestres sin bonus de nación. Para atacar y defender es necesario estar en la región, y pueden iniciarse a los 3 días de finalizar la anterior.</p>
+<h3 id="maritimo">Marítimo</h3>
+<h4 id="batalla-naval">Batalla naval</h4>
+<p>Una región con costa (atacante) de un país ataca la región con costa de otro país de otro bloque (defensor) al alcance marítimo (1.500km). Ésta guera dura 48h (mar y desembarco) y se emplean acorazados (mar) y luego tropas terrestres (desembarco). Si se gana la batalla de mar (24h) se inicia el desembarco con el daño inicial del final de la batalla (24h), si se gana este último la región pasa a formar parte del país atacante junto a su botín.</p>
+<h3 id="espacial">Espacial</h3>
+<h4 id="batalla-espacial">Batalla espacial</h4>
+<p>Una región (atacante) de un país en la Tierra ataca la región de otro país en la Luna de otro bloque (defensor), o viceversa. Ésta guerra dura 24h y se emplean estaciones espaciales, que son muy caras. Si se gana la región pasa a formar parte del país atacante junto a su botín.</p>
+<h4 id="batalla-lunar">Batalla lunar</h4>
+<p>Una región (atacante) de un país en la Luna ataca la región de otro país de otro bloque (defensor) con el que comparte frontera. Ésta guerra dura 24h y en ella se emplean tanques lunares. Si se gana la guerra, dicha región atacada la pasa a formar parte del país atacante junto a su botín.</p>
+<h2 id="resultados-de-batalla">Resultados de batalla</h2>
 <p>Si se gana una batalla entre dos países, la región conquistada pierde la mitad de sus edificios y el botín obtenido es el equivalente a la mitad del coste de los edificios destruidos. Es decir: La región pierde la mitad de los edificios y el botín es el cuarto del precio de los edificios iniciales.</p>
 <p>En el caso de que se gane una revolución o golpe de estado, la región se vuelve independiente y permanece invulnerable una semana. Comienza el período de elecciones a las 24h. Hay que dejar claro que el país que recibe el golpe pierde la regón sin más pero en el caso de que sea una revolución y gane las fuerzas revolucionarias, el país si posee una Dictadura o Monarquía se transforma en República inmediatamente y comienzan las elecciones.</p>
 <p>En el caso del golpe de estado, aquellos que hayan hecho un daño superior a 5kk (5.000.000) recibirán la residencia automáticamente. Si en el caso de que ganase el defensor no hay ningún efecto en ningún caso.</p>
@@ -1227,7 +1554,7 @@
       <div class="md-copyright">
   
     <div class="md-copyright__highlight">
-      Copyright &copy; 2021 Pablo B
+      Copyright &copy; 2021-2022 Pablo
     </div>
   
   
