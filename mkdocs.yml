@@ -12,4 +12,5 @@ theme:
 markdown_extensions:
   - pymdownx.tasklist:
       custom_checkbox: true
-
+extra_css:
+  - css/styles.css

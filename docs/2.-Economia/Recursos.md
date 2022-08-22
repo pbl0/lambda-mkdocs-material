@@ -16,14 +16,14 @@ Existen varios recursos en el juego, cada uno tiene sus funciones y formas de co
 
 #### Petroleo
 
-- El petróleo es necesario para crear la mayoría de elementos (armamento, subir la casa de nivel, edificios y más).
+- El petróleo es necesario para crear la mayoría de elementos (armamento, subir la [casa](../../1.-Perfil/Casa/) de nivel, edificios y más).
 - Pueden ser obtenidos en fábricas o comprándolos en el almacén.
 - Puede donarse a regiones y países  
     
 
 #### Mineral
 
-- El mineral es necesario para crear la mayoría de elementos (armamento, subir la casa de nivel, edificios y más).
+- El mineral es necesario para crear la mayoría de elementos (armamento, subir la [casa](../../1.-Perfil/Casa/) de nivel, edificios y más).
 - Pueden ser obtenidos en fábricas o comprándolos en el almacén.
 - Puede donarse a regiones y países.
 

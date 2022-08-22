@@ -2,7 +2,8 @@
 
 Los índices de una región son los valores de construcciones principales con los que cuenta dicho territorio. Un valor más elevado ofrece mayores bonificaciones a sus residentes y ciudadanos. Pueden encontrarse en el perfil de la región, en _«Indicadores de la región: Índices»_:
 
-![](/assets/img/posts/indices/indices-screen.jpg)
+
+<img class="screenshot" src="/img/posts/Indices/indices-screen.jpg" alt="Imagen de indices"/>
 
 Indices de una región cualquiera del mundo:
 
