@@ -71,4 +71,4 @@ Esto nos deja un escenario distinto al de las taifas: una parte de la comunidad 
 
 * * *
 
-[*Volver al Índice*](/6. Historia/)
+[*Volver al Índice*](/6.-Historia/)
