@@ -14,3 +14,11 @@ markdown_extensions:
       custom_checkbox: true
 extra_css:
   - css/styles.css
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/brands/github 
+      link: https://github.com/pbl0
+    - icon: fontawesome/solid/link
+      link: https://pablob.eu
+copyright: Copyright &copy; 2021 Pablo B
