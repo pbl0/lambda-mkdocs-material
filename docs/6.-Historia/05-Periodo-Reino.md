@@ -184,4 +184,4 @@ El 2 de julio empiezan a constituirse las primeras Taifas dando comienzo a una n
 
 * * *
 
-[*Volver al Índice*](/6.-Historia/)
+[*Volver al Índice*](../)

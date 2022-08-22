@@ -28,4 +28,4 @@ La República finalizó con el gobierno de Pink Kaiser (que también fue el últ
 
 * * *
 
-[*Volver al Índice*](/6.-Historia/)
+[*Volver al Índice*](../)

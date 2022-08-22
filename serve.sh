@@ -1,3 +1,3 @@
 #!/bin/bash
-
-python nav-generate.py &&  mkdocs serve
+source env/bin/activate
+env/bin/python nav-generate.py && mkdocs serve

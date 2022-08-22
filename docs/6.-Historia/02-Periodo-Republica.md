@@ -248,4 +248,4 @@ La península queda conformada en un modelo federal, subdividida. Es el fin de E
 
 * * *
 
-[*Volver al Índice*](/6.-Historia/)
+[*Volver al Índice*](../)

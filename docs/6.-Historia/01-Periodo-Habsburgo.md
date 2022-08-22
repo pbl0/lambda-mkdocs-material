@@ -18,4 +18,4 @@ El período Habsburgo contado por Tun Ant en sus CRRÓNICAS escritas en 2017-201
 
 * * *
 
-[*Volver al Índice*](/6.-Historia/)
+[*Volver al Índice*](../)

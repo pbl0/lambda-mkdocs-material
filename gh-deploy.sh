@@ -1,3 +1,3 @@
 #!/bin/bash
-
-python nav-generate.py &&  mkdocs gh-deploy
+source env/bin/activate
+env/bin/python nav-generate.py &&  mkdocs gh-deploy
