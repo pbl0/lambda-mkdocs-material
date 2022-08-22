@@ -61,5 +61,5 @@ Para **DIAMANTES** son:
 
 - La exploración profunda **no aumenta los 2500** puntos de oro diario. Eso es inamovible hoy por hoy.
 - Pueden hacerse **una ley por territorio** y de **un único recurso**. A la semana, cuando se termina, puede volver a hacerse del mismo recurso o de otro diferente.
-- Pueden aprobarse **tantas leyes** de exploración profunda **como territorios** tenga la nación.
+- Pueden aprobarse **tantas [leyes](/3.-Politica/Leyes/)** de exploración profunda **como territorios** tenga la nación.
 - En la **Luna** los límites de exploración profunda son diferentes: oro (282), petróleo (no hay), mineral (367), uranio (19) y diamantes (32). Siempre se ven valores mayores de forma natural a los indicados, **salvo en diamantes**, por lo que **no existe la exploración profunda** como tal.

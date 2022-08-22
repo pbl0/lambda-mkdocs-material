@@ -10,7 +10,7 @@ category: politica
 
 **_Nuevo edificio:_**
 
-Construye la cantidad indicada de edificios públicos (no incluidos academias militares y fábricas). Esto tiene un coste correspondiente al número de edificios referentes a la construcción. Éstas leyes pueden aceptarla de forma inmediatamente los dictadores, monarcas, ministros de economía y los gobernadores, estos último en República.
+Construye la cantidad indicada de edificios públicos (no incluidos [academias militares](/1.-Perfil/Academia-Militar/) y fábricas). Esto tiene un coste correspondiente al número de edificios referentes a la construcción. Éstas leyes pueden aceptarla de forma inmediatamente los dictadores, monarcas, ministros de economía y los gobernadores, estos último en República.
 
 **_Exploración de recursos:_**
 
@@ -20,11 +20,11 @@ _**Acuerdo militar:**_
 
 Permite participar en un frente en el que participe la nación con quien compartes el acuerdo desde el territorio de tu nación (Con la respectiva penalización por distancia). Ésta ley también es algo simbólico como garantía de defensa entre naciones, que puede respetarse o no. Sólo pueden aceptarla de forma inmediatamente los dictadores, monarcas y ministros de exteriores.
 
-**_Exploración profunda:_**
+**_[Exploración profunda](/2.-Economia/Exploracion-Profunda/):_**
 
 Aumenta el valor de exploración profunda de un recurso en un territorio durante una semana. Sólo puede haber una activa a la vez por región (puedes tener todas tus regiones con una exploración profunda para cada recurso). Éstas leyes cuestan diamantes, oro y dinero. Ésta ley sólo pueden aceptarla inmediatamente los dictadores, monarcas y ministros de economías.
 
-**_Declaración de guerra:_**
+**_Declaración de [guerra](/4.-Guerras/Guerras):_**
 
 Inicias un frente de ataque desde una región de tu país a otra región de un país de otro bloque con frontera terrestre a esta región. En los frentes terrestres se emplean bombarderos, naves, tanques o misiles (radiación). – Pueden aceptarla inmediatamente los dictadores, monarcas y presidentes con cargo de Comandante (ley).
 

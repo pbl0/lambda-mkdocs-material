@@ -36,19 +36,19 @@ Deja de pertenecer a un estado, **no hay gobierno ni parlamento**. Las fronteras
 
 **1 día** – Comienzan las elecciones parlamentarias en la región. Aquellos que cumplan las 24h de residencia podrán votar por los partidos existentes en la región en el momento de las elecciones.  
 
-**2 días** – Finalizan las elecciones parlamentarias y el Parlamento es funcional. Pueden aprobarse leyes por mayoría tras 24h o inmediatamente en el momento de llegar a la mayoría absoluta.
+**2 días** – Finalizan las elecciones parlamentarias y el Parlamento es funcional. Pueden aprobarse [leyes](/3.-Politica/Leyes/) por mayoría tras 24h o inmediatamente en el momento de llegar a la mayoría absoluta.
 
 **ASEGURAR UNA REGIÓN**
 
 Es preciso **movilizar cuentas** para solicitar residencia en las primeras 24h de independencia y **crear un partido** en la región con el fin de que sea el más votado en las primeras elecciones parlamentarias.
 
-Una vez conseguido el control del Parlamento, sacar las votaciones parlamento y tratar de **aprobar** las leyes de _Cerrar fronteras_ y _Formar estado_ lo antes posible.
+Una vez conseguido el control del Parlamento, sacar las votaciones parlamento y tratar de **aprobar** las [leyes](/3.-Politica/Leyes/) de _Cerrar fronteras_ y _Formar estado_ lo antes posible.
 
     -> Si aún **no se tiene el control del Parlamento**, entrar la mayor cantidad posible de cuentas antes del cierre de fronteras y la formación del estado, ya que aún es posible entrar y conseguir la residencia para elecciones posteriores.
 
     -> Para cerrar las fronteras es necesario que exista **presupuesto para suplir su gasto**, o volverán a abrirse.
 
-    -> Puede **recargarse oro** mediante leyes ordinarias, que a pesar de ser más lentas darán un primer empujón al presupuesto nacional. Este aparece una vez se ha formado el estado, sin ningún recurso.
+    -> Puede **recargarse oro** mediante [leyes](/3.-Politica/Leyes/) ordinarias, que a pesar de ser más lentas darán un primer empujón al presupuesto nacional. Este aparece una vez se ha formado el estado, sin ningún recurso.
 
 Una vez se apruebe la ley de _Formar estado_ comenzarán las **elecciones presidenciales** para formar un gobierno. Aquellos residentes de más de 24h podrán votar. Al día siguiente, el **ganador dirigirá el gobierno** los próximos 5 días, por lo que controlará quién entra y podrá empezar a normalizar la gestión del nuevo estado.
 

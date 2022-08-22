@@ -1,3 +1,3 @@
 #!/bin/bash
 source env/bin/activate
-env/bin/python nav-generate.py && mkdocs serve
+env/bin/python generate-indexs.py && mkdocs serve

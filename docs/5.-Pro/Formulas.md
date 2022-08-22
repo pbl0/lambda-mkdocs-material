@@ -8,7 +8,7 @@ category: pro
 
 **Fórmula de daño**:
 
-\[1 + Índice militar/20 + Sistema de Misiles/400 + Puerto naval/400 + Aeropuerto/400 + Academia militar/400 + Fuerza/100 + Bonus de Nación X 3 + (Educación + Aguante + Nivel)/200\]
+\[1 + Índice militar/20 + Sistema de Misiles/400 + Puerto naval/400 + Aeropuerto/400 + [Academia militar](/1.-Perfil/Academia-Militar/)/400 + Fuerza/100 + Bonus de Nación X 3 + (Educación + Aguante + Nivel)/200\]
 
 X α-daño de las tropas
 

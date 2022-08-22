@@ -18,18 +18,33 @@ Empieza por [primeros pasos](./1.-Perfil/01-Primeros-Pasos).
 Si quieres colaborar con el proyecto puedes contribuir de varias maneras. Algunas de las cuales las tengo apuntadas aqui debajo. 
 
 Para editar o añadir páginas habla con [@pablo_rr](https://t.me/pablo_rr).
-Se recomienda leer esta [guía de markdown](https://docs.github.com/es/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax). 
+Se recomienda leer esta [guía de markdown](https://docs.github.com/es/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 Tareas pendientes:
 
 - [ ] Corregir tablas rotas
 - [ ] Sacar nuevas capturas de pantalla.
+    - [x] Academia militar
+    - [x] Guerras 
+    - [ ] Casa
+    - [ ] Exp. laboral
+    - [ ] Almacen
+    - [ ] Comerciar
+    - [ ] Contaminación
+    - [ ]  Departamentos
+    - [ ] Subastas de fábricas
+    - [ ] Trabajar
+    - [ ] Autonomias
+    - [ ] Bloque
+    - [ ] Formas de gobierno
+    - [ ] Votar
+    - [ ] Entrenamiento militar
 - [ ] Actualizar incorrecciones.
 - [ ] Guia Nueva Casa.
 - [ ] Borrar articulos innecesarios o redundantes.
 - [ ] Añadir nuevo contenido del discord.
+- [ ] Arreglar tablas de contenido
 - [x] Mejorar diseño
-- [x] Añadir cabecera a las páginas.
 - [x] Añadir barra de busqueda.
 - [x] Añadir sección de historia.
 
