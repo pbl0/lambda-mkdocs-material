@@ -22,17 +22,20 @@ theme:
         icon: material/brightness-7 
         name: Cambiar a modo oscuro
   features:
+    - navigation.instant
     - navigation.indexes
+    - navigation.top
 markdown_extensions:
   - pymdownx.tasklist:
       custom_checkbox: true
 extra_css:
   - css/styles.css
 extra:
+  link_copyright: https://github.com/pbl0/
   generator: false
   social:
     - icon: fontawesome/brands/github 
-      link: https://github.com/pbl0
+      link: https://github.com/pbl0/lambda-rr
     - icon: fontawesome/solid/link
       link: https://pablob.eu
 copyright: Copyright &copy; 2021-2022 Pablo
