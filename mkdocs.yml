@@ -4,6 +4,7 @@ theme:
   logo: img/lambda.svg  
   favicon: img/favicon.png  
   language: es
+  custom_dir: overrides
   font:
     text: Ubuntu
     code: Ubuntu mono
