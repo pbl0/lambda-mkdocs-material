@@ -29,7 +29,7 @@ x: Distancia (km)
 Distancia máxima sin penalización: 500km
 ```
 
-## Penalización a la recarga de energía por contaminación
+## Penalización por contaminación
 ```
 y = 0,09x^0,8
 
@@ -39,7 +39,7 @@ x: Contaminación (uds)
 ```
 > **Nota:** A partir de radiación ```48,5``` el tiempo de recarga es mayor que el tiempo de trabajo automático ```(2%, 12 seg)```, por lo que se deja de conseguir oro.
 
-## Obtención de experiencia de nivel por diferentes actividades
+## Experiencia de nivel
 
 ### Trabajo
 
@@ -69,7 +69,7 @@ y: Experiencia de nivel (Exp)
 x: Daño producido (uds)
 ```
 
-## Capacidad de fábricas de recursos por nivel y recurso
+## Capacidad de fábricas
 
 ### Petróleo
 
@@ -106,7 +106,7 @@ x: Nivel de la fábrica (uds)
 ```
 > **Nota:** Ninguna de ellas presenta un límite de almacenaje de dinero (€).
 
-## Obtención de experiencia laboral por energía trabajada
+## Experiencia laboral
 
 - Sin mentores (normal): ```y = x/10```
 
@@ -171,3 +171,94 @@ c: Nivel de Resistencia (uds)
 - Acorazados: ```900```
 - Tanques Lunares: ```900```
 - Estación Espacial:  ```360```
+
+
+## Huecos por nivel de fábrica
+> Calculada por **Joan Rovira**
+```
+y = 0,28x + 0,98
+
+y: Huecos de la fábrica (usuarios)
+x: Nivel de fábrica (uds)
+```
+
+
+## Daño inicial en un frente
+```
+x = 450.000c
+y = 50.000a + 100.000b + 450.000c
+
+x: Daño inicial en ataque 
+y: Daño inicial en defensa
+a: Número de edificios totales (sin viviendas ni academias ni bases militares)
+b: Bases militares
+c: Academias militares
+```
+
+## Coste de construcción de edificios
+
+### Hospitales
+- Dinero: ```y = 5.196x^1,5```
+- Oro: ```y = 100.388x^1,5```
+- Petróleo: ```y = 2.024x^1,5```
+- Mineral: ```y = 854x^1,5```
+
+### Bases militares
+- Dinero: ```y = 5.196x^1,5```
+- Oro: ```y = 100.388x^1,5```
+- Petróleo: ```y = 2.024x^1,5```
+- Mineral: ```y = 854x^1,5```
+
+### Escuelas
+- Dinero: ```y = 5.196x^1,5```
+- Oro: ```y = 100.388x^1,5```
+- Petróleo: ```y = 2.024x^1,5```
+- Mineral: ```y = 854x^1,5```
+
+### Viviendas
+- Dinero: ```y = 164x^1,5```
+- Oro: ```y = 3.175x^1,5```
+- Petróleo: ```y = 64x^1,5```
+- Mineral: ```y = 27x^1,5```
+
+### Misiles
+- Dinero: ```y = 31.623x^1,5```
+- Oro: ```y = 2.415x^1,5```
+- Petróleo: ```y = 32x^1,5```
+- Mineral: ```y = 32x^1,5```
+- Diamantes: ```y = 5x^1,5```
+
+### Aeropuertos
+- Dinero: ```y = 31.623x^1,5```
+- Oro: ```y = 2.415x^1,5```
+- Petróleo: ```y = 32x^1,5```
+- Mineral: ```y = 32x^1,5```
+- Diamantes: ```y = 5x^1,5```
+
+### Puertos
+- Dinero: ```y = 31.623x^1,5```
+- Oro: ```y = 2.415x^1,5```
+- Petróleo: ```y = 32x^1,5```
+- Mineral: ```y = 32x^1,5```
+- Diamantes: ```y = 5x^1,5```
+
+### Puertos espaciales
+- Dinero: ```y = 464.758x^1,5```
+- Oro: ```y = 2.415x^1,5```
+- Petróleo: ```y = 164x^1,5```
+- Mineral: ```y = 125x^1,5```
+- Uranio: ```y = 164x^1,5```
+- Diamantes: ```y = 5x^1,5```
+
+### Plantas de energía
+- Dinero: ```y = 89.443x^1,5```
+- Oro: ```y = 854x^1,5```
+- Petróleo: ```y = 125x^1,5```
+- Mineral: ```y = 125x^1,5```
+- Uranio: ```y = 89x^1,5```
+- Diamantes: ```y = 3x^1,5```
+
+```
+y: Coste de un edificio más 
+x: Número del edificio construido
+```
