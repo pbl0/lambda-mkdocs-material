@@ -1,9 +1,3 @@
----
-layout: default
-title: Leyes
-rank: 3
-category: politica
----
 # Leyes
 
 **LEYES TÍPICAS**
