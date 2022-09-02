@@ -8,7 +8,7 @@ La nueva web de lambda surge para mantener accesible desde la web el contenido e
 
 El proyecto original fue creado por Alexia/Yuuuh/Elsa, antiguo jugador de RR que inició y mantuvo la web y sus costes hasta su cierre en octubre del 2021. 
 
-La nueva página no tiene animos de lucro, ni tendrá anuncios y tampoco tiene costes de hosteo o dominios.
+La nueva página no tiene animos de lucro, ni tendrá anuncios ni tampoco tiene costes de hosteo o dominios.
 
 ##  ¿Eres nuevo en RR?
 Empieza por [primeros pasos](/01-Primeros-Pasos).
