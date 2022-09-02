@@ -4,7 +4,7 @@
 ### 2019
 * * *
 
--12/06/19 - Dinamitar Azores (mensaje de Tun)
+**12/06/19 - Dinamitar Azores (mensaje de Tun):**
 El último buffer de las Taifas es independizado por revolución una vez termina el periodo de paz de sus islas fronterizas, desapareciendo así el último estado defendor 
 previo a la invasión. La guerra civil se torna revolucionaria entre los diferentes buffer de Caucasian en la Península.
 
@@ -13,7 +13,7 @@ Por otro lado, los partidarios de Epona se organizan en dos movimientos: primero
 
 Con el deterioro de Caucasian Federation, la comunidad decide dejar de lado la espiral de destrucción en la que había entrado (reventarse los unos a los otros cada vez que surgía la oportunidad. Tengamos en cuenta la cantidad de guerras civiles que se han producido). Así se entabla un diálogo entre las dos partes de la comunidad con el objetivo de crear un proyecto común que consistiría en una república regida por las reglas del juego (elecciones cada 5 días) donde podrían participar todos. Mientras duraros los debates de construcción hubo un gobierno de regencia dirigido por Geralt. Cuando se dio el pistoletazo de salida, Geralt abdicó y convocó elecciones que ganó Erik B convirtiéndose en el primer presidente del segundo proyecto republicano de la comunidad.
 
-15/09/19 - Primer segundo gobierno (mensaje de Tun)
+**15/09/19 - Primer segundo gobierno (mensaje de Tun):**
 La Segunda República Española establece su primer gobierno con Erik B como presidente. Se establecen sus señas de identidad, sus políticas y sus servicios del BOE.
 
 La segunda república española estuvo marcada por una constante inestabilidad producida por las presiones de los jugadores más veteranos, el constante enfrentamiento entre las coaliciones que se formaron y sobre todo por regirse únicamente por las reglas del juego ingame. 

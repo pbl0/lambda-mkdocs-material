@@ -30,7 +30,7 @@
 
 ![Imagen taifas](https://cdn.discordapp.com/attachments/860477538128101376/863117824519176282/Screenshot_20210709-200048.png)
 
-**09/07/21** - República central.
+**09/07/21 - República central:**
 
 Se presenta el proyecto de la República central que consiste en una república ingame en las regiones de CLM y C. madrid. Se trata de un proyecto para que los partidos más nuevos tengan la posibilidad de llevar un estado.
 
@@ -50,15 +50,15 @@ Han habido algunas polémicas como que Dinastía Borbónica, partido en el gobie
 
 Luego, a nivel internacional, RC se decide que sea un estado neutral que no participa en ninguno de los bloques españoles que han surgido desde la caída de LBA. Eso sí, a su vez, el resto de taifas de la península velan por la seguridad de RC.
 
-**10/08/21** - neutralidad.
+**10/08/21 - neutralidad:**
 A propósito de la neutralidad de RC, se ha subido un [artículo](https://rivalregions.com/#news/show/3271441) hoy que condena la participación de cualquier cargo ingame de la república en guerras fuera de la comunidad con la destitución inmediata.
 
-**24/08/21** - Ataque a Madeira.
+**24/08/21 - Ataque a Madeira:**
 Los portugueses, en su intento de reunir las regiones nativas, atacan Madeira. Lo que queda del Lolireich ya descompuesto trata de defender desesperadamente la región que tanto cariño le han tenido, pero la guerra parece estar lista para sentencia incluso antes de que se iniciara.
 
 [Link de la guerra](https://m.rivalregions.com/#war/details/408875)
 
-**27/08/21** - Conflicto en RC.
+**27/08/21 - Conflicto en RC:**
 RC pasa por una pequeña crisis política que hoy se ha plasmado en los artículos. La coalición de gobierno se ha peleado y se ha disuelto. A raíz de esto, ha habido algo de tensión en RC cuando, desde el exterior, se ha visto la situación y han pedido explicación a los integrantes del gobierno de RC, aunque la cosa no ha ido a más.
 
 ¿Cómo podemos decir que acaba el periodo de taifas 2?

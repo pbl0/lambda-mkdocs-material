@@ -1,12 +1,12 @@
 # Home
 
-## Qué es Lambda y LambdaWeb?
+## Qué es Lambda?
 
 Lambda es un servidor discord creado y mantenido por la comunidad española de Rival Regions con el objetivo de educar a los nuevos jugadores del juego.
 
-La nueva LambdaWeb surge para mantener accesible desde la web el contenido educativo creado en el mitico servidor discord del Lambda y que a su vez sea facilmente actualizado por la propia comunidad.
+La nueva web de lambda surge para mantener accesible desde la web el contenido educativo creado en el mitico servidor discord del Lambda y que a su vez sea facilmente actualizado por la propia comunidad.
 
-El proyecto original fue creado por Alexia/Yuuuh/Elsa, antiguo jugador de RR que inició y mantuvo el proyecto y sus costes hasta su cierre en octubre del 2021. 
+El proyecto original fue creado por Alexia/Yuuuh/Elsa, antiguo jugador de RR que inició y mantuvo la web y sus costes hasta su cierre en octubre del 2021. 
 
 La nueva página no tiene animos de lucro, ni tendrá anuncios y tampoco tiene costes de hosteo o dominios.
 
