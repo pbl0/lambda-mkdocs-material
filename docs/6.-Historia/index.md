@@ -22,4 +22,8 @@ Fue escrita en su momento inicial por **[Tun Ant](https://rivalregions.com/#slid
 
 - [Período Segundas Taifas](./06-Periodo-Taifas2021) - 2021-Actualidad?
 
-Y aquí termina el relato contado por Tun Ant y Erik B. Si quieres aportar con la continuación de la sección accede al Discord del Lambda.
+## Se buscan historiadores voluntarios
+
+Y aquí termina el relato contado por Tun Ant y Erik B. Por cosas del destino ambos han abandonado el juego y por tanto la historia de España en RR está inacabada. Si quieres aportar con la continuación de la sección, contacta con [@pablo_rr](https://t.me/pablo_rr).
+
+> El pueblo que no conoce su historia está condenado a repetirla

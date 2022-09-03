@@ -1,24 +1,20 @@
----
-layout: default
-title: Tablas del juego
-rank: 3
-category: pro
----
 # Tablas del Juego
 
-_Patrocinado por AlphaBay_
+## Estado
 
-#### Estado
+Podemos ver el gasto por cada estado existente haciendo clic [aquí.](https://rivalregions.com/#listed/states_details)
 
-Podemos ver el gasto por cada estado existente en la siguiente página: [Enlace PC](https://rivalregions.com/#listed/states_details) / [Enlace Móvil](https://m.rivalregions.com/#listed/states_details)
+## Partidos
 
-#### Partidos
+[Listado de partidos.](http://rivalregions.com/#listed/parties)
 
-Listado de partidos – [Enlace PC](http://rivalregions.com/#listed/parties) / [Enlace Móvil](http://m.rivalregions.com/#listed/parties)
+## Índices
 
-#### Índices
+> Regiones ordenadas por su nivel en cada índice.
 
-Regiones ordenadas por su nivel de Sanidad:  [Enlace PC](https://rivalregions.com/#listed/country/-2/0/hospital) / [Enlace Móvil](https://m.rivalregions.com/#listed/country/-2/0/hospital)  
-Regiones ordenadas por su nivel de Educación: [Enlace PC](https://rivalregions.com/#listed/country/-2/0/school) / [Enlace Móvil](https://m.rivalregions.com/#listed/country/-2/0/school)  
-Regiones ordenadas por su nivel militar: [Enlace PC](https://rivalregions.com/#listed/country/-2/0/military) / [Enlace Móvil](https://m.rivalregions.com/#listed/country/-2/0/military)  
-Regiones ordenadas por su nivel de desarrollo: [Enlace](https://rivalregions.com/#listed/country/-2/0/homes) / [Enlace Móvil](https://m.rivalregions.com/#listed/country/-2/0/homes)
+- [Sanidad](https://rivalregions.com/#listed/country/-2/0/hospital)
+- [Educación](https://rivalregions.com/#listed/country/-2/0/school) 
+- [militar](https://rivalregions.com/#listed/country/-2/0/military)
+- [desarrollo](https://rivalregions.com/#listed/country/-2/0/homes)
+
+> **Recomendado:** el script [BetterIndex](https://rr-tools.eu/mod/2)

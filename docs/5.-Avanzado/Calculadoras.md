@@ -1,9 +1,3 @@
----
-layout: default
-title: Calculadoras
-rank: 2
-category: pro
----
 # Calculadoras
 
-[https://rr-tools.eu](https://rr-tools.eu)
+Calculadora y bots creados por @pablo_rr [https://rr-tools.eu](https://rr-tools.eu)
