@@ -1,7 +1,5 @@
 # Tropas
 
-**UNIDADES**
-
 ## Tanques
 Se emplean en batallas terrestres entre países y revoluciones. El precio oscila actualmente entre los 8k$ y 12k$. Se usan en cantidades muy grandes. Éstas tropas se usan preferentemente en guerra al hacer más daño que el resto por ataque.
 
