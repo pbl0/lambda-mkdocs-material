@@ -3,52 +3,52 @@
 Existen varios recursos en el juego, cada uno tiene sus funciones y formas de conseguirlo
 
 ## Recursos
-#### Dinero
+### Dinero
 
 - El más común y sencillo. Según la traducción del usuario puede tener un símbolo u otro, pero todos son el mismo valor (no hay moneda de países ni nada).
 - Se necesita para comprar otros recursos, excepto el oro.
 - Se puede conseguir mediante trabajo en fábricas de oro.
 
-#### Oro
+### Oro
 
 - Es la Moneda de pago del juego.
 - Se puede conseguir mediante trabajo en fábricas de oro.
 - Puede donarse a regiones y países
 
-#### Petroleo
+### Petroleo
 
 - El petróleo es necesario para crear la mayoría de elementos (armamento, subir la [casa](../../1.-Perfil/Casa/) de nivel, edificios y más).
 - Pueden ser obtenidos en fábricas o comprándolos en el almacén.
 - Puede donarse a regiones y países  
     
 
-#### Mineral
+### Mineral
 
 - El mineral es necesario para crear la mayoría de elementos (armamento, subir la [casa](../../1.-Perfil/Casa/) de nivel, edificios y más).
 - Pueden ser obtenidos en fábricas o comprándolos en el almacén.
 - Puede donarse a regiones y países.
 
-#### Uranio
+### Uranio
 
 - El uranio es un tipo de recurso, que es necesario para crear Anti-radiación, misiles balísticos, Tanques lunares y estaciones espaciales.
 - Pueden ser obtenidos en fábricas o comprándolos en el almacén.
 - Puede donarse a regiones y países.
 
-#### Diamantes
+### Diamantes
 
 - Los diamantes son un tipo de recurso, que es necesario para crear Anti-radiación, misiles balísticos, Tanques lunares y estaciones espaciales.
 - Pueden ser obtenidos en fábricas o comprándolos en el almacén.
 - Puede donarse a regiones y países.  
     
 
-#### Oxigeno Líquido
+### Oxigeno Líquido
 
 - Necesario para la producción de cohetes espaciales, tanques lunares y estaciones espaciales.
 - Pueden ser obtenidos en fábricas o comprándolos en el almacén.
 - Sólo se encuentra en el planeta tierra.  
     
 
-#### Helio 3
+### Helio 3
 
 - Necesario para la producción de estaciones espaciales.
 - Pueden ser obtenidos en fábricas o comprándolos en el almacén.
