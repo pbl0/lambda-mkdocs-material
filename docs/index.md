@@ -1,6 +1,6 @@
 # Home
 
-## Qué es Lambda?
+## ¿Qué es Lambda?
 
 Lambda es un servidor discord creado y mantenido por la comunidad española de Rival Regions con el objetivo de educar a los nuevos jugadores del juego.
 
@@ -15,7 +15,7 @@ Empieza por [primeros pasos](/01-Primeros-Pasos).
 
 ## Colaborar
 
-Si quieres colaborar con el proyecto puedes contribuir de varias maneras. Algunas de las cuales las tengo apuntadas aqui debajo. 
+Si quieres colaborar con Lambda puedes aportar de varias maneras. Algunas de las cuales las tengo apuntadas aqui debajo. 
 
 Para editar o añadir páginas habla con [@pablo_rr](https://t.me/pablo_rr).
 Se recomienda leer esta [guía de markdown](https://docs.github.com/es/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
