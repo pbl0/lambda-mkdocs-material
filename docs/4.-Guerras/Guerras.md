@@ -1,9 +1,3 @@
----
-layout: default
-title: Guerras
-rank: 2
-category: guerras
----
 # Guerras
 
 ## Realizar un ataque
