@@ -39,6 +39,7 @@ Tareas pendientes:
     - [ ] Formas de gobierno
     - [ ] Votar
     - [x] Entrenamiento militar
+    - [x] Tropas
 - [ ] Actualizar incorrecciones.
 - [x] Guia Nueva Casa.
 - [ ] Borrar articulos innecesarios o redundantes.
