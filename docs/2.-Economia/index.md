@@ -9,6 +9,7 @@
 - [Departamentos](./Departamentos.md)
 - [Experiencia Laboral](./Experiencia-Laboral.md)
 - [Exploracion Profunda](./Exploracion-Profunda.md)
+- [Impuestos](./Impuestos.md)
 - [Indices](./Indices.md)
 - [Mercado Estatal](./Mercado-Estatal.md)
 - [Recursos](./Recursos.md)

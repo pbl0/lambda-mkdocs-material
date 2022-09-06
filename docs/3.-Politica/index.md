@@ -8,5 +8,5 @@
 - [Formas de gobierno](./Formas-de-gobierno.md)
 - [Independencia](./Independencia.md)
 - [Leyes](./Leyes.md)
-- [Votacion en el Parlamento](./Votacion-en-el-Parlamento.md)
+- [Parlamento](./Parlamento.md)
 - [Votar](./Votar.md)
