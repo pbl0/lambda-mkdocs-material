@@ -26,4 +26,4 @@ Se emplean en batallas lunares exclusivamente. El precio oscila actualmente entr
 Se emplean en batallas espaciales exclusivamente. El precio oscila actualmente entre los 7kk$ y 13kk$. Son muy caras. Se usan en cantidades muy pequeñas. Estas tropas se usan frecuentemente en conflictos lunares, y sufren un incremento enorme en el precio cuando tienen lugar.
 
 ## Drones láser
-Se pueden usar en todas las batallas. El precio oscila actualmente entre los 175kk$ y 200kk$. Son extremadamente caros. Se usan en cantidades muy pequeñas y sufren un incremente enorme en el precio cuando hay guerras, es recomendable usarlos únicamente en batallas importantes, por su elevado coste, producen un 100% más de daño del normal.
+Se pueden usar en todas las batallas. El precio oscila actualmente entre los 175kk$ y 200kk$. Son extremadamente caros. Se usan en cantidades muy pequeñas y sufren un incremente enorme en el precio cuando hay guerras, es recomendable usarlos únicamente en batallas importantes, por su elevado coste, producen un 35% más de daño del normal.
