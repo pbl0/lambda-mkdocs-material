@@ -1,13 +1,18 @@
 # Índices
 
-Los índices de una región son los valores de construcciones principales con los que cuenta dicho territorio. Un valor más elevado ofrece mayores bonificaciones a sus residentes y ciudadanos. Pueden encontrarse en el perfil de la región, en _«Indicadores de la región: Índices»_:
+Los índices de una región son los valores de construcciones principales con los que cuenta dicho territorio. Un valor más elevado ofrece mayores bonificaciones a sus residentes y ciudadanos. Pueden encontrarse en el perfil de la región, en _Indicadores de la región: Índices_.
 
 
-<img class="screenshot" src="/img/posts/Indices/indices-screen.jpg" alt="Imagen de indices"/>
+<figure markdown>
+  ![Imagen de índices](/img/posts/Indices/indices-screen.jpg){ .screenshot loading=lazy }
+  <figcaption>Índices</figcaption>
+</figure>
 
 Indices de una región cualquiera del mundo:
 
-1. **Medicina**: Aumenta los puntos de energía recuperada automáticamente cada 10 minutos. Esto depende del número de hospitales de la región. La medicina es de los índices más cotizados y caros de llevar a cabo, por ello a veces es complicado elevar éste índice, no hace falta decir que aún así todas las regiones persiguen tener el mejor índice.
+## Medicina
+
+Aumenta los puntos de energía recuperada automáticamente cada 10 minutos. Esto depende del número de hospitales de la región. La medicina es de los índices más cotizados y caros de llevar a cabo, por ello a veces es complicado elevar éste índice, no hace falta decir que aún así todas las regiones persiguen tener el mejor índice.
 
 | **Nivel** | **Energia** | **Energia Diaria (Oro diario)**  |
 |-----------|-------------|----------------------------------|
@@ -22,17 +27,22 @@ Indices de una región cualquiera del mundo:
 
 * * *
 
-2. **Militar**: Aumenta el daño que se infligen desde la región en caso de guerra, esto depende del número de bases militares. Éste índice es algo cotizado, barato para elevar al principio, pero caro para hacerlo al máximo no por ello no se puede decir que haya bastantes regiones que persiguan tener el mejor índice.
+## Militar
 
-    - **Valores**: Aumenta de forma aritmética con el nivel, a razón de un 5% por nivel.
+Aumenta el daño que se infligen desde la región en caso de guerra, esto depende del número de bases militares. Éste índice es algo cotizado, barato para elevar al principio, pero caro para hacerlo al máximo no por ello no se puede decir que haya bastantes regiones que persiguan tener el mejor índice.
 
-3. **Educación**: Disminuye el tiempo de mejora de stats. Éste índice depende del número de escuelas que posea la región. Suele ser unos de los índices menos cotizado, pero hay que dejar claro que es fácil de elevar al principio, pero se va encareciendo cada vez más a medida que se van construyendo y llegando a nivel máximo. Éste índice no es uno de los que más se persiguen.
+- **Valores**: Aumenta de forma aritmética con el nivel, a razón de un 5% por nivel.
 
-    - **Valores**: Disminuye de forma aritmética con el nivel, a razón de un X% por nivel. Del 10 al 11 disminuye un X%, X% con respecto al nivel 1.  
+## Educación
+Disminuye el tiempo de mejora de stats. Éste índice depende del número de escuelas que posea la región. Suele ser unos de los índices menos cotizado, pero hay que dejar claro que es fácil de elevar al principio, pero se va encareciendo cada vez más a medida que se van construyendo y llegando a nivel máximo. Éste índice no es uno de los que más se persiguen.
 
-4. **Desarrollo**: Aumenta el dinero que reciben los cargos públicos al mando de las regiones. Las regiones al desarrollo 1 pueden sufrir golpes de estado (además de revoluciones) y éste índice está supeditado al número de viviendas. Hay que decir que es de los más cotizados al principio y muy caro de elevar, por eso la gran mayoría no pasa más allá del índice 2-3. Todas las regiones persiguen tener el índice al nivel 2, cómo mínimo, para no recibir golpes de estado.
+- **Valores**: Disminuye de forma aritmética con el nivel, a razón de un X% por nivel. Del 10 al 11 disminuye un X%, X% con respecto al nivel 1.  
 
-    - **Valores:**
+## Desarrollo
+
+Aumenta el dinero que reciben los cargos públicos al mando de las regiones. Las regiones al desarrollo 1 pueden sufrir golpes de estado (además de revoluciones) y éste índice está supeditado al número de viviendas. Hay que decir que es de los más cotizados al principio y muy caro de elevar, por eso la gran mayoría no pasa más allá del índice 2-3. Todas las regiones persiguen tener el índice al nivel 2, cómo mínimo, para no recibir golpes de estado.
+
+- **Valores:**
 
 | **Nivel**  |  **Estado** |  **Efectos** |
 |--:|---|---|
@@ -41,7 +51,7 @@ Indices de una región cualquiera del mundo:
 | 6-11  |  Desarrollado | Permite generar mas oro diario a los líderes del país y autonomía.  |
 
 
-### Asignación de Índices
+## Asignación de Índices
 
 El valor del nivel en una región se le atribuye con respecto al número de construcciones del tipo de edificio concreto en el ranking mundial. Es decir:
 
@@ -53,7 +63,7 @@ El valor del nivel en una región se le atribuye con respecto al número de cons
 
 - El valor de edificios totales se calcula teniendo en cuenta todos los edificios de la región, salvo misiles y puertos, donde sólo se tendrá el más alto de los dos en cuenta.
 
-### Clasificación de Regiones con respecto al número de edificios de cada índice:
+## Clasificación de regiones
 
 
 - [Medicina](http://rivalregions.com/#listed/country/-2/0/hospital)

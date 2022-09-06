@@ -2,7 +2,13 @@
 
 La casa es actualmente un conjunto de buffs de pago que duran una semana, no es recomendable usarla si eres de nivel bajo, ya que, los costes si quieres tener un buff decente, van a costar mucho dinero.
 
-<img class="screenshot" src="/img/posts/casa/casa.jpg" alt="Imagen de casa"/>
+
+<figure markdown>
+  ![Imagen de casa](/img/posts/casa/casa.jpg){ .screenshot loading=lazy }
+  <figcaption>Casa</figcaption>
+</figure>
+
+* * *
 
 La casa se divide en 3 secciones:
 

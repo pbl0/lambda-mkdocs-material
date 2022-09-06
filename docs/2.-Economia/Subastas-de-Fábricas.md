@@ -4,11 +4,17 @@ Subastar es publicar una fábrica con el fin de que otros jugadores pujen por el
 
 - En las subastas, que se encuentran en la pestaña de inicio seleccionando los tres puntos, puedes pujar por fábricas (de otros usuarios por oro), oro (del administrador por dinero) o Premium (del administrador por dinero).
 
-![](https://es.lambda-rr.es/wp-content/uploads/2018/10/IMG_20180812_105343.jpg)
+<figure markdown>
+  ![Imagen del almacén](/img/posts/subastas/subastas.jpg){ .screenshot loading=lazy }
+  <figcaption>Botón de subastas</figcaption>
+</figure>
 
 - Desde aquí puedes ver las ofertas que hay, el tiempo hasta su vencimiento (generalmente el en fin del día) y pujar por ellas.
 
-![](https://es.lambda-rr.es/wp-content/uploads/2018/10/Screenshot_2018-08-12-10-51-19-598_com.android.chrome_2.png)
+<figure markdown>
+  ![Imagen del almacén](/img/posts/subastas/subastas2.png){ .screenshot loading=lazy }
+  <figcaption>Subastas</figcaption>
+</figure>
 
 - Puedes subastar una fábrica desde el perfil de tu fábrica, en el modo edición.
 - Debe ser de nivel 100 o superior y será seleccionada dependiendo del mercado y la disponibilidad con respecto al recurso del que sea, priorizando aquellas de mayor nivel.

@@ -4,11 +4,11 @@
 
 Lambda es un servidor discord creado y mantenido por la comunidad española de Rival Regions con el objetivo de educar a los nuevos jugadores del juego.
 
-La nueva web de lambda surge para mantener accesible desde la web el contenido educativo creado en el mitico servidor discord del Lambda y que a su vez sea facilmente actualizado por la propia comunidad.
+La web de lambda surge para mantener accesible desde la web el contenido educativo creado en el mítico servidor discord del Lambda y que a su vez sea fácilmente actualizado por la propia comunidad.
 
-El proyecto original fue creado por Alexia/Yuuuh/Elsa, antiguo jugador de RR que inició y mantuvo la web y sus costes hasta su cierre en octubre del 2021. 
+El proyecto original fue creado por Alexia/Yuuuh/Elsa, antiguo jugador de RR que creó mantuvo la web, y sus costes hasta su cierre en octubre del 2021. 
 
-La nueva página no tiene animos de lucro, ni tendrá anuncios ni tampoco tiene costes de hosteo o dominios.
+La nueva página no tiene ánimos de lucro, ni tendrá anuncios ni tampoco tiene costes de hosteo o dominios.
 
 ##  ¿Eres nuevo en RR?
 Empieza por [primeros pasos](/01-Primeros-Pasos).
@@ -22,30 +22,37 @@ Se recomienda leer esta [guía de markdown](https://docs.github.com/es/github/wr
 
 Tareas pendientes:
 
-- [ ] Corregir tablas rotas
-- [ ] Sacar nuevas capturas de pantalla.
-    - [x] Academia militar
-    - [x] Guerras 
-    - [x] Casa
-    - [x] Exp. laboral
-    - [x] Almacen
-    - [ ] Comerciar
-    - [ ] Contaminación
-    - [ ] Departamentos
-    - [ ] Subastas de fábricas
-    - [ ] Trabajar
-    - [ ] Autonomias
-    - [ ] Bloque
+
+- [ ] Revisar actualizaciones del juego.
+- [ ] Añadir nuevo contenido del discord.
+- [ ] Sacar nuevas capturas de pantalla:
     - [ ] Formas de gobierno
     - [ ] Votar
-    - [x] Entrenamiento militar
-    - [x] Tropas
-- [ ] Actualizar incorrecciones.
-- [x] Guia Nueva Casa.
-- [ ] Borrar articulos innecesarios o redundantes.
-- [ ] Añadir nuevo contenido del discord.
-    - [x] Daño alpha
-- [ ] Arreglar tablas de contenido
-- [x] Mejorar diseño
-- [x] Añadir barra de busqueda.
-- [x] Añadir sección de historia.
+    - [ ] Contaminación
+    - [x] ~~Academia militar~~
+    - [x] ~~Guerras~~
+    - [x] ~~Casa~~
+    - [x] ~~Exp. laboral~~
+    - [x] ~~Almacen~~
+    - [x] ~~Comerciar~~
+    - [x] ~~Departamentos~~
+    - [x] ~~Subastas de fábricas~~
+    - [x] ~~Trabajar~~
+    - [x] ~~Autonomias~~
+    - [x] ~~Bloque~~
+    - [x] ~~Entrenamiento militar~~
+    - [x] ~~Tropas~~
+    - [x] ~~Parlamento~~
+    - [x] ~~Daño alpha~~
+- [x] ~~Guía Nueva Casa.~~
+- [x] ~~Borrar artículos innecesarios o redundantes.~~
+- [x] ~~Mejorar diseño (migrar a mkdocs)~~
+- [x] ~~Añadir barra de busqueda.~~
+- [x] ~~Añadir sección de historia.~~
+- [x] ~~Corregir tablas rotas~~
+- [x] Arreglar tablas de contenido
+    - [x] ~~Perfil~~
+    - [x] Politica
+    - [x] ~~Economia~~
+    - [x] ~~Guerras~~
+    - [x] ~~Historia~~

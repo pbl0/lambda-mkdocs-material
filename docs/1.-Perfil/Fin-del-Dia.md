@@ -1,5 +1,7 @@
 # Fin del Día
 
+## Introducción
+
 El fin del día se conoce como la **hora a la que se resetean** los temporizadores diarios. Es **simultáneo** en todo el mundo (mismo momento, diferentes horas por diferentes husos horarios).
 
 - Se establece a las 00:00 GMT+5, es decir, las 12pm del horario de Moscú.

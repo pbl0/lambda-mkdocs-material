@@ -28,6 +28,13 @@ theme:
 markdown_extensions:
   - pymdownx.tasklist:
       custom_checkbox: true
+  - attr_list
+  - md_in_html
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
 extra_css:
   - css/styles.css
 extra:
@@ -39,3 +46,6 @@ extra:
     - icon: fontawesome/solid/link
       link: https://pablob.eu
 copyright: Copyright &copy; 2021-2022 Pablo
+plugins:
+  - search
+  - glightbox

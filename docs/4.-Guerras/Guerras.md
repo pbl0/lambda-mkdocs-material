@@ -4,7 +4,10 @@
 
 Para atacar en un frente, debes seleccionar el frente concreto, seleccionar el botón _Enviar mis tropas_ del frente que apoyas (toma tu tiempo para evitar disgustos), selecciona la tropa que quieres enviar y pulsa _Atacar_ (Botones rojo, azul y verde):
 
-<img class="screenshot" src="/img/posts/guerras/guerra.jpg" alt="Imagen de guerra"/>
+<figure markdown>
+  ![Imagen de guerra](/img/posts/guerras/guerra.jpg){ .screenshot loading=lazy }
+  <figcaption>Guerra</figcaption>
+</figure>
 
 ### Modos de ataque
 

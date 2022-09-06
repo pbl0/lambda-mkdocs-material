@@ -2,6 +2,13 @@
 
 > _Ultima revisión: 03/08/2022 por [@Gohkduk](https://t.me/Gohkduk)_
 
+
+<figure markdown>
+  ![Imagen de parlamento](/img/posts/politica/parlamento.jpg){ .screenshot loading=lazy }
+  <figcaption>Aprobación de leyes en el Parlamento</figcaption>
+</figure>
+
+
 ## Leyes típicas
 
 ### Nuevo edificio
@@ -37,6 +44,11 @@ Inicias un frente de ataque desde una región de tu país en la Tierra hacia otr
 Establece un porcentaje a la renta en toda la nación. Se aplica sobre el dinero ($) obtenido por el trabajo en oro o recursos a sueldo fijo (siempre $). Ésta ley pueden aceptarla inmediatamente los dictadores, monarcas y ministros de economía.
 
 ### Consolidación de la región
+
+<figure markdown>
+  ![Imagen de votar](/img/posts/politica/ley.jpg){ .screenshot loading=lazy }
+  <figcaption>Aprobación de ley de consolidación</figcaption>
+</figure>
 
 Cede una región de tu nación a otra nación. El otro estado debe aceptar esta consolidación para que se realice correctamente, no pudiendo tardar mas de 1 hora. Ésta ley no puede aceptarse instantáneamente, tiene una duración de 24 horas desde que el país que recibe la región pone dicha ley en su parlamento. Cómo es de constumbre, ésta ley sólo pueden aceptarla que surta efecto el monarca, dictador o el parlamento en república por 50% o mas de los votos emitidos.  
 

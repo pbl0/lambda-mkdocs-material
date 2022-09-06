@@ -43,4 +43,4 @@ En esta tabla se resume qué tropas son mejores y a qué niveles:
 
 > Cuando el numero de tropas/armas no sea decimal, quiere decir que estarás rentabilizando al máximo tu α-damage, es decir, que usar ese tipo de tropa en el nivel marcado será lo ideal.
 
-![](/img/posts/guerras/tabla-dano-alpha.png)
+![](/img/posts/guerras/tabla-dano-alpha.png){ loading=lazy }

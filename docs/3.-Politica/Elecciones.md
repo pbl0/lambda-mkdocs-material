@@ -6,7 +6,7 @@ category: politica
 ---
 # Elecciones
 
-- Las elecciones son **votaciones de 24h** donde puedes dar un voto personal al candidato o partido que prefieras de una lista predeterminada por el juego.
+- Las elecciones son **votaciones de 24h** donde puedes dar un [voto](/3.-Politica/Votar/) personal al candidato o partido que prefieras de una lista predeterminada por el juego.
 - Se repiten en **ciclos de 5 días** (4+1 día de votación), siendo independientes unas de otras.
 - Puede votar cualquier usuario con nivel 50 o superior y que presente la residencia en la región (24h) de las elecciones (salvo en las primarias).   
     

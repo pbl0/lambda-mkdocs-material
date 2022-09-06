@@ -26,4 +26,4 @@ Fue escrita en su momento inicial por **[Tun Ant](https://rivalregions.com/#slid
 
 Y aquí termina el relato contado por Tun Ant y Erik B. Por cosas del destino ambos han abandonado el juego y por tanto la historia de España en RR está inacabada. Si quieres aportar con la continuación de la sección, contacta con [@pablo_rr](https://t.me/pablo_rr).
 
-> El pueblo que no conoce su historia está condenado a repetirla
+> El Pueblo que no conoce su historia está condenado a repetirla

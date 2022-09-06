@@ -5,7 +5,10 @@
 - Para construirla debes estar ubicado en tu lugar de **residencia** (lo indica en tu perfil).
 - Puedes ir desde las misiones que se encuentran en la pestaña de **tu perfil** o hacerlo desde acciones en el **perfil de la región** donde tienes la residencia.
 
-<img class="screenshot" src="/img/posts/academia/academia.jpg" alt="Imagen de academia"/>
+<figure markdown>
+  ![Imagen de academia](/img/posts/academia/academia.jpg){ .screenshot loading=lazy }
+  <figcaption>Academia militar</figcaption>
+</figure>
 
 ## A través del perfil
 
@@ -13,7 +16,10 @@
 2. Despliega la ventana de _Misiones disponibles_, donde aparecerá un botón de _Construir_ debajo de la misión de _Academia militar_
 3. Pulsa _Construir_ recuadrado en verde y si vuelves a la misma ventana verás que en su lugar hay un contador. Indica el tiempo hasta que puedas volver a construir la academia militar, que es la hora del fin de dia.
 
-<img class="screenshot" src="/img/posts/academia/academia-perfil.jpg" alt="Imagen de academia a través del perfil"/>
+<figure markdown>
+  ![Imagen de academia](/img/posts/academia/academia-perfil.jpg){ .screenshot loading=lazy }
+  <figcaption>Academia militar a través del perfil</figcaption>
+</figure>
 
 ## A través de la Región
 
@@ -21,4 +27,7 @@
 2. Selecciona _Residencia de la región:_ y el nombre de tu región de residencia para ir al perfil de la región.
 3. Despliega la ventana _Acciones_ y selecciona el botón verde _Academia militar_. Pulsa _Construir_.
 
-<img class="screenshot" src="/img/posts/academia/academia-region.jpg" alt="Imagen de academia a través de la región"/>
+<figure markdown>
+  ![Imagen de academia](/img/posts/academia/academia-region.jpg){ .screenshot loading=lazy }
+  <figcaption>Academia militar a través de la región</figcaption>
+</figure>

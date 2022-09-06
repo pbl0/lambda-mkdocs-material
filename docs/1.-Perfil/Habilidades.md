@@ -47,14 +47,15 @@ Los stats son las habilidades que tiene uno dentro del juego. Puedes encontrarlo
 
 ### Orden en que subir las habilidades
 
-(Fuerza/Educación/Aguante)  
-1º-  30/ 30/ 30  
-2º-  30/ 30/ 50  
-3º-  30/ 50/ 50  
-4º-  50/ 50/ 50  
-5º-  50/ 50/100  
-6º-  50/100/100  
-7º- 100/100/100  
+(Fuerza|Educación|Aguante)
+
+1.  ```30 |  30 | 30```  
+2.  ```30 |  30 | 50``` 
+3.  ```30 |  50 | 50```
+4.  ```50 |  50 | 50```
+5.  ```50 |  50 | 100```
+6.  ```50 | 100 | 100```
+7. ```100 | 100 | 100```
 
 #### **Camino del Novato**
 
