@@ -15,7 +15,7 @@ Empieza por [primeros pasos](/01-Primeros-Pasos).
 
 ## Colaborar
 
-Si quieres colaborar con Lambda puedes aportar de varias maneras. Algunas de las cuales las tengo apuntadas aqui debajo. 
+Si quieres colaborar con Lambda puedes aportar de varias maneras. Algunas de las cuales las tengo apuntadas aquí debajo. 
 
 Para editar o añadir páginas habla con [@pablo_rr](https://t.me/pablo_rr).
 Se recomienda leer esta [guía de markdown](https://docs.github.com/es/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
@@ -24,21 +24,22 @@ Tareas pendientes:
 
 
 - [ ] Revisar actualizaciones del juego.
-- [ ] Añadir nuevo contenido del discord.
-- [ ] Sacar nuevas capturas de pantalla:
+- [ ] Añadir contenido del discord.
+- [ ] Añadir capturas de pantalla:
     - [ ] Formas de gobierno
     - [ ] Votar
     - [ ] Contaminación
+    - [x] ~~Habilidades~~
     - [x] ~~Academia militar~~
     - [x] ~~Guerras~~
     - [x] ~~Casa~~
     - [x] ~~Exp. laboral~~
-    - [x] ~~Almacen~~
+    - [x] ~~Almacén~~
     - [x] ~~Comerciar~~
     - [x] ~~Departamentos~~
     - [x] ~~Subastas de fábricas~~
     - [x] ~~Trabajar~~
-    - [x] ~~Autonomias~~
+    - [x] ~~Autonomías~~
     - [x] ~~Bloque~~
     - [x] ~~Entrenamiento militar~~
     - [x] ~~Tropas~~
@@ -50,9 +51,9 @@ Tareas pendientes:
 - [x] ~~Añadir barra de busqueda.~~
 - [x] ~~Añadir sección de historia.~~
 - [x] ~~Corregir tablas rotas~~
-- [x] Arreglar tablas de contenido
+- [x] ~~Arreglar tablas de contenido~~
     - [x] ~~Perfil~~
-    - [x] Politica
+    - [x] ~~Politica~~
     - [x] ~~Economia~~
     - [x] ~~Guerras~~
     - [x] ~~Historia~~

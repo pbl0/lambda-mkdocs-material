@@ -1,16 +1,16 @@
 # Daño alpha
 
-> El daño Alpha es la capacidad de tropas que envías en cada ataque. A mayor daño Alpha, más tropas envías y más daño haces en guerra.
+> El daño Alpha es la capacidad de [tropas](/4.-Guerras/Tropas/) que envías en cada ataque. A mayor daño Alpha, más tropas envías y más daño haces en guerra.
 
 - La forma de aumentar el daño Alpha de tus ataques es:
    -> Subir la habilidad de resistencia hasta el nivel 100. Pasado este nivel no aumenta.
    -> Subir el nivel de experiencia a razón de 2.500 puntos de daño Alpha por cada nivel.
 
-- Hay que tener en cuenta que el daño generado en un ataque depende de muchos más factores además del daño Alpha, tal y como se muestra en las fórmulas-p de daño.
+- Hay que tener en cuenta que el daño generado en un ataque depende de muchos más factores además del daño Alpha, tal y como se muestra en las [fórmulas](/5.-Avanzado/Formulas/) de daño.
 
 ## Daño alpha y tropas
 
-Dado que el daño Alpha determina la capacidad de tropas que puedes enviar y que las tropas-p ocupan diferentes espacios, a veces no llega a ocuparse todo el daño del que se dispone (quedan decimales o huecos en los ataques).
+Dado que el daño Alpha determina la capacidad de tropas que puedes enviar y que las tropas ocupan diferentes espacios, a veces no llega a ocuparse todo el daño del que se dispone (quedan decimales o huecos en los ataques).
 
 Con respecto a los precios del mercado (que siguen ciertas tendencias) y los espacios que ocupan las diferentes tropas, estas presentan diferentes características:
 
@@ -18,11 +18,12 @@ Con respecto a los precios del mercado (que siguen ciertas tendencias) y los esp
 (Se puede elegir.)
 
 - Tanque: Ocupa 10 de daño. En todos los niveles hace el máximo de daño (nunca hay huecos), pero son los más caros. Son los empleados por defecto en guerra.
-- Avión: Ocupa 75 de daño. Intermedios en cuanto a precio y a daño (dejan algunos huecos, salvo en los niveles = 31 + 3x).
-- Bombardero: Ocupa 800 de daño. Los más baratos y los que más huecos dejan (salvo en los niveles = 34 + 8x).
-- Misil: Ocupa 900 de daño. Generan contaminación-p.
 
-> **Conclusión:** Para guerras-p usa preferentemente tanques y para entrenamiento-militar-p el resto.
+- Avión: Ocupa 75 de daño. Intermedios en cuanto a precio y a daño (dejan algunos huecos, salvo en los niveles = 31 + 3x).
+
+- Bombardero: Ocupa 800 de daño. Los más baratos y los que más huecos dejan (salvo en los niveles = 34 + 8x).
+
+- Misil: Ocupa 900 de daño. Generan [contaminación](/2.-Economia/Contaminaci%C3%B3n/).
 
 ## Navales
 (No hay elección.)

@@ -2,7 +2,10 @@
 
 > _Ultima revisión: 05/08/2022 por [@Gohkduk](https://t.me/Gohkduk)_
 
-![Foto de las tropas](/img/posts/guerras/tropas.png)
+<figure markdown>
+  ![Imagen de tropas](/img/posts/guerras/tropas.png){ loading=lazy }
+  <figcaption>Tropas o armamento</figcaption>
+</figure>
 
 ## Tanques
 Se emplean en batallas terrestres entre países y revoluciones. El precio oscila actualmente entre los 5k$ y 8k$. Se usan en cantidades muy grandes. Estas tropas se usan preferentemente en guerra al hacer más daño que el resto por ataque, ya que usan el máximo de daño alfa siempre.
