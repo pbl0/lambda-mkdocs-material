@@ -9,4 +9,5 @@
 - [Independencia](./Independencia.md)
 - [Leyes](./Leyes.md)
 - [Parlamento](./Parlamento.md)
+- [Partido](./Partido.md)
 - [Votar](./Votar.md)
