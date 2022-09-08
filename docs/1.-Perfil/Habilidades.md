@@ -69,7 +69,7 @@ Hay tres: Fuerza, educación y resistencia.
 ### Booster
 
 - A cambio de cierta cantidad de oro o dinero puedes aumentar en 100 el nivel de un stat de forma temporal. Contra mayor sea el valor de la habilidad, menor será el tiempo del boost.
-- Tiene un cooldown de 3 días.
+- Tiene un cooldown de 5 días.
 - Se recomienda solamente el **boost de Fuerza** en momentos puntuales y preferiblemente el que consume dinero. El de oro únicamente en guerras muy serias.   
 
 ### Orden en que subir las habilidades
