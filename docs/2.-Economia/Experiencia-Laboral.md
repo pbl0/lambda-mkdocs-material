@@ -1,6 +1,6 @@
 # Experiencia Laboral
 
-La **experiencia laboral** es el valor de eficiencia con el que trabajas un recurso en concreto. Guarda una **relación lineal directa** (más o menos) con lo que extraes, por lo que con el doble de experiencia sacarás el doble de recurso (o dinero).
+La **experiencia laboral** es el valor de eficiencia con el que trabajas un [recurso](/2.-Economia/Recursos/) en concreto. Guarda una **relación lineal directa** (más o menos) con lo que extraes, por lo que con el doble de experiencia sacarás el doble de recurso (o dinero).
 
 <figure markdown>
   ![Imagen de la exp laboral](/img/posts/exp-laboral/exp-laboral2.jpg){ .screenshot loading=lazy }

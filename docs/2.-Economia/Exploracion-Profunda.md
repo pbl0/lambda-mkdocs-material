@@ -1,6 +1,6 @@
 # Exploración Profunda
 
-El valor de la exploración profunda de un territorio es el tope máximo de recursos que la región nos permite tener explorados en ese momento (no el máximo de exploración diario, que para el oro es siempre 2500 independientemente del valor de exploración profunda). Cuánto mayor es el valor más puedes explorar al mismo tiempo y consigues además mayor rendimiento (sacas más recurso por energía trabajada en el recurso explorado, salvo si es oro que se saca más dinero por trabajar).  
+El valor de la exploración profunda de un territorio es el tope máximo de [recursos](/2.-Economia/Recursos/) que la región nos permite tener explorados en ese momento (no el máximo de exploración diario, que para el oro es siempre 2500 independientemente del valor de exploración profunda). Cuánto mayor es el valor más puedes explorar al mismo tiempo y consigues además mayor rendimiento (sacas más recurso por energía trabajada en el recurso explorado, salvo si es oro que se saca más dinero por [trabajar](/2.-Economia/Trabajar/)).  
 
 #### Para que sirve la exploración profunda
 
@@ -23,7 +23,7 @@ Esta ley dura 168 horas, es decir, 7 días justos desde que se aprueba. La ley a
 - Primero, donde te dejen… a veces hay que trabajar con lo que se dispone y no en entornos ideales.
 - Segundo, busca siempre el índice básico mas alto posible, como hemos dicho antes, se puede subir, pero si ya hay una región con un potencial alto, es mas fácil que trabaje gente aunque no haya exploración profunda. 
 
-#### Regiones en Espiña con el indice básico mas alto
+#### Regiones en España con el indice básico mas alto
 
 Para **ORO** son:
 
