@@ -6,7 +6,7 @@ Las habilidades, también conocidas como stats o perks, son "estadísticas" que 
 Hay tres: Fuerza, educación y resistencia.
 
 <figure markdown>
-  ![Imagen de habilidades](/img/posts/perks/perk1.jpg){ .screenshot loading=lazy }
+  ![Imagen de habilidades](/img/posts/perks/perk1.jpg){ loading=lazy }
   <figcaption>Habilidades</figcaption>
 </figure>
 

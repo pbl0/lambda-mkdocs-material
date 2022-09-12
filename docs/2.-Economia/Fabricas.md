@@ -14,6 +14,11 @@ Dependiendo del recurso que trabajen, encontraremos un tipo u otro de fábrica y
 
 ### Mina de oro
 
+<figure markdown>
+  ![Imagen de fábrica de oro](/img/posts/trabajar/fabrica.jpg){ .screenshot loading=lazy }
+  <figcaption>Mina de oro</figcaption>
+</figure>
+
 - ^^Trabaja (límite)^^: Oro (2.500).
 - ^^Obtiene^^: Oro (1 por 10E siempre y únicamente para el trabajador) y dinero (€).
 - ^^Almacén^^: No existe (€).
@@ -24,6 +29,11 @@ Dependiendo del recurso que trabajen, encontraremos un tipo u otro de fábrica y
    - Cuesta más experiencia trabajada subir su nivel (no más oro).
 
 ### Yacimiento de petróleo
+
+<figure markdown>
+  ![Imagen de fábrica de petróleo](/img/posts/trabajar/fabrica-oil.jpg){ .screenshot loading=lazy }
+  <figcaption>Yacimiento de petróleo</figcaption>
+</figure>
 
 - ^^Trabaja (límite)^^: Petróleo (600).
 - ^^Obtiene^^: Petróleo (bbl).
