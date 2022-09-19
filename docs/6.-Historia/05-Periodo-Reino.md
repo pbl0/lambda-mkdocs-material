@@ -2,7 +2,15 @@
 
 ### 2019 - 2021
 * * *
+<figure markdown>
+  ![Escudo del reino](/img/posts/historia/reino.png){ .screenshot loading=lazy }
+  <figcaption>Escudo del Reino de España</figcaption>
+</figure>
 
+<figure markdown>
+  ![Mapa del reino](/img/posts/historia/mapa-reino.png){ .screenshot loading=lazy }
+  <figcaption>Reino de España</figcaption>
+</figure>
 
 El Reino nace el día 3/11/19 con la coronación de Noel después de un periodo demasiado ambicioso que supuso La República. Se decide entonces seguir con el proyecto de unión, pero desde un enfoque menos arriesgado, desde una monarquía y un consejo, comienza así el quinto periodo de nuestra historia en RR. Este periodo podría llamarse periodo monárquico, pero este nombre no haría justicia al propio periodo ya que nunca antes se había producido una unión de la comunidad bajo unas mismas bases y estado durante tanto tiempo. Como bien dice Izeta en el [artículo del cumpleaños del reino](https://rivalregions.com/#news/show/3053618), esto es más bien una edad de oro de la comunidad donde se han conseguidos objetivos tales como el fin de los conflictos internos a gran escala y la construcción de Azores Top 1. Por lo tanto, es correcto decir en retrospectiva que, después de un año, con El Reino se inicia una edad de oro que continua a día de hoy (03/11/20).
 

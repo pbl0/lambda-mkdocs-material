@@ -141,7 +141,7 @@ Tras la Gran Guerra Hormigo-Europea, a España le son cedidas Las Canarias por p
 El Ministerio de Asuntos Exteriores crea un cuerpo de embajadores para mejorar sus relaciones con el resto del mundo.
 
 **09/12/17 - La Noche Roja:**
-Los hispanoperlantes se solidarizaron y en señal de protesta contra nada se dedicaron a calificar en negativo todos los artículos de esa noche (mayoritariamente argentinos). Tuvo un gran impácto y el karma medio de RR bajó notablemente. 
+Los hispanoparlantes se solidarizaron y en señal de protesta contra nada se dedicaron a calificar en negativo todos los artículos de esa noche (mayoritariamente argentinos). Tuvo un gran impacto y el karma medio de RR bajó notablemente. 
 
 **11/12/2017 - Epona Council:**
 España decide irse del bloque de la UE, ya en declive y con demasiados enemigos. Decide crear su propio bloque: Epona Council. Es fundado junto a Francia, amigo de España desde el primer día. A pesar de ser un bloque neutral, las tensiones saltan en Europa y las relaciones saltan entre bloques.
@@ -189,10 +189,10 @@ La CRP se disuelve y PCE se junta a FRE y FNP para gobernar. FLD, USH y PSOE se 
 España ayuda a Venezuela cuando es atacada por Brasil; pero pierde parte de sus regiones, el Bloque Hispano se disuelve y varios estados integrantes entran a Epona. 
 
 **18/01/18 - Golpe en Barcelona:**
-Mientras las fuerzas españolas están en Latinoamerica, los partidos catalanes comienzan un golpe independentista, que es rápidamente sofocado. 
+Mientras las fuerzas españolas están en Latinoamérica, los partidos catalanes comienzan un golpe independentista, que es rápidamente sofocado.
 
 **20/01/18 - Escisión de España:**
-Por consenso, PCE independiza la región de Canarias en un estado insular. Las tensiones separatistas crecen y la oposición entra al gobierno. 
+Por consenso, PCE independiza la región de Canarias en un estado insular. Las tensiones separatistas crecen y la oposición entra al gobierno.
 
 **26/01/18 - División de regiones:**
 Surgen las comunidades autónomas españolas como territorios nuevos e independientes. Se aseguran migrando durante la semana correspondiente al periodo de paz, no sin ciertos conflictos secesionistas. Tiene lugar el Segundo Boom Español.

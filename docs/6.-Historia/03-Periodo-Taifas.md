@@ -5,6 +5,11 @@
 ### 2018
 * * *
 
+<figure markdown>
+  ![mapa de las taifas](/img/posts/historia/taifas.png){ .screenshot loading=lazy }
+  <figcaption>Mapa de las Taifas (15/12/18)</figcaption>
+</figure>
+
 **10/04/18 - El Imperio Li contraataca:**
 La República Mediterránea se lanza contra la Confederación Ibérica, si bien gracias a la intervención del resto de países españoles las regiones se defienden y la República Mediterránea es anexionada a Bastión Legendario y a Great Atlantis.
 
@@ -106,10 +111,10 @@ Tras la creación del nuevo bloque, Western Alliance, Eurasian lanza una ofensiv
 Tras el fraude en su venta es tomada militarmente desde Arcadia y cedida a sus compradores italianos. Los golpistas del partido República Española lo usan como entrada en la nación. Paralelamente aparece el partido Inquisición Española con los veteranos de varios partidos españoles, que declaran la Primera Cruzada de la Inquisición contra Rusia.
 
 **18/09/18 - Tensiones en el Atlántico:**
-NOS lanza un ataque contra Islandia para tomar la isla. Los Habsburgo declinan el PENA.
+NOS lanza un ataque contra Islandia para tomar la isla. Los Habsburgos declinan el PENA.
 
 **25/09/18 - Crisis de Yemen:**
-En medio de una serie de golpes de estado entre bloques por desestabilizar la posición del bloque contrario, es tomada la región de Yemen rompiendo el PENA. Sakura (Habsburgo) e Inquisición (Espiña) se baten en duelo en  una guerra de guerrillas y golpes. Paralelamente sucede un boom moderado de jugadores españoles. Tres días después se independiza Moscú.
+En medio de una serie de golpes de estado entre bloques por desestabilizar la posición del bloque contrario, es tomada la región de Yemen rompiendo el PENA. Sakura (Habsburgo) e Inquisición (España) se baten en duelo en  una guerra de guerrillas y golpes. Paralelamente sucede un boom moderado de jugadores españoles. Tres días después se independiza Moscú.
   
 **04/10/18 - Actualización de fronteras:**
 Las fronteras vuelven a tener un coste fijo y el límite de oro diario por territorio pasa de 1500 a 2500.

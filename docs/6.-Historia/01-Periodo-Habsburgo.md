@@ -2,7 +2,7 @@
 ### 2017
 * * *
 
-El período Habsburgo contado por Tun Ant en sus CRRÓNICAS escritas en 2017-2018:
+El período Habsburgo contado por Tun Ant en sus "CRRÓNICAS" escritas en 2017-2018:
 
 1. [Ascensión de los Habsburgo](http://rivalregions.com/#news/show/349780) 
 

@@ -6,7 +6,7 @@ Lambda es un servidor discord creado y mantenido por la comunidad española de R
 
 La web de lambda surge para mantener accesible desde la web el contenido educativo creado en el mítico servidor discord del Lambda y que a su vez sea fácilmente actualizado por la propia comunidad.
 
-El proyecto original fue creado por Alexia/Yuuuh/Elsa, antiguo jugador de RR que creó mantuvo la web, y sus costes hasta su cierre en octubre del 2021. 
+El proyecto original fue creado por Alexia/Yuuuh/Elsa, antiguo jugador de RR que creó mantuvo la web, y sus costes hasta su cierre en octubre del 2021.
 
 La nueva página **no tiene ánimos de lucro**, ni tendrá anuncios ya que tampoco tiene costes de hosteo o de dominio.
 
@@ -15,7 +15,7 @@ Empieza por [primeros pasos](/01-Primeros-Pasos).
 
 ## Colaborar
 
-Si quieres colaborar con Lambda puedes aportar de varias maneras. Algunas de las cuales las tengo apuntadas aquí debajo. 
+Si quieres colaborar con Lambda puedes aportar de varias maneras. Algunas de las cuales las tengo apuntadas aquí debajo.
 
 Para editar o añadir páginas habla con [@pablo_rr](https://t.me/pablo_rr).
 Se recomienda leer esta [guía de markdown](https://docs.github.com/es/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
