@@ -4,7 +4,7 @@
 
 <!-- * -->
 
-> Un partido político es una asociación de cuentas liderados por un fundador (quien posee la corona) y sus secretarios. Solo estos pueden aceptar nuevos miembros.
+> Un partido político es una asociación de cuentas liderada por un fundador (quien posee la corona) y sus secretarios. Solo estos pueden aceptar nuevos miembros.
 <!-- * -->
 > Pertenecer a un partido político te permite optar a la presidencia o a escaños del parlamento dentro del estado en el que se sitúe (en RR).
 
@@ -73,7 +73,7 @@ Si el partido desaparece o la región en la que se encuentra abandona la nación
 En septiembre de 2022 el sistema de sueldos fue modificado. Actualmente, existen 2 tipos de salario de partido.
 
 ### Salario en kkk
-Es un **sueldo en dinero** del juego que puede ser recibido diariamente (en el reset diario). Estos pagos salen del balance del líder del partido.
+Es un **salario en dinero** del juego que puede ser recibido diariamente (en el reset diario). Estos pagos salen del balance del líder del partido.
 
 La cantidad a percibir, es asignada por el líder. Si este lo pone en RR PC, el salario se aplica a todo el partido. Sin embargo, en móvil, se ha de asignar el sueldo manualmente cuenta a cuenta.
 
@@ -93,9 +93,9 @@ La cantidad a percibir, es asignada por el líder. Si este lo pone en RR PC, el 
 </figure>
 
 
-### Sueldo de oro
+### Salario de oro
 
-Es un **salario de oro** que puede ser repartido diariamente.
+Es un **salario de oro (G)** que puede ser repartido diariamente.
 
 Cada miembro del partido que sea nivel 60 o más, haya permanecido en el partido más de 3 días y se haya conectado al juego en las últimas 24h sumará 20G de oro al sueldo del partido, esto se verá reflejado con un tick al lado del nombre. El requisito para habilitar el sueldo del partido, es haber acumulado un mínimo de 100G de oro en el salario total (5 jugadores que posean el tick).
 
@@ -111,7 +111,7 @@ Para repartir el sueldo de oro, el líder tendrá que asignar el sueldo de oro m
 </figure>
 
 <figure markdown>
-  ![Imagen de salario de partido](/img/posts/politica/partido/salario-oro-pc.jpg){ .screenshot-wide loading=lazy }
+  ![Imagen de salario de partido](/img/posts/politica/partido/salario-defecto-pc.jpg){ .screenshot-wide loading=lazy }
   <figcaption>Salario por defecto (PC)</figcaption>
 </figure>
 
