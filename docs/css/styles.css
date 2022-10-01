@@ -8,6 +8,9 @@ body[data-md-color-scheme="default"]{
 .screenshot{
     max-width: 360px !important;
 }
+.screenshot-wide{
+    max-width: 540px !important;
+}
 
 .md-typeset{
     font-size: .9rem;
