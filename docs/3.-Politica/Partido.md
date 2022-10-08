@@ -4,9 +4,9 @@
 
 <!-- * -->
 
-> Un partido político es una asociación de cuentas liderada por un fundador (quien posee la corona) y sus secretarios. Solo estos pueden aceptar nuevos miembros.
+> Un partido político es una asociación de cuentas lideradas por un fundador (quien posee la corona) y sus secretarios. Solo estos pueden aceptar nuevos miembros.
 <!-- * -->
-> Pertenecer a un partido político te permite optar a la presidencia o a escaños del parlamento dentro del estado en el que se sitúe (en RR).
+> Pertenecer a un partido político te permite optar a la presidencia o a escaños del parlamento dentro del estado en el que se sitúe.
 
 <figure markdown>
   ![Imagen de partido](/img/posts/politica/partido/partido.png){ .screenshot loading=lazy }
