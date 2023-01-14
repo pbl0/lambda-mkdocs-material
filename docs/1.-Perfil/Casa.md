@@ -1,6 +1,6 @@
 # Casa
 
-La casa es actualmente un conjunto de buffs de pago que duran una semana, no es recomendable usarla si eres de nivel bajo, ya que, los costes si quieres tener un buff decente, van a costar mucho dinero.
+La casa es actualmente un conjunto de buffs de pago que duran una semana, no es recomendable usarla si eres de nivel bajo, ya que los costes son muy elevados si quieres tener un buff decente.
 
 
 <figure markdown>
@@ -10,10 +10,11 @@ La casa es actualmente un conjunto de buffs de pago que duran una semana, no es 
 
 * * *
 
-La casa se divide en 3 secciones:
+
+La casa se divide en 3 secciones y cada uno es un valor que va de 0% a 25%:
 
 ## Gimnasio (Gym)
-El gimnasio es un buff de daño, como veréis con las demás secciones, el máximo buff es de un 25%, el gimnasio por tanto hará que hagas un 25% (o el porcentaje que hayas pagado) mas de daño mientras tengas este buff.
+El gimnasio es un buff de daño, el gimnasio por tanto hará que hagas un 25% (o el porcentaje que hayas pagado) más daño mientras tengas este buff.
 
 ## Librería (Library)
 La librería es un buff que reduce el tiempo de subida de stats, siendo el máximo, como hemos visto anteriormente un 25%, este buff es el menos recomendable si eres nivel bajo ya que, en niveles bajos los tiempos de subida de stats suelen ser cortos y no suele ser rentable usar este buff para ahorrarte unos pocos minutos por el precio que tendrás que pagar
