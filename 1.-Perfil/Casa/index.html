@@ -7,7 +7,7 @@
 <meta content="width=device-width,initial-scale=1" name="viewport"/>
 <link href="https://lambda.pablob.eu/1.-Perfil/Casa/" rel="canonical"/>
 <link href="../../img/favicon.png" rel="icon"/>
-<meta content="mkdocs-1.3.1, mkdocs-material-8.4.1" name="generator"/>
+<meta content="mkdocs-1.4.2, mkdocs-material-8.4.1" name="generator"/>
 <title>Casa - Lambda</title>
 <link href="../../assets/stylesheets/main.69437709.min.css" rel="stylesheet"/>
 <link href="../../assets/stylesheets/palette.cbb835fc.min.css" rel="stylesheet"/>
@@ -16,7 +16,18 @@
 <style>:root{--md-text-font:"Ubuntu";--md-code-font:"Ubuntu mono"}</style>
 <link href="../../css/styles.css" rel="stylesheet"/>
 <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
-<link href="../../assets/stylesheets/glightbox.min.css" rel="stylesheet"/><style>html.glightbox-open { overflow: initial; height: 100%; }</style><script src="../../assets/javascripts/glightbox.min.js"></script></head>
+<link href="../../assets/stylesheets/glightbox.min.css" rel="stylesheet"/><style>
+            html.glightbox-open { overflow: initial; height: 100%; }
+            .gslide-title { margin-top: 0px; user-select: text; }
+            .gslide-desc { color: #666; user-select: text; }
+            .gslide-image img { background: white; }
+            
+                .gscrollbar-fixer { padding-right: 15px; }
+                .gdesc-inner { font-size: 0.75rem; }
+                body[data-md-color-scheme="slate"] .gdesc-inner { background: var(--md-default-bg-color);}
+                body[data-md-color-scheme="slate"] .gslide-title { color: var(--md-default-fg-color);}
+                body[data-md-color-scheme="slate"] .gslide-desc { color: var(--md-default-fg-color);}
+                </style><script src="../../assets/javascripts/glightbox.min.js"></script></head>
 <body data-md-color-accent="orange" data-md-color-primary="deep-orange" data-md-color-scheme="slate" dir="ltr">
 <script>var palette=__md_get("__palette");if(palette&&"object"==typeof palette.color)for(var key of Object.keys(palette.color))document.body.setAttribute("data-md-color-"+key,palette.color[key])</script>
 <input autocomplete="off" class="md-toggle" data-md-toggle="drawer" id="__drawer" type="checkbox"/>
@@ -562,18 +573,18 @@
 <div class="md-content" data-md-component="content">
 <article class="md-content__inner md-typeset">
 <h1 id="casa">Casa</h1>
-<p>La casa es actualmente un conjunto de buffs de pago que duran una semana, no es recomendable usarla si eres de nivel bajo, ya que, los costes si quieres tener un buff decente, van a costar mucho dinero.</p>
+<p>La casa es actualmente un conjunto de buffs de pago que duran una semana, no es recomendable usarla si eres de nivel bajo ya que los costes son muy elevados si quieres tener un buff decente.</p>
 <figure>
-<p><a class="glightbox" href="/img/posts/casa/casa.jpg"><img alt="Imagen de casa" class="screenshot" loading="lazy" src="/img/posts/casa/casa.jpg"/></a>
+<p><a class="glightbox" data-desc-position="bottom" data-height="auto" data-width="100%" href="/img/posts/casa/casa.jpg"><img alt="Imagen de casa" class="screenshot" loading="lazy" src="/img/posts/casa/casa.jpg"/></a>
 </p>
 <figcaption>Casa</figcaption>
 </figure>
 <hr/>
-<p>La casa se divide en 3 secciones:</p>
+<p>La casa se divide en 3 secciones y cada uno es un valor que va de 0% a 25%:</p>
 <h2 id="gimnasio-gym">Gimnasio (Gym)</h2>
-<p>El gimnasio es un buff de daño, como veréis con las demás secciones, el máximo buff es de un 25%, el gimnasio por tanto hará que hagas un 25% (o el porcentaje que hayas pagado) mas de daño mientras tengas este buff.</p>
+<p>El gimnasio es un buff de daño, el gimnasio por tanto hará que hagas un 25% (o el porcentaje que hayas pagado) más daño mientras tengas este buff.</p>
 <h2 id="libreria-library">Librería (Library)</h2>
-<p>La librería es un buff que reduce el tiempo de subida de stats, siendo el máximo, como hemos visto anteriormente un 25%, este buff es el menos recomendable si eres nivel bajo ya que, en niveles bajos los tiempos de subida de stats suelen ser cortos y no suele ser rentable usar este buff para ahorrarte unos pocos minutos por el precio que tendrás que pagar</p>
+<p>La librería es un buff que reduce el tiempo de subida de <a href="/1.-Perfil/Habilidades/">stats</a>, siendo el máximo, como hemos visto anteriormente un 25%, este buff es el menos recomendable si eres nivel bajo ya que, en niveles bajos los tiempos de subida de stats suelen ser cortos y no suele ser rentable usar este buff para ahorrarte unos pocos minutos por el precio que tendrás que pagar</p>
 <h2 id="taller-workshop">Taller (Workshop)</h2>
 <p>El Taller es un buff de descuento que reduce los recursos que necesitas para producir algo, actualmente, el descuento al producir se basa en tus stats de Fuerza y Educación, este buff afectaría a este descuento ya creado y siendo el máximo de descuento basado en tus stats 50% este buff del taller aumentaría un 25% mas el descuento que tengas, siendo un 12,5% si tienes el descuento de stats al 50%.</p>
 <h2 id="porcentajes-de-los-buffs">Porcentajes de los buffs</h2>
@@ -662,5 +673,5 @@
 </div>
 <script id="__config" type="application/json">{"base": "../..", "features": ["navigation.instant", "navigation.indexes", "navigation.top"], "search": "../../assets/javascripts/workers/search.ecf98df9.min.js", "translations": {"clipboard.copied": "Copiado al portapapeles", "clipboard.copy": "Copiar al portapapeles", "search.config.lang": "es", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "B\u00fasqueda", "search.result.more.one": "1 m\u00e1s en esta p\u00e1gina", "search.result.more.other": "# m\u00e1s en esta p\u00e1gina", "search.result.none": "No se encontraron documentos", "search.result.one": "1 documento encontrado", "search.result.other": "# documentos encontrados", "search.result.placeholder": "Teclee para comenzar b\u00fasqueda", "search.result.term.missing": "Falta", "select.version.title": "Seleccionar versi\u00f3n"}}</script>
 <script src="../../assets/javascripts/bundle.9c69f0bc.min.js"></script>
-<script>document$.subscribe(() => {const lightbox = GLightbox({"touchNavigation": true, "loop": false, "width": "100%", "height": "auto", "zoomable": true, "draggable": true, "openEffect": "zoom", "closeEffect": "zoom"});})</script></body>
+<script>document$.subscribe(() => {const lightbox = GLightbox({"touchNavigation": true, "loop": false, "zoomable": true, "draggable": true, "openEffect": "zoom", "closeEffect": "zoom", "slideEffect": "slide"});})</script></body>
 </html>
