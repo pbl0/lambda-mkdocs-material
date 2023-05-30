@@ -4,7 +4,7 @@ title: Indice Historia
 
 # Historia de España en RR
 
-Está sección ha sido transcrita desde los canales del servidor de Discord del Lambda. 
+Está sección ha sido transcrita desde los canales del servidor de Discord del Lambda.
 
 Fue escrita en su momento inicial por **[Tun Ant](https://rivalregions.com/#slide/profile/2000156291)** y posteriormente continuada por **[Erik B](https://rivalregions.com/#slide/profile/2000213056)**.
 

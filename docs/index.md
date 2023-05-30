@@ -2,15 +2,16 @@
 
 ## ¿Qué es Lambda?
 
-Lambda es un servidor discord creado y mantenido por la comunidad española de Rival Regions con el objetivo de educar a los nuevos jugadores del juego.
+Lambda es un servidor discord creado por la comunidad española de Rival Regions con el objetivo de educar a los nuevos jugadores.
 
-La web de lambda surge para mantener accesible desde la web el contenido educativo creado en el mítico servidor discord del Lambda y que a su vez sea fácilmente actualizado por la propia comunidad.
+La web de lambda surge para mantener accesible (fuera de discord) el contenido educativo creado en el mítico servidor discord del Lambda y que a su vez sea fácilmente actualizado por la propia comunidad.
 
-El proyecto original fue creado por Alexia/Yuuuh/Elsa, antiguo jugador de RR que creó mantuvo la web, y sus costes hasta su cierre en octubre del 2021.
+El proyecto original fue creado por Alexia/Yuuuh/Elsa, antiguo jugador de RR que mantuvo la web y sus costes hasta su cierre en octubre del 2021.
 
-La nueva página **no tiene ánimos de lucro**, ni tendrá anuncios ya que tampoco tiene costes de hosteo o de dominio.
+La nueva página **no tiene ánimos de lucro**, ni tendrá anuncios ya que tampoco tiene costes de hosteo.
 
-##  ¿Eres nuevo en RR?
+## ¿Eres nuevo en RR?
+
 Empieza por [primeros pasos](/01-Primeros-Pasos).
 
 ## Colaborar
@@ -22,29 +23,28 @@ Se recomienda leer esta [guía de markdown](https://docs.github.com/es/github/wr
 
 Tareas pendientes:
 
-
 - [ ] Revisar actualizaciones del juego.
 - [ ] Añadir contenido del discord.
 - [ ] Añadir capturas de pantalla:
-    - [ ] Formas de gobierno
-    - [ ] Votar
-    - [ ] Contaminación
-    - [x] ~~Habilidades~~
-    - [x] ~~Academia militar~~
-    - [x] ~~Guerras~~
-    - [x] ~~Casa~~
-    - [x] ~~Exp. laboral~~
-    - [x] ~~Almacén~~
-    - [x] ~~Comerciar~~
-    - [x] ~~Departamentos~~
-    - [x] ~~Subastas de fábricas~~
-    - [x] ~~Trabajar~~
-    - [x] ~~Autonomías~~
-    - [x] ~~Bloque~~
-    - [x] ~~Entrenamiento militar~~
-    - [x] ~~Tropas~~
-    - [x] ~~Parlamento~~
-    - [x] ~~Daño alpha~~
+  - [ ] Formas de gobierno
+  - [ ] Votar
+  - [ ] Contaminación
+  - [x] ~~Habilidades~~
+  - [x] ~~Academia militar~~
+  - [x] ~~Guerras~~
+  - [x] ~~Casa~~
+  - [x] ~~Exp. laboral~~
+  - [x] ~~Almacén~~
+  - [x] ~~Comerciar~~
+  - [x] ~~Departamentos~~
+  - [x] ~~Subastas de fábricas~~
+  - [x] ~~Trabajar~~
+  - [x] ~~Autonomías~~
+  - [x] ~~Bloque~~
+  - [x] ~~Entrenamiento militar~~
+  - [x] ~~Tropas~~
+  - [x] ~~Parlamento~~
+  - [x] ~~Daño alpha~~
 - [x] ~~Guía Nueva Casa.~~
 - [x] ~~Borrar artículos innecesarios o redundantes.~~
 - [x] ~~Mejorar diseño (migrar a mkdocs)~~
@@ -52,8 +52,8 @@ Tareas pendientes:
 - [x] ~~Añadir sección de historia.~~
 - [x] ~~Corregir tablas rotas~~
 - [x] ~~Arreglar tablas de contenido~~
-    - [x] ~~Perfil~~
-    - [x] ~~Politica~~
-    - [x] ~~Economia~~
-    - [x] ~~Guerras~~
-    - [x] ~~Historia~~
+  - [x] ~~Perfil~~
+  - [x] ~~Politica~~
+  - [x] ~~Economia~~
+  - [x] ~~Guerras~~
+  - [x] ~~Historia~~

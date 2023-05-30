@@ -26,7 +26,7 @@ nav = []
 
 for page in sections:
     
-    if '.md' in page or 'img' in page or 'css' in page or 'Historia' in page or 'CNAME' in page:
+    if '.md' in page or 'img' in page or 'css' in page or 'Historia' in page or 'CNAME' in page or '.html' in page:
         pass
     else:
         pages = os.listdir('docs/'+page)
