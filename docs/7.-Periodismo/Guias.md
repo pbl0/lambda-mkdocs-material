@@ -10,7 +10,10 @@ Artículos dónde puedes encontrar los comandos para modificar el texto e instru
 
 - [**Guía de emojis**](https://rivalregions.com/#news/show/1993164) _por Pablo (2019)_
 
-> **Importante:** Leer las [reglas](https://wiki.rivalregions.com/Rules/es) del juego antes de publicar tu primer artículo.
+!!! info "Importante"
 
-<!-- * -->
-> **Misión primer artículo:** Nada más llegar al juego tendrás la posibilidad de completar esta misión, el artículo tiene que acabar con [karma](/7.-Periodismo/Karma/) positivo, así que **cúrratelo**.
+    Leer las [reglas](https://wiki.rivalregions.com/Rules/es) del juego antes de publicar tu primer artículo.
+
+!!! tip "Misión primer artículo"
+
+    Nada más llegar al juego tendrás la posibilidad de completar esta misión, el artículo tiene que acabar con [karma](/7.-Periodismo/Karma/) positivo, así que **cúrratelo**.

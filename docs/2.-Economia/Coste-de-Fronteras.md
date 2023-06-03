@@ -1,54 +1,39 @@
 # Coste de Fronteras
-Sistema empleado desde el 04/10/18 hasta la actualidad. 
 
-El valor de las fronteras es fijo por región, independientemente de su condición o edificios.
+> _Ultima revisión: 02/06/2023 por [@KyrosRR](https://t.me/KyrosRR)_
 
-El coste se aplica sobre todos los recursos, los valores por región individual son:
+!!! note
 
-- Oro: 120kk G/h
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
+    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
+    massa, nec semper lorem quam in massa.
 
-- Dinero: 120kk €/h
+<figure markdown>
+  ![Imagen del coste de fronteras](/img/posts/coste-fronteras/costes.jpg){ .screenshot loading=lazy }
+  <figcaption>Costes de fronteras</figcaption>
+</figure>
 
-- Petróleo: 90k bbl/h
+Para mantener las fronteras cerradas y así evitar que entren personas a la nación, se pueden mantener cerradas mediante una [ley en el parlamento](/3.-Politica/Leyes/#cerrarabrir-fronteras).
 
-- Mineral: 90k kg/h
+Si las fronteras del estado están cerradas, solo podrá viajar allí si tiene un [permiso de trabajo o residencia](/1.-Perfil/Residencias-y-Permisos-de-Trabajo/).
+Para cerrar las fronteras debe gastar recursos del presupuesto del Estado.
 
-- Uranio: 3.600 g/h
+El precio de las fronteras no se establece como un valor definido, cambia según la cantidad de regiones con fronteras abiertas actualmente. Aumenta cada minuto si hay más del 70% de regiones con fronteras cerradas y baja en la misma cantidad si el número de regiones con fronteras cerradas es menor o igual al 70%.
 
-- Diamante: 60 pcs/h
+Además, se suma un costo por mantener las [residencias emitidas por el líder](/3.-Politica/Leyes/#residencia) al gasto por fronteras por cada territorio de la nación:
 
-Además, se aplica un plus por Residencia emitida por el líder al gasto por fronteras por cada territorio de la nación:
+|  Recurso  | Gasto por minuto (por cada región) |
+| :-------: | :--------------------------------: |
+|  Dinero   |              500.000               |
+|    Oro    |              500.000               |
+| Petróleo  |                200                 |
+|  Mineral  |                200                 |
+|  Uranio   |                 20                 |
+| Diamantes |                0.25                |
 
-- Oro: 30kk G/h
+En el mapa puedes aplicar el filtro Fronteras y ver las regiones con fronteras cerradas marcadas con color rojo, y las fronteras abiertas marcadas con color verde.
 
-- Dinero: 30kk €/h
-
-- Petróleo: 12k bbl/h
-
-- Mineral: 12k kg/h
-
-- Uranio: 1.200 g/h
-
-- Diamante: 15 pcs/h
-
-Es decir, la fórmula para cada recurso en el gasto nacional de fronteras era:
-
-- Oro: 150.000.000x (G/h)
-
-- Dinero: 150.000.000x (€/h)
-
-- Petróleo: 102.000x (bbl/h)
-
-- Mineral: 102.000x (kg/h)
-
-- Uranio: 4.800x (g/h)
-
-- Diamante: 75x (pcs/h)
-
-x = n° de regiones de la nación
-
-País de 2 regiones. Fronteras
-
-
-Pais de 2 regiones. Residencia
-
+<figure markdown>
+  ![Imagen del mapa de fronteras](/img/posts/coste-fronteras/mapa-fronteras.png){ .screenshot loading=lazy }
+  <figcaption>Mapa de las fronteras</figcaption>
+</figure>

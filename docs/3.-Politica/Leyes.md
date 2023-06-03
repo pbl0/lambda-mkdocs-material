@@ -2,12 +2,10 @@
 
 > _Ultima revisión: 03/08/2022 por [@Gohkduk](https://t.me/Gohkduk)_
 
-
 <figure markdown>
   ![Imagen de parlamento](/img/posts/politica/parlamento.jpg){ .screenshot loading=lazy }
   <figcaption>Aprobación de leyes en el Parlamento</figcaption>
 </figure>
-
 
 ## Leyes típicas
 
@@ -17,7 +15,7 @@ Construye la cantidad indicada de edificios públicos (no incluidos [academias m
 
 ### Exploración de recursos
 
-Ésta la ley se pone conforme se gastan los [recursos](/2.-Economia/Recursos/)  por el trabajo de los ciudadanos. Existe un límite diario invariable de recarga que es 2500 para oro y un límite de recarga momentáneo que es hasta un máximo indicado por el nivel de exploración profunda (siendo el máximo 637 puntos para oro). Pueden aceptarla inmediatamente los dictadores, monarcas, ministros de economía y los gobernadores en República.
+Ésta la ley se pone conforme se gastan los [recursos](/2.-Economia/Recursos/) por el trabajo de los ciudadanos. Existe un límite diario invariable de recarga que es 2500 para oro y un límite de recarga momentáneo que es hasta un máximo indicado por el nivel de exploración profunda (siendo el máximo 637 puntos para oro). Pueden aceptarla inmediatamente los dictadores, monarcas, ministros de economía y los gobernadores en República.
 
 ### Acuerdo militar
 
@@ -37,7 +35,7 @@ Inicias un frente de ataque desde una región costera de tu país a otra región
 
 ### Declaración de [guerra espacial](/4.-Guerras/Guerras/#batalla-espacial)
 
-Inicias un frente de ataque desde una región de tu país en la Tierra hacia otra  otra región de un país de otro bloque en la Luna. En ésta guerra se emplean satélites espaciales, la tropa más cara del juego, durante el día que dura la batalla. Ésta ley pueden aceptarla inmediatamente los dictadores, monarcas y presidentes con cargo de Comandante (ley) y sólo si la región seleccionada es de las 20 regiones con más puertos espaciales.
+Inicias un frente de ataque desde una región de tu país en la Tierra hacia otra otra región de un país de otro bloque en la Luna. En ésta guerra se emplean satélites espaciales, la tropa más cara del juego, durante el día que dura la batalla. Ésta ley pueden aceptarla inmediatamente los dictadores, monarcas y presidentes con cargo de Comandante (ley) y sólo si la región seleccionada es de las 20 regiones con más puertos espaciales.
 
 ### Modificación del impuesto sobre la renta
 
@@ -50,7 +48,7 @@ Establece un porcentaje a la renta en toda la nación. Se aplica sobre el dinero
   <figcaption>Aprobación de ley de consolidación</figcaption>
 </figure>
 
-Cede una región de tu nación a otra nación. El otro estado debe aceptar esta consolidación para que se realice correctamente, no pudiendo tardar mas de 1 hora. Ésta ley no puede aceptarse instantáneamente, tiene una duración de 24 horas desde que el país que recibe la región pone dicha ley en su parlamento. Cómo es de constumbre, ésta ley sólo pueden aceptarla que surta efecto el monarca, dictador o el parlamento en república por 50% o mas de los votos emitidos.  
+Cede una región de tu nación a otra nación. El otro estado debe aceptar esta consolidación para que se realice correctamente, no pudiendo tardar mas de 1 hora. Ésta ley no puede aceptarse instantáneamente, tiene una duración de 24 horas desde que el país que recibe la región pone dicha ley en su parlamento. Cómo es de constumbre, ésta ley sólo pueden aceptarla que surta efecto el monarca, dictador o el parlamento en república por 50% o mas de los votos emitidos.
 
 ### Nueva elección de parlamento
 
@@ -70,17 +68,17 @@ Establece un porcentaje a todos los recursos generados en toda la nación. Se ap
 
 ### Trabajando en la región sin residencia
 
-Impide o Permite trabajar en el territorio si no se cuenta con [residencia](/1.-Perfil/Residencias-y-Permisos-de-Trabajo/) o permiso de trabajo en el territorio. Ésta ley la puede aceptar de forma inmediata el monarca o dictador mientras que en república tarda 24 horas en aceptarse o tras obtener mas del 50% de los votos a favor.  
+Impide o Permite trabajar en el territorio si no se cuenta con [residencia](/1.-Perfil/Residencias-y-Permisos-de-Trabajo/) o permiso de trabajo en el territorio. Ésta ley la puede aceptar de forma inmediata el monarca o dictador mientras que en república tarda 24 horas en aceptarse o tras obtener mas del 50% de los votos a favor.
 
 ### Acuerdo migratorio
 
-Permite a los que se encuentren en la nación en cuestión entrar en el territorio de tu nación libremente a pesar de tener las fronteras cerradas o no tener ni permiso de trabajo ni residencia. Puede hacerse bilateral desde el otro parlamento y que desde tu nación pueda entrarse al otro estado, para cancelar el acuerdo basta con poner de nuevo la ley. Ésta ley pueden aceptarla inmediatamente los dictadores, monarcas y ministros de exteriores.  
+Permite a los que se encuentren en la nación en cuestión entrar en el territorio de tu nación libremente a pesar de tener las fronteras cerradas o no tener ni permiso de trabajo ni residencia. Puede hacerse bilateral desde el otro parlamento y que desde tu nación pueda entrarse al otro estado, para cancelar el acuerdo basta con poner de nuevo la ley. Ésta ley pueden aceptarla inmediatamente los dictadores, monarcas y ministros de exteriores.
 
 ### Tasas del mercado
 
 Establece un porcentaje a las ventas de todos los ciudadanos que se encuentren el territorio y hagan una transacción (venta, no compra). Se aplica sobre el dinero ($) obtenido por la venta de recursos o armas en el mercado. Esta tasa se extrae del precio establecido por el usuario. Pueden aceptarla inmediatamente los dictadores, monarcas y ministros de economía.
 
-### Cerrar/abrir fronteras  
+### Cerrar/abrir fronteras
 
 Permite o impide la libre circulación de personas que no cuenten con permiso de trabajo o residencia, ni provengan de un estado con acuerdo migratorio. Pueden aceptarla inmediatamente los dictadores, monarcas y ministros de exteriores.
 
@@ -98,17 +96,15 @@ Cambia el sistema de gobierno a [Partido Único](/3.-Politica/Formas-de-gobierno
 
 ### Cambiar título del estado
 
-Cambia el nombre del territorio por el texto seleccionado. Pueden aceptarla directamente dictadores y monarcas. Tambien pueden poner ésta ley los parlamentarios pero para que sea aprobada necesita 50% de los votos emitidos o mayoria tras 24h.  
+Cambia el nombre del territorio por el texto seleccionado. Pueden aceptarla directamente dictadores y monarcas. Tambien pueden poner ésta ley los parlamentarios pero para que sea aprobada necesita 50% de los votos emitidos o mayoria tras 24h.
 
 ### Confirmar consolidación de la región
 
-Tras proponer la ley de consolidación del estado emisor, se propone esta ley en el estado receptor para que el traspaso de la región se haga correctamente, no pudiendo pasar más de 1 hora desde la primera ley.  
-
-  
+Tras proponer la ley de consolidación del estado emisor, se propone esta ley en el estado receptor para que el traspaso de la región se haga correctamente, no pudiendo pasar más de 1 hora desde la primera ley.
 
 ### Cambiar el escudo de armas
 
-Cambia el escudo del territorio por la imagen seleccionada. Pueden aceptarla directamente dictadores y monarcas. Tambien pueden poner ésta ley los parlamentarios pero para que sea aprobada necesita 50% de los votos emitidos o mayoria tras 24h.  
+Cambia el escudo del territorio por la imagen seleccionada. Pueden aceptarla directamente dictadores y monarcas. Tambien pueden poner ésta ley los parlamentarios pero para que sea aprobada necesita 50% de los votos emitidos o mayoria tras 24h.
 
 ### Comandante de Estado
 
@@ -152,13 +148,13 @@ Elige a una persona como gobernador de una autonomía desde el parlamento nacion
 
 Tras contar con parlamento, una república parlamentaria(region independiente) puede establecerse como país. Inicia las elecciones de líder, que no podrá ser nombrado dictador ni cambiarse la forma de gobierno durante un mes. Se decreta en cuanto la mayoría de los parlamentarios la han aceptado.
 
-### Declarar monarquía 
+### Declarar monarquía
 
 El dictador pasa a ser rey, se cambia la forma de gobierno a [monarquía](/3.-Politica/Formas-de-gobierno/#monarquia) y se convocan elecciones parlamentarias. En monarquía las leyes pueden ser decretadas por los parlamentarios, pero el rey decide si se aceptan o se desechan. Ésta ley sólo puede decretarla el dictador.
 
 ### Declarar partido único
 
-El dictador permanece, pero aparece un Parlamento con los miembros del partido del Dictador. Ésta [forma de gobierno](/3.-Politica/Formas-de-gobierno/#sistema-unipartidista) es similar a dictadura, pero con un Parlamento que puede proponer leyes. Ésta forma de gobierno sólo puede decretarla el dictador.  
+El dictador permanece, pero aparece un Parlamento con los miembros del partido del Dictador. Ésta [forma de gobierno](/3.-Politica/Formas-de-gobierno/#sistema-unipartidista) es similar a dictadura, pero con un Parlamento que puede proponer leyes. Ésta forma de gobierno sólo puede decretarla el dictador.
 
 ### Cancelar dictadura
 

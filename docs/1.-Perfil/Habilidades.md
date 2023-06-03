@@ -1,4 +1,3 @@
-
 # Habilidades
 
 Las habilidades, también conocidas como stats o perks, son "estadísticas" que conceden ciertas ventajas dentro del juego. Puedes encontrarlas en el perfil del jugador. Aumentar las habilidades tiene un coste de dinero (lento) u oro (rápido).
@@ -10,7 +9,9 @@ Hay tres: Fuerza, educación y resistencia.
   <figcaption>Habilidades</figcaption>
 </figure>
 
-> **Recomendación:** [Calculadora de coste y tiempo de aprendizaje](https://rr-tools.eu/perk).
+??? tip "Recomendación"
+
+    [Calculadora de coste y tiempo de aprendizaje](https://rr-tools.eu/perk).
 
 ## Fuerza
 
@@ -18,7 +19,7 @@ Hay tres: Fuerza, educación y resistencia.
 
 - Mejora ligeramente la productividad del trabajo.
 
-- Reduce el coste de producción en armas.  
+- Reduce el coste de producción en armas.
 
 ## Educación
 
@@ -28,24 +29,23 @@ Hay tres: Fuerza, educación y resistencia.
 
 - Reduce el coste de producción en armas.
 
-- A partir del nivel 100 puedes trabajar en los departamentos del estado.  
-    
+- A partir del nivel 100 puedes trabajar en los departamentos del estado.
 
 ## Resistencia
 
 > Antiguamente conocido como aguante
 
 - Reduce la cantidad de energía que se gasta al trabajar y luchar en las guerras:
-    
-    - A partir del nivel 50 de la habilidad gastas la menor cantidad de energía en el trabajo y aumenta la cantidad de tropas posibles.
-    
-    - A partir del nivel 75 de la habilidad aumenta, otra vez, la cantidad de tropas posibles.
-    
-    - A partir del nivel 100 de aguante envías la mayor cantidad de tropas por golpe
+
+  - A partir del nivel 50 de la habilidad gastas la menor cantidad de energía en el trabajo y aumenta la cantidad de tropas posibles.
+
+  - A partir del nivel 75 de la habilidad aumenta, otra vez, la cantidad de tropas posibles.
+
+  - A partir del nivel 100 de aguante envías la mayor cantidad de tropas por golpe
 
 - Aumenta el espacio de almacén a razón de +1% por nivel.
 
-- Además afecta tu daño en guerras. 
+- Además afecta tu daño en guerras.
 
 ### Tiempo de Aprendizaje
 
@@ -53,11 +53,11 @@ Hay tres: Fuerza, educación y resistencia.
 
 - El tiempo que tarde dependerá de:
 
-    - Nivel al que está (mayor nivel, más tiempo).
+  - Nivel al que está (mayor nivel, más tiempo).
 
-    - Índice de educación de la región de residencia (no en la que estés en ese momento)
+  - Índice de educación de la región de residencia (no en la que estés en ese momento)
 
-    - Nivel de la biblioteca (casa).
+  - Nivel de la biblioteca (casa).
 
 - [Formula oficial](https://wiki.rivalregions.com/Perks/es). Esta formula no contempla la biblioteca.
 
@@ -70,19 +70,19 @@ Hay tres: Fuerza, educación y resistencia.
 
 - A cambio de cierta cantidad de oro o dinero puedes aumentar en 100 el nivel de un stat de forma temporal. Contra mayor sea el valor de la habilidad, menor será el tiempo del boost.
 - Tiene un cooldown de 5 días.
-- Se recomienda solamente el **boost de Fuerza** en momentos puntuales y preferiblemente el que consume dinero. El de oro únicamente en guerras muy serias.   
+- Se recomienda solamente el **boost de Fuerza** en momentos puntuales y preferiblemente el que consume dinero. El de oro únicamente en guerras muy serias.
 
 ### Orden en que subir las habilidades
 
 (Fuerza|Educación|Resistencia)
 
-1.  ```30 |  30 | 30```  
-2.  ```30 |  30 | 50``` 
-3.  ```30 |  50 | 50```
-4.  ```50 |  50 | 50```
-5.  ```50 |  50 | 100```
-6.  ```50 | 100 | 100```
-7. ```100 | 100 | 100```
+1.  `30 |  30 | 30`
+2.  `30 |  30 | 50`
+3.  `30 |  50 | 50`
+4.  `50 |  50 | 50`
+5.  `50 |  50 | 100`
+6.  `50 | 100 | 100`
+7.  `100 | 100 | 100`
 
 #### Camino del Novato
 
@@ -91,8 +91,7 @@ A partir del nivel 100 de la habilidad, depende del objetivo de cada usuario. Si
 #### Camino del Guerrero
 
 - Subir Fuerza siempre que el tiempo de mejora sea inferior al doble del tiempo de mejora de Educación o Resistencia.
-- Subir Educación y Resistencia a la vez, si el tiempo de mejora es inferior a la mitad del tiempo de mejora de Fuerza.  
-    
+- Subir Educación y Resistencia a la vez, si el tiempo de mejora es inferior a la mitad del tiempo de mejora de Fuerza.
 
 #### Camino del Empresario
 

@@ -4,6 +4,10 @@ title: Indice Historia
 
 # Historia de España en RR
 
+!!! quote
+
+    El Pueblo que no conoce su historia está condenado a repetirla
+
 Está sección ha sido transcrita desde los canales del servidor de Discord del Lambda.
 
 Fue escrita en su momento inicial por **[Tun Ant](https://rivalregions.com/#slide/profile/2000156291)** y posteriormente continuada por **[Erik B](https://rivalregions.com/#slide/profile/2000213056)**.
@@ -25,5 +29,3 @@ Fue escrita en su momento inicial por **[Tun Ant](https://rivalregions.com/#slid
 ## Se buscan historiadores voluntarios
 
 Y aquí termina el relato contado por Tun Ant y Erik B. Por cosas del destino ambos han abandonado el juego y por tanto la historia de España en RR está inacabada. Si quieres aportar con la continuación de la sección, contacta con [@pablo_rr](https://t.me/pablo_rr).
-
-> El Pueblo que no conoce su historia está condenado a repetirla
