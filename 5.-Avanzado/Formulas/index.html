@@ -888,92 +888,94 @@
 <article class="md-content__inner md-typeset">
 <h1 id="formulas">Fórmulas</h1>
 <h2 id="dano">Daño</h2>
-<pre><code>[1 + Índice militar/20 
-+ Sistema de Misiles/400 
-+ Puerto naval/400 
-+ Aeropuerto/400 
-+ Academia militar/400 
-+ Fuerza/100 
-+ Bonus de Nación X 3 
+<div class="highlight"><pre><span></span><code>[1 + Índice militar/20
++ Sistema de Misiles/400
++ Puerto naval/400
++ Aeropuerto/400
++ Academia militar/400
++ Fuerza/100
++ Bonus de Nación X 3
 + (Educación + Aguante + Nivel)/200]
 * [α-daño](/4.-Guerras/Daño-alpha/) de las tropas
-</code></pre>
+</code></pre></div>
 <blockquote>
 <p>Por otro lado se resta la penalización por distancia y se multiplica por la variable de error cuyo valor es aleatorio <code>(+/- 12,5%)</code>.</p>
 </blockquote>
 <h2 id="penalizacion-por-distancia">Penalización por distancia</h2>
-<pre><code>y = 0,017683x^0,9
+<div class="highlight"><pre><span></span><code>y = 0,017683x^0,9
 
 y: Penalización (%)
 
 x: Distancia (km)
 
 Distancia máxima sin penalización: 500km
-</code></pre>
+</code></pre></div>
 <h2 id="penalizacion-por-contaminacion">Penalización por contaminación</h2>
-<pre><code>y = 0,09x^0,8
+<div class="highlight"><pre><span></span><code>y = 0,09x^0,8
 
 y: Penalización (%)
 
 x: Contaminación (uds)
-</code></pre>
-<blockquote>
-<p><strong>Nota:</strong> A partir de radiación <code>48,5</code> el tiempo de recarga es mayor que el tiempo de trabajo automático <code>(2%, 12 seg)</code>, por lo que se deja de conseguir oro.</p>
-</blockquote>
+</code></pre></div>
+<div class="admonition note">
+<p class="admonition-title">Nota</p>
+<p>A partir de radiación <code>48,5</code> el tiempo de recarga es mayor que el tiempo de trabajo automático <code>(2%, 12 seg)</code>, por lo que se deja de conseguir oro.</p>
+</div>
 <h2 id="experiencia-de-nivel">Experiencia de nivel</h2>
 <h3 id="trabajo">Trabajo</h3>
-<pre><code>y = 100x
+<div class="highlight"><pre><span></span><code>y = 100x
 
 y: Experiencia de nivel (Exp)
 
 x: Energía trabajada (E)
-</code></pre>
+</code></pre></div>
 <h3 id="stats">Stats</h3>
-<pre><code>y = 100x
+<div class="highlight"><pre><span></span><code>y = 100x
 
 y: Experiencia de nivel (Exp)
 
 x: Nuevo nivel conseguido del stat (uds)
-</code></pre>
+</code></pre></div>
 <h3 id="guerra">Guerra</h3>
-<pre><code>y = x/3
+<div class="highlight"><pre><span></span><code>y = x/3
 
 y: Experiencia de nivel (Exp)
 
 x: Daño producido (uds)
-</code></pre>
+</code></pre></div>
 <h2 id="capacidad-de-fabricas">Capacidad de fábricas</h2>
 <h3 id="petroleo">Petróleo</h3>
-<pre><code>y = 40.000.000x
+<div class="highlight"><pre><span></span><code>y = 40.000.000x
 
 y: Capacidad de la fábrica (bbl)
 
 x: Nivel de la fábrica (uds)
-</code></pre>
+</code></pre></div>
 <h3 id="mineral">Mineral</h3>
-<pre><code>y = 40.000.000x
+<div class="highlight"><pre><span></span><code>y = 40.000.000x
 
 y: Capacidad de la fábrica (kilo)
 
 x: Nivel de la fábrica (uds)
-</code></pre>
+</code></pre></div>
 <h3 id="uranio">Uranio</h3>
-<pre><code>y = 5.000.000x
+<div class="highlight"><pre><span></span><code>y = 5.000.000x
 
 y: Capacidad de la fábrica (g)
 
 x: Nivel de la fábrica (uds)
-</code></pre>
+</code></pre></div>
 <h3 id="diamante">Diamante</h3>
-<pre><code>y = 50.000x
+<div class="highlight"><pre><span></span><code>y = 50.000x
 
 y: Capacidad de la fábrica (pcs)
 
 x: Nivel de la fábrica (uds)
-</code></pre>
-<blockquote>
-<p><strong>Nota:</strong> Ninguna de ellas presenta un límite de almacenaje de dinero (€).</p>
-</blockquote>
+</code></pre></div>
+<div class="admonition note">
+<p class="admonition-title">Nota<p>Ninguna de ellas presenta un límite de almacenaje de dinero (€).</p>
+</p>
+</div>
 <h2 id="experiencia-laboral">Experiencia laboral</h2>
 <ul>
 <li>
@@ -986,40 +988,41 @@ x: Nivel de la fábrica (uds)
 <p>Dos mentores: <code>y = 6x/10</code></p>
 </li>
 </ul>
-<pre><code>Experiencia laboral (Exp lab)
+<div class="highlight"><pre><span></span><code>Experiencia laboral (Exp lab)
 
 x: Energía trabajada (E)
-</code></pre>
-<blockquote>
-<p><strong>Nota:</strong> Está fórmula es aplicable tanto para recursos como para oro.</p>
-</blockquote>
+</code></pre></div>
+<div class="admonition note">
+<p class="admonition-title">Nota<p>Está fórmula es aplicable tanto para recursos como para oro.</p>
+</p>
+</div>
 <h2 id="bonus-de-nacion-por-puntos-nacionales-trabajados-en-cada-categoria-de-los-departamentos">Bonus de nación por puntos nacionales trabajados en cada categoría de los departamentos</h2>
-<pre><code>x = a/b x 10%
+<div class="highlight"><pre><span></span><code>x = a/b x 10%
 
 x: Bonus nacional (%)
 
 a: Puntos de tu nación (uds)
 
 b: Puntos de la nación con más puntos (uds)
-</code></pre>
+</code></pre></div>
 <h2 id="dano-alpha">Daño alpha</h2>
-<pre><code>y = 2.500 x (a + 20)
+<div class="highlight"><pre><span></span><code>y = 2.500 x (a + 20)
 
 y: Daño Alpha (uds)
 a: Nivel de experiencia (uds)
-</code></pre>
+</code></pre></div>
 <h2 id="almacen">Almacén</h2>
-<pre><code>y = x * (1 + a/198) * (b) * (1 + (c - 100)/200)
+<div class="highlight"><pre><span></span><code>y = x * (1 + a/198) * (b) * (1 + (c - 100)/200)
 
 y: Almacenamiento
 x: Capacidad inicial
 a: Nivel de casa (uds)
 b: Nivel de experiencia (uds)
 c: Nivel de Resistencia (uds)
-</code></pre>
+</code></pre></div>
 <h3 id="capacidad-inicial-para-recursos">Capacidad inicial para Recursos</h3>
 <ul>
-<li>Petróleo:  <code>7.200.000</code></li>
+<li>Petróleo: <code>7.200.000</code></li>
 <li>Mineral: <code>7.200.000</code></li>
 <li>Uranio: <code>480.000</code></li>
 <li>Diamantes: <code>1.200</code></li>
@@ -1036,30 +1039,30 @@ c: Nivel de Resistencia (uds)
 <li>Tanques: <code>180.000</code></li>
 <li>Aviones de Combate: <code>24.000</code></li>
 <li>Bombarderos: <code>2250</code></li>
-<li>Misiles:  <code>No Aplica</code></li>
+<li>Misiles: <code>No Aplica</code></li>
 <li>Acorazados: <code>900</code></li>
 <li>Tanques Lunares: <code>900</code></li>
-<li>Estación Espacial:  <code>360</code></li>
+<li>Estación Espacial: <code>360</code></li>
 </ul>
 <h2 id="huecos-por-nivel-de-fabrica">Huecos por nivel de fábrica</h2>
 <blockquote>
 <p>Calculada por <strong>Joan Rovira</strong></p>
 </blockquote>
-<pre><code>y = 0,28x + 0,98
+<div class="highlight"><pre><span></span><code>y = 0,28x + 0,98
 
 y: Huecos de la fábrica (usuarios)
 x: Nivel de fábrica (uds)
-</code></pre>
+</code></pre></div>
 <h2 id="dano-inicial-en-un-frente">Daño inicial en un frente</h2>
-<pre><code>x = 450.000c
+<div class="highlight"><pre><span></span><code>x = 450.000c
 y = 50.000a + 100.000b + 450.000c
 
-x: Daño inicial en ataque 
+x: Daño inicial en ataque
 y: Daño inicial en defensa
 a: Número de edificios totales (sin viviendas ni academias ni bases militares)
 b: Bases militares
 c: Academias militares
-</code></pre>
+</code></pre></div>
 <h2 id="coste-de-construccion-de-edificios">Coste de construcción de edificios</h2>
 <h3 id="hospitales">Hospitales</h3>
 <ul>
@@ -1131,9 +1134,9 @@ c: Academias militares
 <li>Uranio: <code>y = 89x^1,5</code></li>
 <li>Diamantes: <code>y = 3x^1,5</code></li>
 </ul>
-<pre><code>y: Coste de un edificio más 
+<div class="highlight"><pre><span></span><code>y: Coste de un edificio más
 x: Número del edificio construido
-</code></pre>
+</code></pre></div>
 </article>
 </div>
 </div>
