@@ -1,11 +1,15 @@
 # Partido político
 
-> _Ultima revisión: 01/10/2022 por [@Marco_15](https://t.me/Marco_15)_
+??? note "Últimas revisiones"
+
+    - _01/10/2022 por [@Marco_15](https://t.me/Marco_15)_
 
 <!-- * -->
 
 > Un partido político es una asociación de cuentas lideradas por un fundador (quien posee la corona) y sus secretarios. Solo estos pueden aceptar nuevos miembros.
+
 <!-- * -->
+
 > Pertenecer a un partido político te permite optar a la presidencia o a escaños del parlamento dentro del estado en el que se sitúe.
 
 <figure markdown>
@@ -55,9 +59,9 @@ Si el partido desaparece o la región en la que se encuentra abandona la nación
 
 El partido ofrece candidatos a la presidencia en [**República**](/3.-Politica/Formas-de-gobierno/#republica-presidencial), y estos son:
 
-- El fundador del partido, es decir, el líder del mismo. 
+- El fundador del partido, es decir, el líder del mismo.
 
-- La persona que ocupa la primera posición en la lista del partido. 
+- La persona que ocupa la primera posición en la lista del partido.
 
 - Si ambas posiciones coinciden este será el único candidato que proponga el partido a las elecciones presidenciales.
 
@@ -73,6 +77,7 @@ Si el partido desaparece o la región en la que se encuentra abandona la nación
 En septiembre de 2022 el sistema de sueldos fue modificado. Actualmente, existen 2 tipos de salario de partido.
 
 ### Salario en kkk
+
 Es un **salario en dinero** del juego que puede ser recibido diariamente (en el reset diario). Estos pagos salen del balance del líder del partido.
 
 La cantidad a percibir, es asignada por el líder. Si este lo pone en RR PC, el salario se aplica a todo el partido. Sin embargo, en móvil, se ha de asignar el sueldo manualmente cuenta a cuenta.
@@ -91,7 +96,6 @@ La cantidad a percibir, es asignada por el líder. Si este lo pone en RR PC, el 
   ![Imagen de salario de partido](/img/posts/politica/partido/salario-individual.jpg){ .screenshot loading=lazy }
   <figcaption>Salario individual</figcaption>
 </figure>
-
 
 ### Salario de oro
 

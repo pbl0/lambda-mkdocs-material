@@ -1,6 +1,8 @@
 # Leyes
 
-> _Ultima revisión: 03/08/2022 por [@Gohkduk](https://t.me/Gohkduk)_
+??? note "Últimas revisiones"
+
+    - _03/08/2022 por [@Gohkduk](https://t.me/Gohkduk)_
 
 <figure markdown>
   ![Imagen de parlamento](/img/posts/politica/parlamento.jpg){ .screenshot loading=lazy }
@@ -121,6 +123,17 @@ Una vez aprobada se convocan nuevas elecciones presidenciales. Ésta ley no pued
 ### Residencia
 
 Permite alternar entre conceder las [residencias](/1.-Perfil/Residencias-y-Permisos-de-Trabajo/) libremente (se solicitan y aceptan directamente por encontrarte en esa región) o las acepta/deniega el líder o el ministro de exteriores en República. Ésta ley no puede aceptarse instantáneamente.
+
+Si las residencias las emite el lider se añade un coste por región:
+
+|  Recurso  | Gasto por minuto (por cada región) |
+| :-------: | :--------------------------------: |
+|  Dinero   |              500.000               |
+|    Oro    |              500.000               |
+| Petróleo  |                200                 |
+|  Mineral  |                200                 |
+|  Uranio   |                 20                 |
+| Diamantes |                0.25                |
 
 ### Gestión de autonomías
 

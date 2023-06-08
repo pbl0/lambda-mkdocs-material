@@ -10,6 +10,8 @@ El proyecto original fue creado por Alexia/Yuuuh/Elsa, antiguo jugador de RR que
 
 La nueva página **no tiene ánimos de lucro**, ni tendrá anuncios ya que tampoco tiene costes de hosteo.
 
+El contenido aquí presente pertenece al conjunto de la comunidad española de RR, si vas a utilizarlo o modificarlo para otros usos por favor acreditar debidamente añadiendo un enlace a esta página.
+
 ## ¿Eres nuevo en RR?
 
 Empieza por [primeros pasos](/01-Primeros-Pasos).
@@ -25,6 +27,19 @@ Tareas pendientes:
 
 - [ ] Revisar actualizaciones del juego.
 - [ ] Añadir contenido del discord.
+
+- [x] ~~Guía Nueva Casa.~~
+- [x] ~~Borrar artículos innecesarios o redundantes.~~
+- [x] ~~Mejorar diseño (migrar a mkdocs)~~
+- [x] ~~Añadir barra de busqueda.~~
+- [x] ~~Añadir sección de historia.~~
+- [x] ~~Corregir tablas rotas~~
+- [x] ~~Arreglar tablas de contenido:~~
+  - [x] ~~Perfil~~
+  - [x] ~~Politica~~
+  - [x] ~~Economia~~
+  - [x] ~~Guerras~~
+  - [x] ~~Historia~~
 - [ ] Añadir capturas de pantalla:
   - [ ] Formas de gobierno
   - [ ] Votar
@@ -45,15 +60,3 @@ Tareas pendientes:
   - [x] ~~Tropas~~
   - [x] ~~Parlamento~~
   - [x] ~~Daño alpha~~
-- [x] ~~Guía Nueva Casa.~~
-- [x] ~~Borrar artículos innecesarios o redundantes.~~
-- [x] ~~Mejorar diseño (migrar a mkdocs)~~
-- [x] ~~Añadir barra de busqueda.~~
-- [x] ~~Añadir sección de historia.~~
-- [x] ~~Corregir tablas rotas~~
-- [x] ~~Arreglar tablas de contenido~~
-  - [x] ~~Perfil~~
-  - [x] ~~Politica~~
-  - [x] ~~Economia~~
-  - [x] ~~Guerras~~
-  - [x] ~~Historia~~

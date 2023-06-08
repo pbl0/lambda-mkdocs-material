@@ -2,6 +2,11 @@
 
 ## República presidencial
 
+<figure markdown>
+  ![Imagen de república](/img/posts/formas-de-gobierno/republic.png){ .screenshot loading=lazy }
+  <figcaption>República</figcaption>
+</figure>
+
 _**Descripción:**_
 
 Hay elecciones cada 5 días: Parlamentarias y presidenciales. No tienen por qué coincidir, son independientes.
@@ -20,6 +25,11 @@ Es más fácil perder el control del país y las reformas administrativas no se 
 
 ## Dictadura
 
+<figure markdown>
+  ![Imagen de dictadura](/img/posts/formas-de-gobierno/dictatorship.png){ .screenshot loading=lazy }
+  <figcaption>Dictadura</figcaption>
+</figure>
+
 **_Descripción:_**
 
 Para decretarla es necesario que el país exista desde hace 31 días y el 80% de los parlamentarios la aprueben. Se cancelan las elecciones y el dictador gobierna en solitario al desaparecer el Parlamento. El Dictador nombra al Asesor económico, que recarga el oro y construye inmediatamente (no hace traspasos de forma inmediata). En éste modelo de gobierno los gobernadores no tienen ningún poder. Por último hay que decir que el Dictador hace casi todas las leyes inmediatamente.
@@ -33,7 +43,10 @@ Existe un mayor control de las decisiones y del poder del país. La mayoría de 
 Los cargos ganan menos oro. Una o dos personas ostentan todas las decisiones y el resto no tiene poder real.
 
 ## Monarquía
-
+<figure markdown>
+  ![Imagen de monarquía](/img/posts/formas-de-gobierno/monarchy.png){ .screenshot loading=lazy }
+  <figcaption>Monarquía</figcaption>
+</figure>
 **_Descripción:_**
 
 Para decretarla es necesario que el país sea una dictadura ya que sólo se puede pasar de monarquía a través de la Dictadura por ello es el Dictador el que decreta la monarquía. Esto hará que de comienzo las elecciones parlamentarias. El rey nombra al Asesor económico, que recarga el oro y construye inmediatamente (no hace traspasos de forma inmediata). En ésta forma de gobierno, los gobernadores no tienen ningún poder. Por último, el monarca tiene el poder de decisión real y aunque no plantee él todas las leyes decide cuáles se aprueban.
@@ -47,6 +60,11 @@ Existe mucho control de las decisiones en el país. Las leyes propuestas por el 
 El Rey es a fin de cuenta quien tiene el poder real en el parlamento, por ello tanto los gobernadores y parlamentarios pierden su derecho a votar y decidir. A esto hay que sumarle que los cargos ganan menos oro.
 
 ## Partido único
+
+<figure markdown>
+  ![Imagen de partido único](/img/posts/formas-de-gobierno/one-party.png){ .screenshot loading=lazy }
+  <figcaption>Partido único</figcaption>
+</figure>
 
 **_Descripción:_**
 
@@ -74,9 +92,9 @@ Existe un mayor control de las decisiones y del poder del país. La mayoría de 
 
 Los cargos ganan menos oro. Muy pocas personas pueden proponer medidas, y sólo una controla aquellas que pueden aprobarse. El resto de partidos no tienen representación.
 
-## República parlamentarista (autonómico)
+## República parlamentaria (autonómico)
 
-**_Descripció_**n:
+**_Descripción_**:
 
 Se da en autonomías en las que no has nombrado un gobernador, por lo que nadie asume el cargo y sólo hay un Parlamento. El Parlamento Autonómico está ocupado por los partidos según su resultado electoral. Las elecciones se producen normalmente cada 5 días. En ésta forma de gobierno no existe el gobernador y el Parlamento Autonómico tiene todo el poder de decisión.  
 

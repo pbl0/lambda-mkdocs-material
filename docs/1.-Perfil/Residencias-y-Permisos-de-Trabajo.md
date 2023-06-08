@@ -7,13 +7,13 @@
 
 - Para viajar a un lugar, en el perfil de la región de interés, seleccionas el botón de «Viajar aquí» y comienzas a desplazarte, lo que tarda unos minutos (cuanto más lejos estás de la región más tiempo tardará en viajar)  
 
-- Sin embargo, esto no siempre es posible ya que la mayoría de regiones tienen las [«Fronteras cerradas»](/3.-Politica/Leyes/#cerrarabrir-fronteras) y no existe un [«Acuerdo migratorio»](/3.-Politica/Leyes/#acuerdo-migratorio) entre el país al que quieres ir y en el que te encuentras. Al seleccionar el botón se quedará en rojo y no te permitirá desplazarte.
+- Sin embargo, esto no siempre es posible ya que la mayoría de regiones tienen las [fronteras cerradas](/3.-Politica/Leyes/#cerrarabrir-fronteras) y no existe un [acuerdo migratorio](/3.-Politica/Leyes/#acuerdo-migratorio) entre el país al que quieres ir y en el que te encuentras. Al seleccionar el botón se quedará en rojo y no te permitirá desplazarte.
 
 - Para obtener el permiso de residencia o trabajo una vez solicitado puede ser mediante dos mecanismos
 
-    - Petición: Se hace a distancia cuando es una región que pertenece a algún país. Tanto permiso como residencia. Debe ser aprobada por la persona al cargo.
+    - **Petición**: Se hace a distancia cuando es una región que pertenece a algún país. Tanto permiso como residencia. Debe ser aprobada por la persona al cargo.
 
-    - Directamente: En una región independiente con frontera abiertas puede viajar y solicitar la residencia una vez te encuentres en la región. Se acepta al momento, ya que no necesita ser aceptada por nadie. También puede ser que haya una región que admita residencia gratuita si te encuentras dentro. Lo podrás ver en el panel de la región.
+    - **Directamente**: En una región independiente con frontera abiertas puede viajar y solicitar la residencia una vez te encuentres en la región. Se acepta al momento, ya que no necesita ser aceptada por nadie. También puede ser que haya una región que admita residencia gratuita si te encuentras dentro. Lo podrás ver en el panel de la región. Esto también ocurre si el Estado no ha aprobado la ley de [residencias son emitidas por el líder](/3.-Politica/Leyes/#residencia).
 
 - Los permisos de trabajo son revocables por el líder del Estado y por el propio jugador. La residencia solo la puede cambiar el propio jugador al pedir residencia en otra región.
 
@@ -23,10 +23,11 @@
 
 #### Persona al cargo de aceptar tu solicitud
 
-- [República](/3.-Politica/Formas-de-gobierno/#republica-presidencial): Tanto el presidente como el ministro de exteriores pueden aceptarla.
-- [Monarquía](/3.-Politica/Formas-de-gobierno/#monarquia)/[Dictadura](/3.-Politica/Formas-de-gobierno/#dictadura): Únicamente el Monarca/Dictador.
 
-Nunca preguntes al gobernador de la autonomía a la que pertenece la región, sólo los nombrados anteriormente.  
+- [**República**](/3.-Politica/Formas-de-gobierno/#republica-presidencial): Tanto el presidente como el ministro de exteriores pueden aceptarla.
+- [**Monarquía**](/3.-Politica/Formas-de-gobierno/#monarquia)/[**Dictadura**](/3.-Politica/Formas-de-gobierno/#dictadura): Únicamente el Monarca/Dictador.
+
+Nunca preguntes al gobernador de la autonomía a la que pertenece la región, sólo los nombrados anteriormente.
 Si no te aceptan la solicitud prueba a hablar con el cargo responsable de dártela. Escríbele en inglés y sé siempre respetuoso, a veces hace falta preguntar varias veces o durante varios días.
 
 #### ¿Te han aceptado la solicitud?
