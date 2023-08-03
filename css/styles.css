@@ -5,6 +5,19 @@ body[data-md-color-scheme="default"] {
   --md-default-bg-color: #f9f9f9 !important;
 }
 
+.screenshot {
+  max-width: 360px !important;
+
+  view-timeline-name: --image;
+  view-timeline-axis: block;
+
+  animation-timeline: --image;
+  animation-name: show;
+
+  animation-range: entry 25% cover 30%;
+  animation-fill-mode: both;
+}
+
 .md-typeset {
   font-size: 0.9rem;
 }
@@ -23,17 +36,4 @@ body[data-md-color-scheme="default"] {
     opacity: 1;
     scale: 100%;
   }
-}
-
-.screenshot {
-  max-width: 360px !important;
-  /* Animation below */
-  view-timeline-name: --image;
-  view-timeline-axis: block;
-
-  animation-timeline: --image;
-  animation-name: show;
-
-  animation-range: entry 25% cover 35%;
-  animation-fill-mode: both;
 }
