@@ -51,5 +51,6 @@ extra:
       link: https://pablob.eu
 copyright: Copyright &copy; 2021-2022 Pablo
 plugins:
-  - search
+  - search:
+      lang: es
   - glightbox

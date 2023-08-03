@@ -1,8 +1,13 @@
 # Recursos
 
+??? note "Últimas revisiones"
+
+    - _03/08/2023 [@SilverFRE](https://t.me/SilverFRE)_
+
 Existen varios recursos en el juego, cada uno tiene sus funciones y formas de conseguirlo
 
 ## Recursos
+
 ### Dinero
 
 - El más común y sencillo. Según la traducción del usuario puede tener un símbolo u otro, pero todos son el mismo valor (no hay moneda de países ni nada).
@@ -19,8 +24,7 @@ Existen varios recursos en el juego, cada uno tiene sus funciones y formas de co
 
 - El petróleo es necesario para crear la mayoría de elementos (armamento, subir la [casa](../../1.-Perfil/Casa/) de nivel, edificios y más).
 - Pueden ser obtenidos en fábricas o comprándolos en el almacén.
-- Puede donarse a regiones y países  
-    
+- Puede donarse a regiones y países
 
 ### Mineral
 
@@ -38,15 +42,13 @@ Existen varios recursos en el juego, cada uno tiene sus funciones y formas de co
 
 - Los diamantes son un tipo de recurso, que es necesario para crear Anti-radiación, misiles balísticos, Tanques lunares y estaciones espaciales.
 - Pueden ser obtenidos en fábricas o comprándolos en el almacén.
-- Puede donarse a regiones y países.  
-    
+- Puede donarse a regiones y países.
 
 ### Oxigeno Líquido
 
 - Necesario para la producción de cohetes espaciales, tanques lunares y estaciones espaciales.
 - Pueden ser obtenidos en fábricas o comprándolos en el almacén.
-- Sólo se encuentra en el planeta tierra.  
-    
+- Sólo se encuentra en el planeta tierra.
 
 ### Helio 3
 
@@ -62,8 +64,7 @@ Cada región dispone de un límite diario independiente para extraer recursos. E
 - 600 Petróleo
 - 500 Minerales
 - 60 Uranio
-- 75 Diamantes  
-    
+- 75 Diamantes
 
 Una vez llegado al límite de recursos, no es posible extraer mas y el modo automático de la cuenta Premium se detiene. El límite se reinicia en la hora [fin del día](/1.-Perfil/Fin-del-Dia/).
 
@@ -73,6 +74,6 @@ En la luna, el funcionamiento de los recursos cambia en distintos matices. Los r
 
 Luego, hay otros recursos como el oxígeno líquido y el helio que, como dice más arriba, sólo pueden extraerse uno en la tierra y otro en la luna respectivamente, pero se caracterizan por no tener un límite diario, sino que funcionan mediante plantas energéticas, cuantas más plantas mayor producción.
 
-Por último, en su momento, se añadió un nuevo recurso junto con la región de marte, el rivalium. Este funciona con la experiencia que tienes del diamante y debes tener sistemas de soporte vital SSV para poder mantenerte en marte. El gasto por mantenerte en marte es de 4 SSVs por minuto. Esto añadido, al tiempo del viaje hasta marte, lo convierten en un recurso que no todo el mundo considera picar, lo cual supone que aumente su precio. Además, este recurso no se rige por ningún índice en particular, sólo existe una mina en marte donde poder picarlo que pertenece al administrador y no la sube de nivel, así que simplemente se gana más cuanta mayor es tu experiencia en diamantes. El rivalium sólo puede usarse para construir drones, unidades de combate bastante caras, pero que tienen un bufo de daño del 25%.
+Por último, en su momento, se añadió un nuevo recurso junto con la región de marte, el rivalium. Este funciona con la experiencia que tienes del diamante y debes tener sistemas de soporte vital SSV para poder mantenerte en marte. El gasto por mantenerte en marte es de 1 SSV/minuto. Esto añadido, al tiempo del viaje hasta marte, lo convierten en un recurso que no todo el mundo considera picar, lo cual supone que aumente su precio. Además, este recurso no se rige por ningún índice en particular, sólo existe una mina en marte donde poder picarlo que pertenece al administrador y no la sube de nivel, así que simplemente se gana más cuanta mayor es tu experiencia en diamantes. El rivalium sólo puede usarse para construir drones, unidades de combate bastante caras, pero que tienen un bufo de daño del 25%.
 
 > Información proporcionada por Zape

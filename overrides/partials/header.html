@@ -17,7 +17,7 @@
   IN THE SOFTWARE.
 -->
 
-<!-- Determine class according to configuration -->
+<!-- Determine base classes -->
 {% set class = "md-header" %}
 {% if "navigation.tabs.sticky" in features %}
   {% set class = class ~ " md-header--lifted" %}
@@ -27,7 +27,7 @@
 <header class="{{ class }}" data-md-component="header">
   <nav
     class="md-header__inner md-grid"
-    aria-label="{{ lang.t('header.title') }}"
+    aria-label="{{ lang.t('header') }}"
   >
 
     <!-- Link to home -->
@@ -114,7 +114,7 @@
           {% set icon = config.theme.icon.alternate or "material/translate" %}
           <button
             class="md-header__button md-icon"
-            aria-label="{{ lang.t('select.language.title') }}"
+            aria-label="{{ lang.t('select.language') }}"
           >
             {% include ".icons/" ~ icon ~ ".svg" %}
           </button>
@@ -138,7 +138,7 @@
     {% endif %}
 
     <!-- Button to open search modal -->
-    {% if "search" in config["plugins"] %}
+    {% if "material/search" in config["plugins"] %}
       <label class="md-header__button md-icon" for="__search">
         {% include ".icons/material/magnify.svg" %}
       </label>
