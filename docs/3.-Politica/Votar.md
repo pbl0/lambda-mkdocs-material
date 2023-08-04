@@ -4,6 +4,7 @@ title: Votar
 rank: 3
 category: politica
 ---
+
 # Votar
 
 Una vez cada 5 días tiene lugar una votación para elegir al líder de la nación (presidenciales) y otra para asignar los escaños del Parlamento (parlamentarias).
@@ -11,6 +12,11 @@ Una vez cada 5 días tiene lugar una votación para elegir al líder de la naci�
 Dependiendo de la forma de gobierno encontramos diferentes [elecciones](/3.-Politica/Elecciones/):
 
 En [**República**](/3.-Politica/Formas-de-gobierno/#republica-presidencial) hay elecciones presidenciales (elegir al líder de la nación) y parlamentarias (votar al partido para que consiga escaños).
+
+<figure markdown>
+  ![Imagen de elecciones](/img/posts/votar/votar-elecciones.png){ .screenshot loading=lazy }
+  <figcaption>Elecciones</figcaption>
+</figure>
 
 En [**Monarquía**](/3.-Politica/Formas-de-gobierno/#monarquia) hay elecciones parlamentarias pero el parlamento no tiene tanta importancia. En [**Dictadura**](/3.-Politica/Formas-de-gobierno/#dictadura) no hay elecciones de ningún tipo.
 

@@ -8,6 +8,11 @@ Existen varios recursos en el juego, cada uno tiene sus funciones y formas de co
 
 ## Recursos
 
+<figure markdown>
+  ![Imagen del almacén](/img/posts/almacen/almacen.jpg){ .screenshot loading=lazy }
+  <figcaption>Almacén</figcaption>
+</figure>
+
 ### Dinero
 
 - El más común y sencillo. Según la traducción del usuario puede tener un símbolo u otro, pero todos son el mismo valor (no hay moneda de países ni nada).

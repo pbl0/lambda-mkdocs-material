@@ -4,14 +4,21 @@
 
 ## Tipos de impuestos
 
+<figure markdown>
+  ![Imagen de impuestos](/img/posts/impuestos/impuestos.png){ .screenshot loading=lazy }
+  <figcaption>Impuestos</figcaption>
+</figure>
+
 ### Impuesto sobre la Renta
+
 - Aplicado sobre todo salario de trabajadores en forma de dinero, ya sea el salario fijo de una fábrica de recursos o cualquier salario de una fábrica de oro (fijo o porcentaje).
 - Afecta al salario del trabajador y se cobra en dinero.
 - Se recauda en el momento de trabajar.
 
 ### Tasas de mercado
-- Aplicado sobre las ofertas realizadas por los jugadores en la región en la que se encuentran. 
-- Afecta a los usuarios que ofertan en el mercado artículos sobre la ganancia en dinero. 
+
+- Aplicado sobre las ofertas realizadas por los jugadores en la región en la que se encuentran.
+- Afecta a los usuarios que ofertan en el mercado artículos sobre la ganancia en dinero.
 - Se recauda en el momento de la venta por la región en la que hizo inicialmente esa oferta.
 
 ### Impuesto de salida de fábricas
@@ -19,21 +26,23 @@
 Es específico para cada recurso y puede aplicarse un porcentaje diferente.
 
 #### Fábricas de oro
+
 - Aplicado sobre el beneficio que obtiene el propietario del trabajo en su fábrica (si el salario es 100% el impuesto es 0%).
-- Afecta a los propietarios de las fábricas y se cobra en dinero. 
+- Afecta a los propietarios de las fábricas y se cobra en dinero.
 - Se recauda en el momento de trabajar.
 
 #### Fábricas de recursos:
-- Aplicado sobre el trabajo total en fábricas de recursos 
-- Afecta a los propietarios y a los trabajadores con respecto a su propia ganancia y se cobra en recursos. 
+
+- Aplicado sobre el trabajo total en fábricas de recursos
+- Afecta a los propietarios y a los trabajadores con respecto a su propia ganancia y se cobra en recursos.
 - Se recauda en el momento de trabajar.
 - No existe impuesto sobre los recursos de Oxígeno líquido y Helio-3.
 
 ### División de ganancias
+
 - El porcentaje de impuestos indicado es aquella parte de los impuestos que permanece en la autonomía y la diferencia con respecto a 100% van al presupuesto nacional.
 - Afecta a los impuestos que recauda la autonomía y se cobra en recursos, dinero y oro.
 - Se recauda sobre los impuestos a la hora de pasar a las arcas autonómicas.
-
 
 ## Ejemplos
 

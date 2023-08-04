@@ -1,12 +1,17 @@
 # Nivel y experiencia
 
-> La **experiencia** es el valor numérico que te permite subir de **nivel**. 
+> La **experiencia** es el valor numérico que te permite subir de **nivel**.
+
+<figure markdown>
+  ![Imagen del nivel y la experiencia](/img/posts/perfil/experiencia.png){ .screenshot loading=lazy }
+  <figcaption>Nivel y experiencia</figcaption>
+</figure>
 
 ## Desbloqueos
 
 - A nivel 40 puedes construir la [academia militar](/1.-Perfil/Academia-Militar/).
 
-- Al nivel 50 puedes [votar](/3.-Politica/Votar/) y participar en la vida política. 
+- Al nivel 50 puedes [votar](/3.-Politica/Votar/) y participar en la vida política.
 
 - Una vez alcanzas el nivel 60 todos los aspectos del juego se han desbloqueado, ya que puedes donar y [trabajar](/2.-Economia/Trabajar/) [recursos](/2.-Economia/Recursos/).
 
@@ -21,7 +26,6 @@ Subir niveles siempre tiene los siguientes efectos:
 - Mejor posición en la lista del partido (y en cualquier lista).
 
 - Más [karma](/7.-Periodismo/Karma/) por like/dislike (Nivel/10 redondeando hacia arriba)
-
 
 ## Obtener experiencia
 

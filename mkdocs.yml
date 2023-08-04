@@ -26,6 +26,9 @@ theme:
     - navigation.instant
     - navigation.indexes
     - navigation.top
+    - search.suggest
+    - search.highlight
+    - search.share
 markdown_extensions:
   - pymdownx.tasklist:
       custom_checkbox: true
@@ -51,6 +54,5 @@ extra:
       link: https://pablob.eu
 copyright: Copyright &copy; 2021-2022 Pablo
 plugins:
-  - search:
-      lang: es
+  - search
   - glightbox
