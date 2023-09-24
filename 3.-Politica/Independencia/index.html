@@ -1641,7 +1641,7 @@
 <p><strong>0 días</strong> – Se inicia la independencia, las fronteras están abiertas y puede obtenerse la residencia viajando a la zona. Pueden fundarse nuevos partidos, aunque los antiguos permanezcan.</p>
 </li>
 <li>
-<p><strong>1 día</strong> – Comienzan las elecciones parlamentarias en la región. Aquellos que cumplan las 24h de residencia podrán votar por los partidos existentes en la región en el momento de las elecciones.  </p>
+<p><strong>1 día</strong> – Comienzan las elecciones parlamentarias en la región. Aquellos que cumplan las 24h de residencia podrán votar por los partidos existentes en la región en el momento de las elecciones.</p>
 </li>
 <li>
 <p><strong>2 días</strong> – Finalizan las elecciones parlamentarias y el Parlamento es funcional. Pueden aprobarse <a href="/3.-Politica/Leyes/">leyes</a> por mayoría tras 24h o inmediatamente en el momento de llegar a la mayoría absoluta.</p>
@@ -1671,6 +1671,58 @@
 
 
 
+
+<h2 id="__comments">Comentarios</h2>
+<!-- Insert generated snippet here -->
+<script
+  src="https://giscus.app/client.js"
+  data-repo="pbl0/lambda-rr"
+  data-repo-id="R_kgDOH25bXA"
+  data-category="Comentarios"
+  data-category-id="DIC_kwDOH25bXM4CZlK_"
+  data-mapping="pathname"
+  data-strict="0"
+  data-reactions-enabled="1"
+  data-emit-metadata="0"
+  data-input-position="top"
+  data-theme="light"
+  data-lang="es"
+  data-loading="lazy"
+  crossorigin="anonymous"
+  async
+></script>
+<!-- Synchronize Giscus theme with palette -->
+<script>
+  var giscus = document.querySelector("script[src*=giscus]");
+
+  // Set palette on initial load
+  var palette = __md_get("__palette");
+  if (palette && typeof palette.color === "object") {
+    var theme = palette.color.scheme === "slate" ? "transparent_dark" : "light";
+
+    // Instruct Giscus to set theme
+    giscus.setAttribute("data-theme", theme);
+  }
+
+  // Register event handlers after documented loaded
+  document.addEventListener("DOMContentLoaded", function () {
+    var ref = document.querySelector("[data-md-component=palette]");
+    ref.addEventListener("change", function () {
+      var palette = __md_get("__palette");
+      if (palette && typeof palette.color === "object") {
+        var theme =
+          palette.color.scheme === "slate" ? "transparent_dark" : "light";
+
+        // Instruct Giscus to change theme
+        var frame = document.querySelector(".giscus-frame");
+        frame.contentWindow.postMessage(
+          { giscus: { setConfig: { theme } } },
+          "https://giscus.app"
+        );
+      }
+    });
+  });
+</script>
 
                 
               </article>

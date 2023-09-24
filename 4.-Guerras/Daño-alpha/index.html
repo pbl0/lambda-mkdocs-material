@@ -1575,8 +1575,8 @@
 <ul>
 <li>
 <p>La forma de aumentar el daño Alpha de tus ataques es:
-   -&gt; Subir la habilidad de resistencia hasta el nivel 100. Pasado este nivel no aumenta.
-   -&gt; Subir el nivel de experiencia a razón de 2.500 puntos de daño Alpha por cada nivel.</p>
+  -&gt; Subir la habilidad de resistencia hasta el nivel 100. Pasado este nivel no aumenta.
+  -&gt; Subir el nivel de experiencia a razón de 2.500 puntos de daño Alpha por cada nivel.</p>
 </li>
 <li>
 <p>Hay que tener en cuenta que el daño generado en un ataque depende de muchos más factores además del daño Alpha, tal y como se muestra en las <a href="/5.-Avanzado/Formulas/">fórmulas</a> de daño.</p>
@@ -1627,6 +1627,58 @@
 
 
 
+
+<h2 id="__comments">Comentarios</h2>
+<!-- Insert generated snippet here -->
+<script
+  src="https://giscus.app/client.js"
+  data-repo="pbl0/lambda-rr"
+  data-repo-id="R_kgDOH25bXA"
+  data-category="Comentarios"
+  data-category-id="DIC_kwDOH25bXM4CZlK_"
+  data-mapping="pathname"
+  data-strict="0"
+  data-reactions-enabled="1"
+  data-emit-metadata="0"
+  data-input-position="top"
+  data-theme="light"
+  data-lang="es"
+  data-loading="lazy"
+  crossorigin="anonymous"
+  async
+></script>
+<!-- Synchronize Giscus theme with palette -->
+<script>
+  var giscus = document.querySelector("script[src*=giscus]");
+
+  // Set palette on initial load
+  var palette = __md_get("__palette");
+  if (palette && typeof palette.color === "object") {
+    var theme = palette.color.scheme === "slate" ? "transparent_dark" : "light";
+
+    // Instruct Giscus to set theme
+    giscus.setAttribute("data-theme", theme);
+  }
+
+  // Register event handlers after documented loaded
+  document.addEventListener("DOMContentLoaded", function () {
+    var ref = document.querySelector("[data-md-component=palette]");
+    ref.addEventListener("change", function () {
+      var palette = __md_get("__palette");
+      if (palette && typeof palette.color === "object") {
+        var theme =
+          palette.color.scheme === "slate" ? "transparent_dark" : "light";
+
+        // Instruct Giscus to change theme
+        var frame = document.querySelector(".giscus-frame");
+        frame.contentWindow.postMessage(
+          { giscus: { setConfig: { theme } } },
+          "https://giscus.app"
+        );
+      }
+    });
+  });
+</script>
 
                 
               </article>

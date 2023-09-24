@@ -1548,21 +1548,19 @@
 </figure>
 <ul>
 <li>
-<p>Para viajar a un lugar, en el perfil de la región de interés, seleccionas el botón de «Viajar aquí» y comienzas a desplazarte, lo que tarda unos minutos (cuanto más lejos estás de la región más tiempo tardará en viajar)  </p>
+<p>Para viajar a un lugar, en el perfil de la región de interés, seleccionas el botón de «Viajar aquí» y comienzas a desplazarte, lo que tarda unos minutos (cuanto más lejos estás de la región más tiempo tardará en viajar)</p>
 </li>
 <li>
 <p>Sin embargo, esto no siempre es posible ya que la mayoría de regiones tienen las <a href="/3.-Politica/Leyes/#cerrarabrir-fronteras">fronteras cerradas</a> y no existe un <a href="/3.-Politica/Leyes/#acuerdo-migratorio">acuerdo migratorio</a> entre el país al que quieres ir y en el que te encuentras. Al seleccionar el botón se quedará en rojo y no te permitirá desplazarte.</p>
 </li>
 <li>
 <p>Para obtener el permiso de residencia o trabajo una vez solicitado puede ser mediante dos mecanismos</p>
-<ul>
+</li>
 <li>
 <p><strong>Petición</strong>: Se hace a distancia cuando es una región que pertenece a algún país. Tanto permiso como residencia. Debe ser aprobada por la persona al cargo.</p>
 </li>
 <li>
 <p><strong>Directamente</strong>: En una región independiente con frontera abiertas puede viajar y solicitar la residencia una vez te encuentres en la región. Se acepta al momento, ya que no necesita ser aceptada por nadie. También puede ser que haya una región que admita residencia gratuita si te encuentras dentro. Lo podrás ver en el panel de la región. Esto también ocurre si el Estado no ha aprobado la ley de <a href="/3.-Politica/Leyes/#residencia">residencias son emitidas por el líder</a>.</p>
-</li>
-</ul>
 </li>
 <li>
 <p>Los permisos de trabajo son revocables por el líder del Estado y por el propio jugador. La residencia solo la puede cambiar el propio jugador al pedir residencia en otra región.</p>
@@ -1593,6 +1591,58 @@ Si no te aceptan la solicitud prueba a hablar con el cargo responsable de dárte
 
 
 
+
+<h2 id="__comments">Comentarios</h2>
+<!-- Insert generated snippet here -->
+<script
+  src="https://giscus.app/client.js"
+  data-repo="pbl0/lambda-rr"
+  data-repo-id="R_kgDOH25bXA"
+  data-category="Comentarios"
+  data-category-id="DIC_kwDOH25bXM4CZlK_"
+  data-mapping="pathname"
+  data-strict="0"
+  data-reactions-enabled="1"
+  data-emit-metadata="0"
+  data-input-position="top"
+  data-theme="light"
+  data-lang="es"
+  data-loading="lazy"
+  crossorigin="anonymous"
+  async
+></script>
+<!-- Synchronize Giscus theme with palette -->
+<script>
+  var giscus = document.querySelector("script[src*=giscus]");
+
+  // Set palette on initial load
+  var palette = __md_get("__palette");
+  if (palette && typeof palette.color === "object") {
+    var theme = palette.color.scheme === "slate" ? "transparent_dark" : "light";
+
+    // Instruct Giscus to set theme
+    giscus.setAttribute("data-theme", theme);
+  }
+
+  // Register event handlers after documented loaded
+  document.addEventListener("DOMContentLoaded", function () {
+    var ref = document.querySelector("[data-md-component=palette]");
+    ref.addEventListener("change", function () {
+      var palette = __md_get("__palette");
+      if (palette && typeof palette.color === "object") {
+        var theme =
+          palette.color.scheme === "slate" ? "transparent_dark" : "light";
+
+        // Instruct Giscus to change theme
+        var frame = document.querySelector(".giscus-frame");
+        frame.contentWindow.postMessage(
+          { giscus: { setConfig: { theme } } },
+          "https://giscus.app"
+        );
+      }
+    });
+  });
+</script>
 
                 
               </article>

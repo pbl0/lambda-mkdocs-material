@@ -1980,7 +1980,7 @@
 </ul>
 <h3 id="salarios">Salarios</h3>
 <ul>
-<li>El propietario de la fábrica puede modificar el salario por defecto de todos los nuevos trabajadores (fijo o porcentual y cuánto). </li>
+<li>El propietario de la fábrica puede modificar el salario por defecto de todos los nuevos trabajadores (fijo o porcentual y cuánto).</li>
 <li>Además, puede modificarse individualmente el salario específico de cada trabajador que sea empleado en ese momento.</li>
 <li>Siempre pueden consultarse o reiniciarse las estadísticas de los trabajadores en ese momento (energía trabajada y eficiencia).</li>
 </ul>
@@ -2004,8 +2004,8 @@
 <li>Una vez no hay trabajadores en la fábrica, el propietario puede eliminar la fábrica a cambio de un 75% en oro de su valor (el oro invertido en subirla de nivel).</li>
 </ul>
 <h2 id="rendimiento">Rendimiento</h2>
-<div class="highlight"><pre><span></span><code>Constante de recurso * Energía 
-- Departamento de trabajo (*%) 
+<div class="highlight"><pre><span></span><code>Constante de recurso * Energía
+- Departamento de trabajo (*%)
 - Exploración profunda: Valor^0,8
 - Experiencia laboral: Valor^0,6
 - Nivel de experiencia: Valor^0,8
@@ -2024,6 +2024,58 @@
 
 
 
+
+<h2 id="__comments">Comentarios</h2>
+<!-- Insert generated snippet here -->
+<script
+  src="https://giscus.app/client.js"
+  data-repo="pbl0/lambda-rr"
+  data-repo-id="R_kgDOH25bXA"
+  data-category="Comentarios"
+  data-category-id="DIC_kwDOH25bXM4CZlK_"
+  data-mapping="pathname"
+  data-strict="0"
+  data-reactions-enabled="1"
+  data-emit-metadata="0"
+  data-input-position="top"
+  data-theme="light"
+  data-lang="es"
+  data-loading="lazy"
+  crossorigin="anonymous"
+  async
+></script>
+<!-- Synchronize Giscus theme with palette -->
+<script>
+  var giscus = document.querySelector("script[src*=giscus]");
+
+  // Set palette on initial load
+  var palette = __md_get("__palette");
+  if (palette && typeof palette.color === "object") {
+    var theme = palette.color.scheme === "slate" ? "transparent_dark" : "light";
+
+    // Instruct Giscus to set theme
+    giscus.setAttribute("data-theme", theme);
+  }
+
+  // Register event handlers after documented loaded
+  document.addEventListener("DOMContentLoaded", function () {
+    var ref = document.querySelector("[data-md-component=palette]");
+    ref.addEventListener("change", function () {
+      var palette = __md_get("__palette");
+      if (palette && typeof palette.color === "object") {
+        var theme =
+          palette.color.scheme === "slate" ? "transparent_dark" : "light";
+
+        // Instruct Giscus to change theme
+        var frame = document.querySelector(".giscus-frame");
+        frame.contentWindow.postMessage(
+          { giscus: { setConfig: { theme } } },
+          "https://giscus.app"
+        );
+      }
+    });
+  });
+</script>
 
                 
               </article>

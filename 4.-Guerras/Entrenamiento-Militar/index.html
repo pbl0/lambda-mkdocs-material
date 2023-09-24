@@ -1531,7 +1531,7 @@
 <ul>
 <li>El <strong>entrenamiento militar</strong> permite obtener experiencia por causar daño en guerra en un simulador sin peligro de causar conflictos diplomáticos.</li>
 <li>Se obtiene <strong>bastante experiencia</strong> a cambio de tropas (dinero), y si es intensivo por muchas tropas y energía (oro).</li>
-<li>Para <strong>iniciar el entrenamiento militar</strong> selecciona la pestaña de Guerras y el botón gris que pone «Entrenamiento Militar»  </li>
+<li>Para <strong>iniciar el entrenamiento militar</strong> selecciona la pestaña de Guerras y el botón gris que pone «Entrenamiento Militar»</li>
 </ul>
 <figure>
 <p><a class="glightbox" href="/img/posts/guerras/train.jpg" data-type="image" data-width="100%" data-height="auto" data-desc-position="bottom"><img alt="Imagen de boton entrenamiento" class="screenshot" loading="lazy" src="/img/posts/guerras/train.jpg" /></a>
@@ -1561,6 +1561,58 @@
 
 
 
+
+<h2 id="__comments">Comentarios</h2>
+<!-- Insert generated snippet here -->
+<script
+  src="https://giscus.app/client.js"
+  data-repo="pbl0/lambda-rr"
+  data-repo-id="R_kgDOH25bXA"
+  data-category="Comentarios"
+  data-category-id="DIC_kwDOH25bXM4CZlK_"
+  data-mapping="pathname"
+  data-strict="0"
+  data-reactions-enabled="1"
+  data-emit-metadata="0"
+  data-input-position="top"
+  data-theme="light"
+  data-lang="es"
+  data-loading="lazy"
+  crossorigin="anonymous"
+  async
+></script>
+<!-- Synchronize Giscus theme with palette -->
+<script>
+  var giscus = document.querySelector("script[src*=giscus]");
+
+  // Set palette on initial load
+  var palette = __md_get("__palette");
+  if (palette && typeof palette.color === "object") {
+    var theme = palette.color.scheme === "slate" ? "transparent_dark" : "light";
+
+    // Instruct Giscus to set theme
+    giscus.setAttribute("data-theme", theme);
+  }
+
+  // Register event handlers after documented loaded
+  document.addEventListener("DOMContentLoaded", function () {
+    var ref = document.querySelector("[data-md-component=palette]");
+    ref.addEventListener("change", function () {
+      var palette = __md_get("__palette");
+      if (palette && typeof palette.color === "object") {
+        var theme =
+          palette.color.scheme === "slate" ? "transparent_dark" : "light";
+
+        // Instruct Giscus to change theme
+        var frame = document.querySelector(".giscus-frame");
+        frame.contentWindow.postMessage(
+          { giscus: { setConfig: { theme } } },
+          "https://giscus.app"
+        );
+      }
+    });
+  });
+</script>
 
                 
               </article>

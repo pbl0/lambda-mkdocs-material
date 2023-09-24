@@ -1543,10 +1543,8 @@
 <p>El fin del día se conoce como la <strong>hora a la que se resetean</strong> los temporizadores diarios. Es <strong>simultáneo</strong> en todo el mundo (mismo momento, diferentes horas por diferentes husos horarios).</p>
 <ul>
 <li>Se establece a las 00:00 GMT+5, es decir, las 12pm del horario de Moscú.</li>
-<li>En España (GMT+1) se establece por la tarde, inamovible pese al cambio de horario de verano/invierno:<ul>
+<li>En España (GMT+1) se establece por la tarde, inamovible pese al cambio de horario de verano/invierno:</li>
 <li>A las <strong>19:00</strong> en el horario de <strong>invierno</strong> (Septiembre-Marzo).A las <strong>20:00</strong> en el horario de <strong>verano</strong> (Marzo-Septiembre).</li>
-</ul>
-</li>
 </ul>
 <h3 id="temporizadores-diarios-que-se-resetean"><strong>Temporizadores diarios que se resetean</strong></h3>
 <ul>
@@ -1560,6 +1558,58 @@
 
 
 
+
+<h2 id="__comments">Comentarios</h2>
+<!-- Insert generated snippet here -->
+<script
+  src="https://giscus.app/client.js"
+  data-repo="pbl0/lambda-rr"
+  data-repo-id="R_kgDOH25bXA"
+  data-category="Comentarios"
+  data-category-id="DIC_kwDOH25bXM4CZlK_"
+  data-mapping="pathname"
+  data-strict="0"
+  data-reactions-enabled="1"
+  data-emit-metadata="0"
+  data-input-position="top"
+  data-theme="light"
+  data-lang="es"
+  data-loading="lazy"
+  crossorigin="anonymous"
+  async
+></script>
+<!-- Synchronize Giscus theme with palette -->
+<script>
+  var giscus = document.querySelector("script[src*=giscus]");
+
+  // Set palette on initial load
+  var palette = __md_get("__palette");
+  if (palette && typeof palette.color === "object") {
+    var theme = palette.color.scheme === "slate" ? "transparent_dark" : "light";
+
+    // Instruct Giscus to set theme
+    giscus.setAttribute("data-theme", theme);
+  }
+
+  // Register event handlers after documented loaded
+  document.addEventListener("DOMContentLoaded", function () {
+    var ref = document.querySelector("[data-md-component=palette]");
+    ref.addEventListener("change", function () {
+      var palette = __md_get("__palette");
+      if (palette && typeof palette.color === "object") {
+        var theme =
+          palette.color.scheme === "slate" ? "transparent_dark" : "light";
+
+        // Instruct Giscus to change theme
+        var frame = document.querySelector(".giscus-frame");
+        frame.contentWindow.postMessage(
+          { giscus: { setConfig: { theme } } },
+          "https://giscus.app"
+        );
+      }
+    });
+  });
+</script>
 
                 
               </article>

@@ -1531,7 +1531,7 @@
 <ul>
 <li>Una autonomía es decretada en una región que no sea la capital de un país en el parlamento nacional. Una vez aprobada la ley, se inician unas elecciones al parlamento autonómico entre los partidos propios de la región.</li>
 <li>Desde el parlamento nacional puede nombrarse un gobernador, que recibirá sueldo en oro por su cargo y que permanecerá en el poder hasta que por ley se asigne a otro o se cancele la autonomía. Si la forma de gobierno del país es <em>república</em>, el gobernador podrá reponer <a href="/2.-Economia/Recursos">recursos</a> y construir edificios de forma instantánea.</li>
-<li>Las autonomías cuentan con cierta auto gestión y sus propias arcas. </li>
+<li>Las autonomías cuentan con cierta auto gestión y sus propias arcas.</li>
 <li>Los impuestos y leyes aplicadas en la autonomía tienen su efecto de forma diferencial en el territorio con respecto a la norma nacional, si bien los decretos nacionales modifican y actualizan su estado, imponiéndose.</li>
 <li>La división de ganancias establece el porcentaje de los impuestos que va a parar a las arcas de la autonomía. El resto va al presupuesto nacional. Esto lo modifica manualmente el ministro de economía, el monarca o el dictador.</li>
 <li>Si se le concede la independencia, las arcas se mantienen ahora como presupuesto estatal.</li>
@@ -1558,6 +1558,58 @@
 
 
 
+
+<h2 id="__comments">Comentarios</h2>
+<!-- Insert generated snippet here -->
+<script
+  src="https://giscus.app/client.js"
+  data-repo="pbl0/lambda-rr"
+  data-repo-id="R_kgDOH25bXA"
+  data-category="Comentarios"
+  data-category-id="DIC_kwDOH25bXM4CZlK_"
+  data-mapping="pathname"
+  data-strict="0"
+  data-reactions-enabled="1"
+  data-emit-metadata="0"
+  data-input-position="top"
+  data-theme="light"
+  data-lang="es"
+  data-loading="lazy"
+  crossorigin="anonymous"
+  async
+></script>
+<!-- Synchronize Giscus theme with palette -->
+<script>
+  var giscus = document.querySelector("script[src*=giscus]");
+
+  // Set palette on initial load
+  var palette = __md_get("__palette");
+  if (palette && typeof palette.color === "object") {
+    var theme = palette.color.scheme === "slate" ? "transparent_dark" : "light";
+
+    // Instruct Giscus to set theme
+    giscus.setAttribute("data-theme", theme);
+  }
+
+  // Register event handlers after documented loaded
+  document.addEventListener("DOMContentLoaded", function () {
+    var ref = document.querySelector("[data-md-component=palette]");
+    ref.addEventListener("change", function () {
+      var palette = __md_get("__palette");
+      if (palette && typeof palette.color === "object") {
+        var theme =
+          palette.color.scheme === "slate" ? "transparent_dark" : "light";
+
+        // Instruct Giscus to change theme
+        var frame = document.querySelector(".giscus-frame");
+        frame.contentWindow.postMessage(
+          { giscus: { setConfig: { theme } } },
+          "https://giscus.app"
+        );
+      }
+    });
+  });
+</script>
 
                 
               </article>

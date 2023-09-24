@@ -1474,11 +1474,9 @@
 <figcaption>Experiencia laboral</figcaption>
 </figure>
 <ul>
-<li>Se consigue 1 punto de experiencia laboral por cada 10 de energía trabajada en el recurso que has trabajado.<ul>
-<li>En la versión PC puedes <em>Contratar <strong>mentores</strong></em> gastando oro y conseguir 4 o 6 veces más experiencia laboral por trabajar que sin contratarlos. Los costes son:<ul>
-<li>1 mentor (4 puntos experiencia): 1G/10 Energía2 mentores (6 puntos experiencia): 2G/10 Energía    </li>
-</ul>
-</li>
+<li>Se consigue 1 punto de experiencia laboral por cada 10 de energía trabajada en el recurso que has trabajado.</li>
+<li>En la versión PC puedes <em>Contratar </em><em>mentores</em>** gastando oro y conseguir 4 o 6 veces más experiencia laboral por trabajar que sin contratarlos. Los costes son:<ul>
+<li>1 mentor (4 puntos experiencia): 1G/10 Energía2 mentores (6 puntos experiencia): 2G/10 Energía</li>
 </ul>
 </li>
 </ul>
@@ -1491,18 +1489,68 @@
 <li>Para tener mucha experiencia laboral en un recurso, puedes <strong>traspasar experiencia</strong> de un recurso (generalmente oro, que es el que más se trabaja por defecto) al recurso que te interesa trabajar de forma continua. Selecciona <em>Intercambio</em> e ingresa el valor del recurso desde el que quieres traspasar (generalmente desde oro) al recurso que quieres aumentar.</li>
 <li>Gastas <strong>75 de oro</strong> cada vez que traspasas experiencia laboral de un recurso a otro, por lo que no debes hacerlo con cantidades muy pequeñas.</li>
 <li>Si pasas mucha experiencia laboral de una vez te quedas sin experiencia en ese recurso y deja de ser tan rentable.</li>
-<li><strong>Regla de oro: No hagas grandes cambios de experiencia y cuando llegues al límite de experiencia laboral. Nunca tengas menos de 50k de experiencia laboral en oro, o incluso más.</strong> </li>
+<li><strong>Regla de oro: No hagas grandes cambios de experiencia y cuando llegues al límite de experiencia laboral. Nunca tengas menos de 50k de experiencia laboral en oro, o incluso más.</strong></li>
 <li>El <strong>límite de experiencia laboral</strong> por recurso indica la máxima cantidad de experiencia que puedes tener en cada recurso. Viene indicado por esta <strong>fórmula</strong>:</li>
-<li><strong>80k + 200 * {habilidad educación}</strong><ul>
+<li><strong>80k + 200 * {habilidad educación}</strong></li>
 <li>Al nivel 100 educación hay un límite de experiencia de 100.000 puntos</li>
 <li>Al nivel 250 educación hay un límite de experiencia de 130.000 puntos</li>
 </ul>
-</li>
-</ul>
 
 
 
 
+
+<h2 id="__comments">Comentarios</h2>
+<!-- Insert generated snippet here -->
+<script
+  src="https://giscus.app/client.js"
+  data-repo="pbl0/lambda-rr"
+  data-repo-id="R_kgDOH25bXA"
+  data-category="Comentarios"
+  data-category-id="DIC_kwDOH25bXM4CZlK_"
+  data-mapping="pathname"
+  data-strict="0"
+  data-reactions-enabled="1"
+  data-emit-metadata="0"
+  data-input-position="top"
+  data-theme="light"
+  data-lang="es"
+  data-loading="lazy"
+  crossorigin="anonymous"
+  async
+></script>
+<!-- Synchronize Giscus theme with palette -->
+<script>
+  var giscus = document.querySelector("script[src*=giscus]");
+
+  // Set palette on initial load
+  var palette = __md_get("__palette");
+  if (palette && typeof palette.color === "object") {
+    var theme = palette.color.scheme === "slate" ? "transparent_dark" : "light";
+
+    // Instruct Giscus to set theme
+    giscus.setAttribute("data-theme", theme);
+  }
+
+  // Register event handlers after documented loaded
+  document.addEventListener("DOMContentLoaded", function () {
+    var ref = document.querySelector("[data-md-component=palette]");
+    ref.addEventListener("change", function () {
+      var palette = __md_get("__palette");
+      if (palette && typeof palette.color === "object") {
+        var theme =
+          palette.color.scheme === "slate" ? "transparent_dark" : "light";
+
+        // Instruct Giscus to change theme
+        var frame = document.querySelector(".giscus-frame");
+        frame.contentWindow.postMessage(
+          { giscus: { setConfig: { theme } } },
+          "https://giscus.app"
+        );
+      }
+    });
+  });
+</script>
 
                 
               </article>

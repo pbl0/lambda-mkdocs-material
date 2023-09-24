@@ -1571,12 +1571,64 @@
 <p>El Taller es un buff de descuento que reduce los recursos que necesitas para producir algo, actualmente, el descuento al producir se basa en tus stats de Fuerza y Educación, este buff afectaría a este descuento ya creado y siendo el máximo de descuento basado en tus stats 50% este buff del taller aumentaría un 25% mas el descuento que tengas, siendo un 12,5% si tienes el descuento de stats al 50%.</p>
 <h2 id="porcentajes-de-los-buffs">Porcentajes de los buffs</h2>
 <blockquote>
-<p>El porcentaje que consigas dependerá de lo que hayan pagado otros jugadores respecto a lo que hayas pagado tu, es decir, si hay gente que ha pagado mucho por conseguir el 25% tendras que igualarlos para poder conseguir ese 25% y todos los demás porcentajes inferiores irán marcados por la misma mecánica. </p>
+<p>El porcentaje que consigas dependerá de lo que hayan pagado otros jugadores respecto a lo que hayas pagado tu, es decir, si hay gente que ha pagado mucho por conseguir el 25% tendras que igualarlos para poder conseguir ese 25% y todos los demás porcentajes inferiores irán marcados por la misma mecánica.</p>
 </blockquote>
 
 
 
 
+
+<h2 id="__comments">Comentarios</h2>
+<!-- Insert generated snippet here -->
+<script
+  src="https://giscus.app/client.js"
+  data-repo="pbl0/lambda-rr"
+  data-repo-id="R_kgDOH25bXA"
+  data-category="Comentarios"
+  data-category-id="DIC_kwDOH25bXM4CZlK_"
+  data-mapping="pathname"
+  data-strict="0"
+  data-reactions-enabled="1"
+  data-emit-metadata="0"
+  data-input-position="top"
+  data-theme="light"
+  data-lang="es"
+  data-loading="lazy"
+  crossorigin="anonymous"
+  async
+></script>
+<!-- Synchronize Giscus theme with palette -->
+<script>
+  var giscus = document.querySelector("script[src*=giscus]");
+
+  // Set palette on initial load
+  var palette = __md_get("__palette");
+  if (palette && typeof palette.color === "object") {
+    var theme = palette.color.scheme === "slate" ? "transparent_dark" : "light";
+
+    // Instruct Giscus to set theme
+    giscus.setAttribute("data-theme", theme);
+  }
+
+  // Register event handlers after documented loaded
+  document.addEventListener("DOMContentLoaded", function () {
+    var ref = document.querySelector("[data-md-component=palette]");
+    ref.addEventListener("change", function () {
+      var palette = __md_get("__palette");
+      if (palette && typeof palette.color === "object") {
+        var theme =
+          palette.color.scheme === "slate" ? "transparent_dark" : "light";
+
+        // Instruct Giscus to change theme
+        var frame = document.querySelector(".giscus-frame");
+        frame.contentWindow.postMessage(
+          { giscus: { setConfig: { theme } } },
+          "https://giscus.app"
+        );
+      }
+    });
+  });
+</script>
 
                 
               </article>

@@ -1632,7 +1632,7 @@
 <ul>
 <li>
 <p><em>Oro, Petróleo, Mineral, Uranio, Diamantes, Oxígeno líquido y Helio-3</em></p>
-<ul>
+</li>
 <li>
 <p>Mejoran el rendimiento un X% del trabajo en las fábricas del recurso trabajado, por lo que se extrae mayor ganancia.</p>
 </li>
@@ -1640,13 +1640,11 @@
 <p>Este bonus no se ve reflejado en la predicción de trabajo, sólo se aprecia cuando trabajas en la mina.</p>
 </li>
 </ul>
-</li>
-</ul>
 <h3 id="construcciones">Construcciones</h3>
 <ul>
 <li>
 <p><em>Edificios</em></p>
-<ul>
+</li>
 <li>
 <p>Disminuye un X% el coste de construcción de nuevos edificios.</p>
 </li>
@@ -1654,13 +1652,11 @@
 <p>Se aplica el bonus que haya en el momento de promulgar la ley de <em>Nuevo edificio</em>.</p>
 </li>
 </ul>
-</li>
-</ul>
 <h3 id="armamento">Armamento</h3>
 <ul>
 <li>
 <p><em>Tanques, Acorazados y Estación espacial</em></p>
-<ul>
+</li>
 <li>
 <p>Aumenta un X% el daño que provocan las tropas en las guerras en las que la nación se vea involucrada.</p>
 </li>
@@ -1668,12 +1664,62 @@
 <p>Además, al trabajar en <em>Estación espacial</em> se reduce un X% el tiempo de viaje entre la Luna y los territorios de ese país.</p>
 </li>
 </ul>
-</li>
-</ul>
 
 
 
 
+
+<h2 id="__comments">Comentarios</h2>
+<!-- Insert generated snippet here -->
+<script
+  src="https://giscus.app/client.js"
+  data-repo="pbl0/lambda-rr"
+  data-repo-id="R_kgDOH25bXA"
+  data-category="Comentarios"
+  data-category-id="DIC_kwDOH25bXM4CZlK_"
+  data-mapping="pathname"
+  data-strict="0"
+  data-reactions-enabled="1"
+  data-emit-metadata="0"
+  data-input-position="top"
+  data-theme="light"
+  data-lang="es"
+  data-loading="lazy"
+  crossorigin="anonymous"
+  async
+></script>
+<!-- Synchronize Giscus theme with palette -->
+<script>
+  var giscus = document.querySelector("script[src*=giscus]");
+
+  // Set palette on initial load
+  var palette = __md_get("__palette");
+  if (palette && typeof palette.color === "object") {
+    var theme = palette.color.scheme === "slate" ? "transparent_dark" : "light";
+
+    // Instruct Giscus to set theme
+    giscus.setAttribute("data-theme", theme);
+  }
+
+  // Register event handlers after documented loaded
+  document.addEventListener("DOMContentLoaded", function () {
+    var ref = document.querySelector("[data-md-component=palette]");
+    ref.addEventListener("change", function () {
+      var palette = __md_get("__palette");
+      if (palette && typeof palette.color === "object") {
+        var theme =
+          palette.color.scheme === "slate" ? "transparent_dark" : "light";
+
+        // Instruct Giscus to change theme
+        var frame = document.querySelector(".giscus-frame");
+        frame.contentWindow.postMessage(
+          { giscus: { setConfig: { theme } } },
+          "https://giscus.app"
+        );
+      }
+    });
+  });
+</script>
 
                 
               </article>
