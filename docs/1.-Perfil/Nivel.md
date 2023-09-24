@@ -1,3 +1,7 @@
+---
+comments: true
+---
+
 # Nivel y experiencia
 
 > La **experiencia** es el valor numérico que te permite subir de **nivel**.

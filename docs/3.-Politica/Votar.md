@@ -1,8 +1,5 @@
 ---
-layout: default
-title: Votar
-rank: 3
-category: politica
+comments: true
 ---
 
 # Votar

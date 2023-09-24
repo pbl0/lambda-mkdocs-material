@@ -1,3 +1,7 @@
+---
+comments: true
+---
+
 # Leyes
 
 ??? note "Últimas revisiones"

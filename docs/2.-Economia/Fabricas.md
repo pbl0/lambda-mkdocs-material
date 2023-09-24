@@ -1,3 +1,7 @@
+---
+comments: true
+---
+
 # Fábricas
 
 > Una fábrica es un elemento ubicado en una región concreta que permite transformar la energía de sus trabajadores en [recursos](/2.-Economia/Recursos/) o dinero.
@@ -24,9 +28,9 @@ Dependiendo del recurso que trabajen, encontraremos un tipo u otro de fábrica y
 - ^^Almacén^^: No existe (€).
 - ^^Localización (exploración)^^: Tierra (637) y Luna (394).
 - ^^Descripción^^:
-   - Es la mina más común y necesaria en una región.
-   - Se trabaja sin límite de nivel y recuperando el oro de energéticas.
-   - Cuesta más experiencia trabajada subir su nivel (no más oro).
+  - Es la mina más común y necesaria en una región.
+  - Se trabaja sin límite de nivel y recuperando el oro de energéticas.
+  - Cuesta más experiencia trabajada subir su nivel (no más oro).
 
 ### Yacimiento de petróleo
 
@@ -40,9 +44,9 @@ Dependiendo del recurso que trabajen, encontraremos un tipo u otro de fábrica y
 - ^^Almacén^^: 40kk x nivel.
 - ^^Localización (exploración)^^: Tierra (371).
 - ^^Descripción^^:
-   - Es la mina de recursos más común, aunque sólo necesaria con buena [exploración profunda](/2.-Economia/Exploracion-Profunda/) en la región.
-   - Se trabaja con nivel 60 y sin recuperación.
-   - Cuesta menos experiencia trabajada subir su nivel (se suele trabajar menos).
+  - Es la mina de recursos más común, aunque sólo necesaria con buena [exploración profunda](/2.-Economia/Exploracion-Profunda/) en la región.
+  - Se trabaja con nivel 60 y sin recuperación.
+  - Cuesta menos experiencia trabajada subir su nivel (se suele trabajar menos).
 
 ### Cantera de mineral
 
@@ -51,9 +55,9 @@ Dependiendo del recurso que trabajen, encontraremos un tipo u otro de fábrica y
 - ^^Almacén^^: 40kk x nivel.
 - ^^Localización (exploración)^^: Tierra (356) y Luna (438).
 - ^^Descripción^^:
-   - Sólo necesaria con buena exploración profunda en la región, generalmente en lunares.
-   - Se trabaja con nivel 60 y sin recuperación.
-   - Cuesta menos experiencia trabajada subir su nivel (se suele trabajar menos).
+  - Sólo necesaria con buena exploración profunda en la región, generalmente en lunares.
+  - Se trabaja con nivel 60 y sin recuperación.
+  - Cuesta menos experiencia trabajada subir su nivel (se suele trabajar menos).
 
 ### Cantera de uranio
 
@@ -62,9 +66,9 @@ Dependiendo del recurso que trabajen, encontraremos un tipo u otro de fábrica y
 - ^^Almacén^^: 5kk x nivel.
 - ^^Localización (exploración)^^: Tierra (25) y Luna (19).
 - ^^Descripción^^:
-   - Sólo necesaria con buena exploración profunda en la región. Es barata.
-   - Se trabaja con nivel 60 y sin recuperación.
-   - Cuesta menos experiencia trabajada subir su nivel (se suele trabajar menos).
+  - Sólo necesaria con buena exploración profunda en la región. Es barata.
+  - Se trabaja con nivel 60 y sin recuperación.
+  - Cuesta menos experiencia trabajada subir su nivel (se suele trabajar menos).
 
 ### Mina de diamantes
 
@@ -73,30 +77,31 @@ Dependiendo del recurso que trabajen, encontraremos un tipo u otro de fábrica y
 - ^^Almacén^^: 50k x nivel.
 - ^^Localización (exploración)^^: Tierra (27) y Luna (32).
 - ^^Descripción^^:
-   - Sólo necesaria con buena exploración profunda en la región. Es barata.
-   - Se trabaja con nivel 60 y sin recuperación.
-   - Cuesta menos experiencia trabajada subir su nivel (se suele trabajar menos).
-
+  - Sólo necesaria con buena exploración profunda en la región. Es barata.
+  - Se trabaja con nivel 60 y sin recuperación.
+  - Cuesta menos experiencia trabajada subir su nivel (se suele trabajar menos).
 
 ### Planta de licuefacción
+
 - ^^Trabaja (límite)^^: Oxígeno líquido (No).
 - ^^Obtiene^^: Oxígeno líquido (kilo). Libre de impuestos.
 - ^^Almacén^^: 8kk x nivel.
 - ^^Localización (exploración)^^: Tierra (No).
 - ^^Descripción^^:
-   - Sólo en la Tierra, en regiones con muchas plantas eléctricas (mayor rendimiento).
-   - Se trabaja con nivel 60 y sin recuperación.
-   - Cuesta menos experiencia trabajada subir su nivel (se suele trabajar menos).
+  - Sólo en la Tierra, en regiones con muchas plantas eléctricas (mayor rendimiento).
+  - Se trabaja con nivel 60 y sin recuperación.
+  - Cuesta menos experiencia trabajada subir su nivel (se suele trabajar menos).
 
 ### Laboratorio de Helio-3
+
 - ^^Trabaja (límite)^^: Helio-3 (No).
 - ^^Obtiene^^: Helio-3 (g). Libre de impuestos.
 - ^^Almacén^^: 50k x nivel.
 - ^^Localización (exploración)^^: Luna (No).
 - ^^Descripción^^:
-   - Sólo en la Luna, en regiones con muchas plantas eléctricas (mayor rendimiento).
-   - Se trabaja con nivel 60 y sin recuperación.
-   - Cuesta menos experiencia trabajada subir su nivel (se suele trabajar menos).
+  - Sólo en la Luna, en regiones con muchas plantas eléctricas (mayor rendimiento).
+  - Se trabaja con nivel 60 y sin recuperación.
+  - Cuesta menos experiencia trabajada subir su nivel (se suele trabajar menos).
 
 ## Trabajo
 
@@ -133,7 +138,7 @@ Dependiendo del recurso que trabajen, encontraremos un tipo u otro de fábrica y
 
 ### Salarios
 
-- El propietario de la fábrica puede modificar el salario por defecto de todos los nuevos trabajadores (fijo o porcentual y cuánto). 
+- El propietario de la fábrica puede modificar el salario por defecto de todos los nuevos trabajadores (fijo o porcentual y cuánto).
 - Además, puede modificarse individualmente el salario específico de cada trabajador que sea empleado en ese momento.
 - Siempre pueden consultarse o reiniciarse las estadísticas de los trabajadores en ese momento (energía trabajada y eficiencia).
 
@@ -159,8 +164,8 @@ Dependiendo del recurso que trabajen, encontraremos un tipo u otro de fábrica y
 ## Rendimiento
 
 ```
-Constante de recurso * Energía 
-- Departamento de trabajo (*%) 
+Constante de recurso * Energía
+- Departamento de trabajo (*%)
 - Exploración profunda: Valor^0,8
 - Experiencia laboral: Valor^0,6
 - Nivel de experiencia: Valor^0,8

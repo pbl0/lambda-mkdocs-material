@@ -1,5 +1,6 @@
 ---
 title: Indice Historia
+comments: true
 ---
 
 # Historia de España en RR

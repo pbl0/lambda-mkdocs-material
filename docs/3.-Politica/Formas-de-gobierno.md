@@ -1,3 +1,7 @@
+---
+comments: true
+---
+
 # Formas de gobierno
 
 ## República presidencial
@@ -11,7 +15,7 @@ _**Descripción:**_
 
 Hay elecciones cada 5 días: Parlamentarias y presidenciales. No tienen por qué coincidir, son independientes.
 
-El presidente nombra al Ministro de Exteriores (dicta inmediatamente las leyes sobre migración y asuntos exteriores) y al Ministro de Economía (recarga, vende, modifica impuestos y construye inmediatamente). Los gobernadores pueden construir y recargar inmediatamente en sus autonomías. 
+El presidente nombra al Ministro de Exteriores (dicta inmediatamente las leyes sobre migración y asuntos exteriores) y al Ministro de Economía (recarga, vende, modifica impuestos y construye inmediatamente). Los gobernadores pueden construir y recargar inmediatamente en sus autonomías.
 
 El presidente nombra los cargos y compra, pero no hace ninguna ley inmediatamente.
 
@@ -43,6 +47,7 @@ Existe un mayor control de las decisiones y del poder del país. La mayoría de 
 Los cargos ganan menos oro. Una o dos personas ostentan todas las decisiones y el resto no tiene poder real.
 
 ## Monarquía
+
 <figure markdown>
   ![Imagen de monarquía](/img/posts/formas-de-gobierno/monarchy.png){ .screenshot loading=lazy }
   <figcaption>Monarquía</figcaption>
@@ -74,7 +79,7 @@ Para decretarla es necesario que el país exista desde hace 31 días y el 80% de
 
 En éste tipo de gobierno os gobernadores tienen poder. Las leyes administrativas se deciden en el parlamento por mayoría simple, de forma democrática. Y ésta forma de gobierno favorece que los partidos poco votados no pueden desestabilizar la organización.
 
-**_Contras:_** 
+**_Contras:_**
 
 Aquí podemos ver que los cargos ganan menos oro. También hay que decir que en ésta forma de gobierno es más fácil perder el control del país, y a esto hay que añadir las reformas administrativas no se aprueban directamente (24h vía parlamento). Y por último decir que únicamente el partido más votado tiene representación parlamentaria.
 
@@ -86,7 +91,7 @@ Aquí podemos ver que los cargos ganan menos oro. También hay que decir que en 
 
 **_Beneficios:_**
 
-Existe un mayor control de las decisiones y del poder del país. La mayoría de las leyes las aprueba inmediatamente el «dictador» y a esto hay que añadirle que hay más gente que puede proponer leyes y no sólo el «Dictador» o Asesor Económico como pasa en la Dicadura.  
+Existe un mayor control de las decisiones y del poder del país. La mayoría de las leyes las aprueba inmediatamente el «dictador» y a esto hay que añadirle que hay más gente que puede proponer leyes y no sólo el «Dictador» o Asesor Económico como pasa en la Dicadura.
 
 **_Contras:_**
 
@@ -96,7 +101,7 @@ Los cargos ganan menos oro. Muy pocas personas pueden proponer medidas, y sólo 
 
 **_Descripción_**:
 
-Se da en autonomías en las que no has nombrado un gobernador, por lo que nadie asume el cargo y sólo hay un Parlamento. El Parlamento Autonómico está ocupado por los partidos según su resultado electoral. Las elecciones se producen normalmente cada 5 días. En ésta forma de gobierno no existe el gobernador y el Parlamento Autonómico tiene todo el poder de decisión.  
+Se da en autonomías en las que no has nombrado un gobernador, por lo que nadie asume el cargo y sólo hay un Parlamento. El Parlamento Autonómico está ocupado por los partidos según su resultado electoral. Las elecciones se producen normalmente cada 5 días. En ésta forma de gobierno no existe el gobernador y el Parlamento Autonómico tiene todo el poder de decisión.
 
 **_Beneficios:_**
 
@@ -105,4 +110,3 @@ No existe una figura con mayor poder que el resto y las decisiones se hacen demo
 **_Contras:_**
 
 En República, nadie puede reponer el oro a nivel autonómico. Sólo el ministro de economía, haciendo gasto del presupuesto estatal.
-

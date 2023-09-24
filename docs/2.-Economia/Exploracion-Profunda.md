@@ -1,3 +1,7 @@
+---
+comments: true
+---
+
 # Exploración Profunda
 
 El valor de la exploración profunda de un territorio es el tope máximo de [recursos](/2.-Economia/Recursos/) que la región nos permite tener explorados en ese momento (no el máximo de exploración diario, que para el oro es siempre 2500 independientemente del valor de exploración profunda). Cuánto mayor es el valor más puedes explorar al mismo tiempo y consigues además mayor rendimiento (sacas más recurso por energía trabajada en el recurso explorado, salvo si es oro que se saca más dinero por [trabajar](/2.-Economia/Trabajar/)).

@@ -1,3 +1,7 @@
+---
+comments: true
+---
+
 # Almacén
 
 El **almacén** es el inventario donde todo usuario guarda sus recursos, armas, artículos y bebidas energéticas. Desde él se puede #comerciar a su vez con todos ellos (salvo energéticas).
@@ -11,6 +15,6 @@ El **almacén** es el inventario donde todo usuario guarda sus recursos, armas, 
   <figcaption>Almacén</figcaption>
 </figure>
 
-Un almacén cualquiera, de un usuario cualquiera  
+Un almacén cualquiera, de un usuario cualquiera
 
 En la pestaña de almacén puedes comprar y vender recursos, fabricar armas e intercambiar oro por bebidas energéticas. Simplemente selecciona el objeto y elige la opción pertinente.

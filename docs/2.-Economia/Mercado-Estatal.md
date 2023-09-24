@@ -1,3 +1,7 @@
+---
+comments: true
+---
+
 # Mercado Estatal
 
 <figure markdown>

@@ -1,3 +1,7 @@
+---
+comments: true
+---
+
 # Subastas de Fábricas
 
 Subastar es publicar una fábrica con el fin de que otros jugadores pujen por ello y reembolsarte cierta cantidad de oro.

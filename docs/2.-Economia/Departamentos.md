@@ -1,10 +1,13 @@
+---
+comments: true
+---
+
 # Departamentos
 
 > Los **departamentos** son **bonus nacionales** en armas, recursos o construcciones que trabajan sus habitantes de más de 100 de educación.
 
 ## Trabajar en los departamentos
 
-  
 Una vez has alcanzado el nivel de stats de **educación al 100** se te desbloquearán, tanto en el perfil de la nación de _Departamento más puntuado:_ como en tu propio perfil de _Misiones_.
 
 Se pueden trabajar **10 puntos** diariamente, renovándose cada fin del día.
@@ -18,12 +21,10 @@ Para trabajarlos debes estar **ubicado en el territorio de la nación** en la qu
   <figcaption>Departamentos</figcaption>
 </figure>
 
-  
 Normalmente hay algunas categorías marcadas como _Prioridad_. Estos departamentos son elegidos y marcados por el líder de la nación. Su intención es que se trabajen estos departamentos prioritariamente.
 
 ## Efectos
 
-  
 - Los bonus son de **carácter nacional**, por lo que todas las regiones de la nación se benefician de este bonus.
 
 - Es un porcentaje de **entre un 10% y un 0%** que afecta al valor basal de aquello que mejoran.
@@ -37,23 +38,25 @@ Normalmente hay algunas categorías marcadas como _Prioridad_. Estos departament
 ## Categorías
 
 ### Recursos
+
 - _Oro, Petróleo, Mineral, Uranio, Diamantes, Oxígeno líquido y Helio-3_
 
-    - Mejoran el rendimiento un X% del trabajo en las fábricas del recurso trabajado, por lo que se extrae mayor ganancia.
+  - Mejoran el rendimiento un X% del trabajo en las fábricas del recurso trabajado, por lo que se extrae mayor ganancia.
 
-    - Este bonus no se ve reflejado en la predicción de trabajo, sólo se aprecia cuando trabajas en la mina.
+  - Este bonus no se ve reflejado en la predicción de trabajo, sólo se aprecia cuando trabajas en la mina.
 
 ### Construcciones
+
 - _Edificios_
 
-    - Disminuye un X% el coste de construcción de nuevos edificios.
+  - Disminuye un X% el coste de construcción de nuevos edificios.
 
-    - Se aplica el bonus que haya en el momento de promulgar la ley de _Nuevo edificio_.
+  - Se aplica el bonus que haya en el momento de promulgar la ley de _Nuevo edificio_.
 
 ### Armamento
 
 - _Tanques, Acorazados y Estación espacial_
 
-    - Aumenta un X% el daño que provocan las tropas en las guerras en las que la nación se vea involucrada.
+  - Aumenta un X% el daño que provocan las tropas en las guerras en las que la nación se vea involucrada.
 
-    - Además, al trabajar en _Estación espacial_ se reduce un X% el tiempo de viaje entre la Luna y los territorios de ese país.
+  - Además, al trabajar en _Estación espacial_ se reduce un X% el tiempo de viaje entre la Luna y los territorios de ese país.

@@ -1,3 +1,7 @@
+---
+comments: true
+---
+
 # Academia Militar
 
 - La **academia militar** es un edificio gratuito construido **a diario** cada jugador a partir del **nivel 40**

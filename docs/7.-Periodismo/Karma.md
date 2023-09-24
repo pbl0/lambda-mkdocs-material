@@ -1,6 +1,10 @@
+---
+comments: true
+---
+
 # Karma
 
-El karma es la suma de los puntos de valoración de todos tus artículos, los "likes" que has conseguido con todos tus artículos. No tiene ninguna utilidad ni supone una mejora de las habilidades personales. 
+El karma es la suma de los puntos de valoración de todos tus artículos, los "likes" que has conseguido con todos tus artículos. No tiene ninguna utilidad ni supone una mejora de las habilidades personales.
 
 - Ni siquiera sirve para decir que tus artículos son mejores. Si haces memes tendrás más karma, si escribes textos largos, menos; si escribes más tendrás más karma que si no escribes, simple.
 

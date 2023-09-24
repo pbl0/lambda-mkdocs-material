@@ -1,3 +1,7 @@
+---
+comments: true
+---
+
 # Comerciar
 
 Comerciar es **vender** los artículos del almacén a cambio de dinero o **comprar** artículos a partir de tu dinero. – En RR puedes adquirir objetos y recursos a cambio de dinero ($) en el mercado. Igualmente, puedes venderlos y obtener dinero.

@@ -1,3 +1,7 @@
+---
+comments: true
+---
+
 # Edificios
 
 > Los **edificios** son construcciones que se hacen en una región concreta para aumentar su valor y mejorar su calificación mundial.
@@ -22,7 +26,6 @@ Dan bonificación de defensa y ataque inicial cuando se inicia un frente desde e
 
 - **Sistema de misiles**: Reduce el daño infligido por el enemigo desde la región vecina, hasta una diferencia máxima de 300 edificios (deja de aumentar la diferencia y el bonus).
 - **Puertos navales:** Reduce el daño infligido por el enemigo en guerras marítimas al igual que lo hacen los sistemas de misiles. Solo disponen las regiones con acceso al mar.
-
 
 ## Edificios de Transporte
 

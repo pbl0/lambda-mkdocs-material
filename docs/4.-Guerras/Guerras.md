@@ -1,3 +1,7 @@
+---
+comments: true
+---
+
 # Guerras
 
 ## Realizar un ataque
@@ -32,22 +36,27 @@ Una región (atacante) de un país ataca la región de otro país de otro bloque
 #### Frentes internos
 
 ##### Golpe de estado
+
 Tres jugadores en una región con desarrollo al nivel 1 presionan el botón de Iniciar golpe. En ese momento se inicia un frente (24h) con bombarderos y cazas sin bonus de nación. Para defender es necesario estar en la región, pero para atacar basta con estar en el mismo mapa (aunque existe penalización por distancia). Pueden iniciarse en la misma región cada 3 días y un jugador sólo puede iniciar una simultáneamente.
 
 ##### Revolución
+
 Tres jugadores en una misma región presionan el botón de Iniciar revolución gastando 75 de oro. En ese momento se inicia un frente (24h) con tropas terrestres sin bonus de nación. Para atacar y defender es necesario estar en la región, y pueden iniciarse a los 3 días de finalizar la anterior.
 
 ### Marítimo
 
 #### Batalla naval
+
 Una región con costa (atacante) de un país ataca la región con costa de otro país de otro bloque (defensor) al alcance marítimo (1.500km). Ésta guera dura 48h (mar y desembarco) y se emplean acorazados (mar) y luego tropas terrestres (desembarco). Si se gana la batalla de mar (24h) se inicia el desembarco con el daño inicial del final de la batalla (24h), si se gana este último la región pasa a formar parte del país atacante junto a su botín.
 
 ### Espacial
 
 #### Batalla espacial
+
 Una región (atacante) de un país en la Tierra ataca la región de otro país en la Luna de otro bloque (defensor), o viceversa. Ésta guerra dura 24h y se emplean estaciones espaciales, que son muy caras. Si se gana la región pasa a formar parte del país atacante junto a su botín.
 
 #### Batalla lunar
+
 Una región (atacante) de un país en la Luna ataca la región de otro país de otro bloque (defensor) con el que comparte frontera. Ésta guerra dura 24h y en ella se emplean tanques lunares. Si se gana la guerra, dicha región atacada la pasa a formar parte del país atacante junto a su botín.
 
 ## Resultados de batalla

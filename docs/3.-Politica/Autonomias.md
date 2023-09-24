@@ -1,10 +1,14 @@
+---
+comments: true
+---
+
 # Autonomías
 
 ## Introducción
 
 - Una autonomía es decretada en una región que no sea la capital de un país en el parlamento nacional. Una vez aprobada la ley, se inician unas elecciones al parlamento autonómico entre los partidos propios de la región.
 - Desde el parlamento nacional puede nombrarse un gobernador, que recibirá sueldo en oro por su cargo y que permanecerá en el poder hasta que por ley se asigne a otro o se cancele la autonomía. Si la forma de gobierno del país es _república_, el gobernador podrá reponer [recursos](/2.-Economia/Recursos) y construir edificios de forma instantánea.
-- Las autonomías cuentan con cierta auto gestión y sus propias arcas. 
+- Las autonomías cuentan con cierta auto gestión y sus propias arcas.
 - Los impuestos y leyes aplicadas en la autonomía tienen su efecto de forma diferencial en el territorio con respecto a la norma nacional, si bien los decretos nacionales modifican y actualizan su estado, imponiéndose.
 - La división de ganancias establece el porcentaje de los impuestos que va a parar a las arcas de la autonomía. El resto va al presupuesto nacional. Esto lo modifica manualmente el ministro de economía, el monarca o el dictador.
 - Si se le concede la independencia, las arcas se mantienen ahora como presupuesto estatal.
@@ -16,6 +20,7 @@
 </figure>
 
 ## Macro Autonomía
+
 **o Gran Autonomía**
 
 - Cuando a una autonomía se le adjuntan varias regiones, la autonomía cambia de forma convirtiéndose en una Gran Autonomía.

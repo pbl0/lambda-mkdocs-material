@@ -1,9 +1,7 @@
 ---
-layout: default
-title: Bloque
-rank: 1
-category: politica
+comments: true
 ---
+
 # Bloque
 
 Un **bloque geopolítico** es una **organización de países** con un líder (generalmente el fundador) y una serie de miembros que tienen una alianza militar.

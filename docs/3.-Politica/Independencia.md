@@ -1,9 +1,7 @@
 ---
-layout: default
-title: Independencia
-rank: 6
-category: politica
+comments: true
 ---
+
 # Independencia
 
 ## Independencia de una región
@@ -34,7 +32,7 @@ Deja de pertenecer a un estado, **no hay gobierno ni parlamento**. Las fronteras
 
 - **0 días** – Se inicia la independencia, las fronteras están abiertas y puede obtenerse la residencia viajando a la zona. Pueden fundarse nuevos partidos, aunque los antiguos permanezcan.
 
-- **1 día** – Comienzan las elecciones parlamentarias en la región. Aquellos que cumplan las 24h de residencia podrán votar por los partidos existentes en la región en el momento de las elecciones.  
+- **1 día** – Comienzan las elecciones parlamentarias en la región. Aquellos que cumplan las 24h de residencia podrán votar por los partidos existentes en la región en el momento de las elecciones.
 
 - **2 días** – Finalizan las elecciones parlamentarias y el Parlamento es funcional. Pueden aprobarse [leyes](/3.-Politica/Leyes/) por mayoría tras 24h o inmediatamente en el momento de llegar a la mayoría absoluta.
 

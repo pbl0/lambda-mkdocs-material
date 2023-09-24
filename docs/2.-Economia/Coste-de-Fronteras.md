@@ -1,3 +1,7 @@
+---
+comments: true
+---
+
 # Coste de Fronteras
 
 ??? note "Últimas revisiones"

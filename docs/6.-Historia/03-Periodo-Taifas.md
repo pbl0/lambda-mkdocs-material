@@ -1,9 +1,12 @@
-
+---
+comments: true
+---
 
 # Período Taifas
 
 ### 2018
-* * *
+
+---
 
 <figure markdown>
   ![mapa de las taifas](/img/posts/historia/taifas.png){ .screenshot loading=lazy }
@@ -24,7 +27,7 @@ El bloque se disuelve y los países hispanos integrantes entran a formar parte d
 
 **30/04/18 - Conquista de Andalucía:**
 Great Atlantis saquea el territorio de la Confederación Ibérica, tras lo que los países terminan sumándose al bloque Europeo y Epona se disuelve.
-  
+
 **07/05/18 - Caída de European Space Agency:**
 Los turcos israelíes toman el imperio lunar turco en cuestión de poco más de un día. EB viaja a la Luna para salvar los territorios suizos, obteniendo una victoria contra esta facción turca.
 
@@ -42,12 +45,12 @@ Tras varios reveses en los frentes debido a las revoluciones, la derrota en las 
 
 **27/05/18 - Actualización de fronteras:**
 El juego se actualiza, aumentando el salario por cargos y variando el precio de las fronteras cerradas.
-  
+
 **04/06/18 - ANO en expansión:**
 Surge el bloque riojano Absolutely Neutral Ones declara la guerra a CI con el fin de mejorar el entrenamiento en guerra real. Esto no es serio...
 
 **07/06/18 - Colonizando la Luna:**
-Ante la falta de entendimiento de aragoneses con la facción mexicana con la que contrataron servicios para tomar el poder, la comunidad española lanza ofensivas contra México. La única que exitosa es contra su región lunar, que es cedida a Aragón como compensación. 
+Ante la falta de entendimiento de aragoneses con la facción mexicana con la que contrataron servicios para tomar el poder, la comunidad española lanza ofensivas contra México. La única que exitosa es contra su región lunar, que es cedida a Aragón como compensación.
 Ese mismo día comienza el evento Copa del Mundo.
 
 **11/06/18 - Conquista de Chequia:**
@@ -114,8 +117,8 @@ Tras el fraude en su venta es tomada militarmente desde Arcadia y cedida a sus c
 NOS lanza un ataque contra Islandia para tomar la isla. Los Habsburgos declinan el PENA.
 
 **25/09/18 - Crisis de Yemen:**
-En medio de una serie de golpes de estado entre bloques por desestabilizar la posición del bloque contrario, es tomada la región de Yemen rompiendo el PENA. Sakura (Habsburgo) e Inquisición (España) se baten en duelo en  una guerra de guerrillas y golpes. Paralelamente sucede un boom moderado de jugadores españoles. Tres días después se independiza Moscú.
-  
+En medio de una serie de golpes de estado entre bloques por desestabilizar la posición del bloque contrario, es tomada la región de Yemen rompiendo el PENA. Sakura (Habsburgo) e Inquisición (España) se baten en duelo en una guerra de guerrillas y golpes. Paralelamente sucede un boom moderado de jugadores españoles. Tres días después se independiza Moscú.
+
 **04/10/18 - Actualización de fronteras:**
 Las fronteras vuelven a tener un coste fijo y el límite de oro diario por territorio pasa de 1500 a 2500.
 
@@ -165,10 +168,10 @@ TNP se asienta y firma un pacto de no agresión con Epona en un intento por asen
 Jeremy nos da 3k de oro y prepara un evento de daño por partidos y naciones. Nace Valencia.
 
 **25/12/18 - Feliz Navidad:**
-Comienza el evento Navideño en la Isla del Copo de Nieve. Los ganadores se detallan al final del año: 
+Comienza el evento Navideño en la Isla del Copo de Nieve. Los ganadores se detallan al final del año:
 ![Foto artículo del evento](https://cdn.discordapp.com/attachments/475622656583008267/530497522620432395/IMG_20190103_222654.jpg)
 
-28/12/18 - Día de los Inocentes:**
+28/12/18 - Día de los Inocentes:\*\*
 Al eliminar a base de dislikes todas las entradas de la sección de artículos, queda vacía, lo que se considera la mayor jugarreta del día. Feliz 28 de Diciembre.
 
 **30/12/18 - Tiempo de pactos:**
@@ -181,7 +184,7 @@ TSM logra arrebatarle a Francia la isla y se pone a tiro de Epona. Italia abre f
 Ante la inestabilidad de una guerra civil ante migraciones marroquíes proTSM, IA invade marítimamente la región para asegurar las fronteras y devolver la estabilidad.
 
 **15/01/18 - Relaciones diplomáticas con los Habsburgo:**
-El Reino Habsburgo entabla PNA con la gran mayoría de estados insulares para mejorar las relaciones. Paralelamente, varios territorios de Ucrania son saqueados por los países limítrofes cuando por inestabilidad interna lanzó un ataque fortuito contra Rusia. 
+El Reino Habsburgo entabla PNA con la gran mayoría de estados insulares para mejorar las relaciones. Paralelamente, varios territorios de Ucrania son saqueados por los países limítrofes cuando por inestabilidad interna lanzó un ataque fortuito contra Rusia.
 
 **23/01/18 - Nadie se esperaba a la Inquisición Española:**
 El partido se rearma y se cuela en Rusia para hacer revoluciones, declarando la Segunda Cruzada de la Inquisición. Tras varios intentos diarios, logra una victoria y se firma la paz una semana después.
@@ -190,10 +193,10 @@ El partido se rearma y se cuela en Rusia para hacer revoluciones, declarando la 
 Murcia abre frente contra el territorio de Furry en Portugal y lo anexión a para el asentamiento de los Habsburgo en la Península, que ya habían trasladado su capital a Andorra. Las tensiones mundiales siguen en Oceanía y Canadá, donde de vez en cuando se dispara algún frente.
 
 **16/02/18 - Guerra Mundial Africana:**
-Habsburgo compra Navarra, mientras el traspaso de Vanuatu a un país con NAP para evitar la conquista de Nueva Caledonia hace que la guerra mundial salte. Aumentan las tensiones, que se disparan en el sur de Sudán y se propagan por Noruega, el Norte de Italia y el golfo de Guinea. Los contingentes son Epona, Caucasian y EF contra Atlantic, TSM y Rusia, principalmente. Los primeros frentes, en el que destaca el asedio de Lagos por tratarse de una gran guerra económica lanzada desde AO, fueron ganados por los primeros, que avanzaron en África y Europa. La Luna es escenario de pequeñas victorias de AO.:**
+Habsburgo compra Navarra, mientras el traspaso de Vanuatu a un país con NAP para evitar la conquista de Nueva Caledonia hace que la guerra mundial salte. Aumentan las tensiones, que se disparan en el sur de Sudán y se propagan por Noruega, el Norte de Italia y el golfo de Guinea. Los contingentes son Epona, Caucasian y EF contra Atlantic, TSM y Rusia, principalmente. Los primeros frentes, en el que destaca el asedio de Lagos por tratarse de una gran guerra económica lanzada desde AO, fueron ganados por los primeros, que avanzaron en África y Europa. La Luna es escenario de pequeñas victorias de AO.:\*\*
 
 **18/02/18 - Invasión de Kenia:**
-La guerra se recrudece en África, y tras la invasión desde el Sudán de AE, Kenia cae y con ello las posesiones brasileñas del cuerno africano. Epona sigue ganando las guerras de escalada económica y avanzando en África y la Luna. El Norte de Italia termina por caer. 
+La guerra se recrudece en África, y tras la invasión desde el Sudán de AE, Kenia cae y con ello las posesiones brasileñas del cuerno africano. Epona sigue ganando las guerras de escalada económica y avanzando en África y la Luna. El Norte de Italia termina por caer.
 
 **21/02/18 - Ofensiva de Lesotho:**
 El frente se traslada al sur del continente, y los estados brasileños en Sudáfrica vuelven a perder la guerra económica que se inicia en Lesotho. No existe un verdadero freno al avance de Epona por las posesiones de AO y terminan retrocediendo hasta aguantar en unas pocas regiones aisladas.
@@ -202,7 +205,7 @@ El frente se traslada al sur del continente, y los estados brasileños en Sudáf
 Tras la conquista de la cabeza de puente brasileña en África, la guerra parece que se acerca a su fin con un claro vencedor. Las pocas posesiones que AO conserva en el continente sin frío caen como fichas de dominó mientras se inician las negociaciones de paz entre Epona y AO.
 
 **05/03/18 - Expulsión de Gales:**
-Tras la expulsión de AO de África, desde Inglaterra se atacan las cabezas de puente de AO en Europa, en las regiones galesas. AO cede terreno y termina perdiendo sus colonias en el Reino Unido  tras la derrota de Gales, otra gran guerra económica. No obstante, es sublevada y el botín se pierde. La guerra se traslada a la Luna.
+Tras la expulsión de AO de África, desde Inglaterra se atacan las cabezas de puente de AO en Europa, en las regiones galesas. AO cede terreno y termina perdiendo sus colonias en el Reino Unido tras la derrota de Gales, otra gran guerra económica. No obstante, es sublevada y el botín se pierde. La guerra se traslada a la Luna.
 
 **12/03/18 - Asalto a Nueva Zelanda:**
 Epona trata de desembarcar en la isla del Norte para expulsar a AO del archipiélago de Oceanía, pero es repelido y todo sigue igual.
@@ -232,14 +235,14 @@ Desde el norte, AE se hace con la costa ártica de Rusia en un primer avance. En
 Los rusos consiguen detener parcialmente las fuerzas ofensivas en la zona de Magadán, el norte y el oeste del país. Crean líneas de regiones independientes que les dan un poco de oxígeno al enrocar los frentes desde el territorio enemigo y al derribar Ankara en una revolución, la capital turca antes de ser trasladada. No obstante, han perdido una parte importante de sus regiones originales.
 
 **09/04/18 - Saqueo de Magadán:**
-La región más edificada de Rusia cae en el este, y el oeste de Rusia cae ante las fuerzas turcas de Anatolia y Kazajistán. 
+La región más edificada de Rusia cae en el este, y el oeste de Rusia cae ante las fuerzas turcas de Anatolia y Kazajistán.
 
 **11/04/18 - Desestabilización de AE:**
 El buffer español pierde el gobierno ante una revolución rusa y la batalla se traslada al control del parlamento de la nación.
 
 **15/04/18 - Reconquista de AE:**
 Tras varias luchas por el control del gobierno, el buffer vuelve a manos de su propietario, Servus. Rusia, mientras tanto, se arrincona en las últimas regiones bajo su protección tras la caída de su capital y el corazón de su nación.
- 
+
 **23/04/18 - Final de la Campaña Rusa:**
 Con los últimos territorios de Rusia cayendo y sus últimas ofensivas desesperadas contra Caucasian, la guerra cobra importancia en el Caribe, donde Alianza del Sur comienza perdiendo territorios suyos en las Antillas.
 
@@ -250,7 +253,7 @@ La polarización se hace más patente y en esta ocasión, sin la colaboración d
 Tras la caída de Montañas Iranies por decisión turca de trasladarla, la región en sucederla es Sao Paulo en Brasil. Las naciones tratan de establecer proyectos para lograr nuevas top, pero todos estos proyectos se truncan con el tiempo.
 
 **15/05/18 - Segunda Guerra Civil Francesa:**
-Dado que el líder francés no puede conservar su poder por falta de apoyo popular, da un golpe de estado que deriva en una guerra civil. 
+Dado que el líder francés no puede conservar su poder por falta de apoyo popular, da un golpe de estado que deriva en una guerra civil.
 Paralelamente, Geralt es el sustituto de Tatsumi como moderador español y el INE cierra sus servicios tras la partida de Joan Rovira del juego.
 
 **17/05/18 - Conquista de Venezuela:**
@@ -271,6 +274,6 @@ Refugiados en las Islas Feroe, el estado danés cae a manos de los europeos a fa
 **02/06/18 - Fin de las Taifas:**
 Tras la caída del Nordeste peninsular y Madrid, el último bastión, los partidarios de Caucasian se hacen con el control de la Península. Andorra es conquistada y entregada por los franceses a Caucasian. Cambia el gobierno y los roles, los estados conquistadores de Marruecos y Portugal (que recupera sus regiones no insulares) dejan las regiones españolas a estados como Arcadia, Murcia, Fénix o Krasnigrad. El resto de taifas han caído, salvo Azores y La Rioja que se mantiene neutral. Aquí termina el período de las Taifas.
 
-* * *
+---
 
-[*Volver al Índice*](../)
+[_Volver al Índice_](../)

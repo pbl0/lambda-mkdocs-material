@@ -1,6 +1,11 @@
+---
+comments: true
+---
+
 # Multicuentas
 
 ## ¿Qué son las multicuentas?
+
 Las multicuentas o cuentas secundarias son **perfiles paralelos a tu cuenta principal** que te otorgan más **versatilidad y capacidades** en el juego. Puedes emplearlas para todas esas tareas que no puedes o no quieres hacer con tu cuenta principal, o aquello que quieres duplicar para generar un mayor efecto.
 
 - Se permite un **máximo de dos cuentas** con un correo cada una. Una tercera será baneada si te pillan, lo cuál es bastante probable si eres tan gafe como un servidor.

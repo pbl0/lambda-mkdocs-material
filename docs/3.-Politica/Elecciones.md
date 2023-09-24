@@ -1,8 +1,5 @@
 ---
-layout: default
-title: Elecciones
-rank: 1
-category: politica
+comments: true
 ---
 
 # Elecciones

@@ -1,3 +1,7 @@
+---
+comments: true
+---
+
 # Tablas del Juego
 
 ## Estado

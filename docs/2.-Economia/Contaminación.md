@@ -1,3 +1,7 @@
+---
+comments: true
+---
+
 # Contaminación
 
 La **contaminación** es el valor de radiación residual de la región en cuestión. Hace que aumente el tiempo que tarda en recargarse la energía de forma natural, sin energéticas.
@@ -13,7 +17,7 @@ La **contaminación** es el valor de radiación residual de la región en cuesti
 - La radiación sumada de la propia región o de las contiguas da un **valor total de contaminación**. Este valor aplica un **porcentaje de penalización** a la recarga de energía con respecto al tiempo basal (10 min \* (1 + x% de los 10 min).
 - Cuando el valor de la **penalización es superior al 2%** (10 min + 12 seg), la recarga de energía consumiendo energéticas al trabajar de forma automática sucede antes que la recarga natural de energía con la penalización, por lo que **deja de haber ganancia de oro** por recarga natural al trabajar.
 - En otras palabras, si la contaminación es superior a 48,5 (>2% de penalización) deja de haber recarga natural de energía **mientras trabajas en automático**. Independientemente del nivel de medicina de la región **no ganas excedente de oro** al trabajar en la región.  
-    
+
 
 ![]()
 

@@ -1,3 +1,7 @@
+---
+comments: true
+---
+
 # Habilidades
 
 Las habilidades, también conocidas como stats o perks, son "estadísticas" que conceden ciertas ventajas dentro del juego. Puedes encontrarlas en el perfil del jugador. Aumentar las habilidades tiene un coste de dinero (lento) u oro (rápido).

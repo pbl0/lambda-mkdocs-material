@@ -1,3 +1,7 @@
+---
+comments: true
+---
+
 # Guías de periodismo
 
 Artículos dónde puedes encontrar los comandos para modificar el texto e instrucciones para insertar elementos como imágenes, audios, encuestas, emojis...

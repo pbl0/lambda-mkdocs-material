@@ -1,3 +1,7 @@
+---
+comments: true
+---
+
 # Tropas
 
 ??? note "Últimas revisiones"

@@ -1,3 +1,7 @@
+---
+comments: true
+---
+
 # Parlamento
 
 <figure markdown>
@@ -5,7 +9,7 @@
   <figcaption>Aprobación de leyes en el Parlamento</figcaption>
 </figure>
 
-##  Tipos de votación
+## Tipos de votación
 
 - La aprobación de una ley es el proceso por el cuál se adopta o se desecha una propuesta de ley.
 

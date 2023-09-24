@@ -1,3 +1,7 @@
+---
+comments: true
+---
+
 # Recursos
 
 ??? note "Últimas revisiones"

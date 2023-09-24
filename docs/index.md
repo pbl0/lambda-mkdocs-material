@@ -1,3 +1,7 @@
+---
+comments: true
+---
+
 # Home
 
 ## ¿Qué es Lambda?

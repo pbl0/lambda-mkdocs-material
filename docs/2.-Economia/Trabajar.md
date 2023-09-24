@@ -1,3 +1,7 @@
+---
+comments: true
+---
+
 # Trabajar
 
 > El trabajo se basa en **transformar la energía en [recursos](/2.-Economia/Recursos/) o dinero**, trabajando en una mina, en la pestaña de trabajo. Esta energía puede recargarse naturalmente o consumiendo bebidas energéticas (e indirectamente oro).

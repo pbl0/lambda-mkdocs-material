@@ -1,5 +1,9 @@
+---
+comments: true
+---
 
 # Período Segundas Taifas
+
 ### 2021 - Actualidad?
 
 **2 de julio de 2021** - Aparecen las primeras Taifas, aunque aún están por organizarse definitivamente. Estas son:
@@ -38,7 +42,7 @@ Se presenta el proyecto de la República central que consiste en una república 
 
 Antes de seguir, hay que tener en cuenta que en este período de taifas predominan los proyectos privados, precisamente eso son las taifas, por lo que creo de deberíamos centrarnos un poco más en la República Central ya que es el proyecto más "público" que hay en la península. Esto, junto con los bandos y alianzas que han surgido durante este mes tanto a nivel comunidad como a nivel internacional serán los temas principales de esta etapa por ahora.
 
-Así, tenemos el primer mes de vida de la República Central siendo su primer aparición el 09/07/21 en los artículos y fundado el 16/07/21. En la repartición de la península se decide que haya un estado que mantenga la forma de estado de República para mantener de forma controlada el roleo político para gente nueva o sin estado fuera del Reino. De esta forma tenemos un estado que se desarrolla de forma independiente a la fórmula tradicional de las taifas, un estado que no es un proyecto privado de un partido o una persona y un estado que es dirigido, con ayuda, pero por partidos que en el anterior Reino no podrían haber tenido la posibilidad de manejar un estado. 
+Así, tenemos el primer mes de vida de la República Central siendo su primer aparición el 09/07/21 en los artículos y fundado el 16/07/21. En la repartición de la península se decide que haya un estado que mantenga la forma de estado de República para mantener de forma controlada el roleo político para gente nueva o sin estado fuera del Reino. De esta forma tenemos un estado que se desarrolla de forma independiente a la fórmula tradicional de las taifas, un estado que no es un proyecto privado de un partido o una persona y un estado que es dirigido, con ayuda, pero por partidos que en el anterior Reino no podrían haber tenido la posibilidad de manejar un estado.
 
 Este primer mes hemos tenido un dominio importante de Dinastía Borbónica como partido principal de la RC (República Central) con Gohkduk a la cabeza a causa de que fueron el primer partido en el estado. Luego aparecieron otros partidos como PP o FNR que han ido juntandose para hacer coaliciones de gobierno o para consolidad una oposición a Dinastía Borbónica.
 
@@ -69,6 +73,6 @@ A lo largo de estos últimos meses se establecieron dos bloques en la comunidad,
 
 Esto nos deja un escenario distinto al de las taifas: una parte de la comunidad es expulsada de la península mientras la otra ocupa todo el territorio. ¿Por qué acabar así el periodo? Las primeras taifas acabaron con el ataque de CC a la península, entrando de nuevo una parte de la comunidad que había sido expulsada, mientras que la otra, la que ocupaba la península, le toca irse. ¿Por qué no acabarla de la misma manera? En aquellas primeras taifas se fue expulsando poco a poco a una parte de la comunidad, la que luego volvió para acabar con las taifas. Esta vez, se ha expulsado de golpe a toda una parte de la comunidad. La primera vez, hubo quien se preocupó por si censurar a una parte de la comunidad tendría efectos en la propia comunidad. Esta vez no ha habido problema. Por eso, creo que este es un escenario nuevo, uno en el que la comunidad se ha escindido en dos bloques que parecen irreconciliables. Por tanto, doy por finalizado este periodo con la caída definitiva de Grass, el día 13/12/21.
 
-* * *
+---
 
-[*Volver al Índice*](../)
+[_Volver al Índice_](../)

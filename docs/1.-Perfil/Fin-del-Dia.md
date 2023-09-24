@@ -1,3 +1,7 @@
+---
+comments: true
+---
+
 # Fin del Día
 
 ## Introducción
@@ -6,7 +10,7 @@ El fin del día se conoce como la **hora a la que se resetean** los temporizador
 
 - Se establece a las 00:00 GMT+5, es decir, las 12pm del horario de Moscú.
 - En España (GMT+1) se establece por la tarde, inamovible pese al cambio de horario de verano/invierno:
-    - A las **19:00** en el horario de **invierno** (Septiembre-Marzo).A las **20:00** en el horario de **verano** (Marzo-Septiembre).
+  - A las **19:00** en el horario de **invierno** (Septiembre-Marzo).A las **20:00** en el horario de **verano** (Marzo-Septiembre).
 
 ### **Temporizadores diarios que se resetean**
 

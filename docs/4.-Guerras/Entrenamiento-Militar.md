@@ -1,16 +1,14 @@
 ---
-layout: default
-title: Entrenamiento Militar
-rank: 1
-category: guerras
+comments: true
 ---
+
 # Entrenamiento Militar
 
 ## Introducción
 
 - El **entrenamiento militar** permite obtener experiencia por causar daño en guerra en un simulador sin peligro de causar conflictos diplomáticos.
 - Se obtiene **bastante experiencia** a cambio de tropas (dinero), y si es intensivo por muchas tropas y energía (oro).
-- Para **iniciar el entrenamiento militar** selecciona la pestaña de Guerras y el botón gris que pone «Entrenamiento Militar»  
+- Para **iniciar el entrenamiento militar** selecciona la pestaña de Guerras y el botón gris que pone «Entrenamiento Militar»
 
 <figure markdown>
   ![Imagen de boton entrenamiento](/img/posts/guerras/train.jpg){ .screenshot loading=lazy }

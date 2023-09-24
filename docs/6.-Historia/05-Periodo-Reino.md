@@ -1,7 +1,13 @@
+---
+comments: true
+---
+
 # Gran Período Monárquico
 
 ### 2019 - 2021
-* * *
+
+---
+
 <figure markdown>
   ![Escudo del reino](/img/posts/historia/reino.png){ .screenshot loading=lazy }
   <figcaption>Escudo del Reino de España</figcaption>
@@ -14,7 +20,7 @@
 
 El Reino nace el día 3/11/19 con la coronación de Noel después de un periodo demasiado ambicioso que supuso La República. Se decide entonces seguir con el proyecto de unión, pero desde un enfoque menos arriesgado, desde una monarquía y un consejo, comienza así el quinto periodo de nuestra historia en RR. Este periodo podría llamarse periodo monárquico, pero este nombre no haría justicia al propio periodo ya que nunca antes se había producido una unión de la comunidad bajo unas mismas bases y estado durante tanto tiempo. Como bien dice Izeta en el [artículo del cumpleaños del reino](https://rivalregions.com/#news/show/3053618), esto es más bien una edad de oro de la comunidad donde se han conseguidos objetivos tales como el fin de los conflictos internos a gran escala y la construcción de Azores Top 1. Por lo tanto, es correcto decir en retrospectiva que, después de un año, con El Reino se inicia una edad de oro que continua a día de hoy (03/11/20).
 
-Inaugurado el reino, como ya hemos aclarado, bajo la idea de mantener una unión comunitaria, se establecen las bases del mismo. Estos van a ser  el Rey, el Consejo, la Asamblea Real (AR) y la constitución. El rey, ya mencionado, y el Consejo van a formar el órgano legislativo del Reino, la AR será el órgano consultivo y la constitución establecerá las normas básicas de funcionamiento del reino.
+Inaugurado el reino, como ya hemos aclarado, bajo la idea de mantener una unión comunitaria, se establecen las bases del mismo. Estos van a ser el Rey, el Consejo, la Asamblea Real (AR) y la constitución. El rey, ya mencionado, y el Consejo van a formar el órgano legislativo del Reino, la AR será el órgano consultivo y la constitución establecerá las normas básicas de funcionamiento del reino.
 
 El Consejo Real, en su inicio, nace con el objetivo de centrar el tema de discusión reduciendo el número de personas que tienen acceso al debate legislativo. En La República, las discusiones se desvirtuaban por la cantidad de gente que podía participar en el debate del funcionamiento de la misma. Esto producía una enorme lentitud en la toma de decisiones. En cambio, El Reino, reduciendo la capacidad de los chats de discusiones importantes ha conseguido una mayor eficiencia. Se decide así que el Consejo estaría formado por representantes de los partidos más importantes de la comunidad, representando de esta forma a la gran mayoría de la comunidad. Esto fue criticado por una parte de la comunidad que veía muy poca la capacidad del Consejo, pero a lo largo de este año han ido entrando partidos nuevos, otros han sido denegados y otros han ido saliendo. El aumento de la capacidad más grande que ha habido en el Consejo ha sido con la entrada de representantes independientes, es decir, una persona puede entrar individualmente si cree tener los méritos suficientes, de esta manera entraron varias personas al Consejo. Más adelante, el Consejo decidió crear un inpuesto para ellos mismos, una cantidad que ha ido variando, pero siempre con el objetivo de tener un fondo para utilizar en caso de ser necesario. A día de hoy 09/11/20, el Consejo se compone de 16 miembros contando al rey y al moe (ministro de economía), Yoda y se puede acceder a él, según la constitución, representando a tu partido o de forma independiente a través de una votación que se realizará en el Consejo y deberá tener una mayoría del 2/3.
 
@@ -115,7 +121,7 @@ Otra vez, el estado de Dani es atacado. Con 34 frentes abiertos, sus aliados se 
 ![Mensaje de despedida de Dani](https://cdn.discordapp.com/attachments/531953896780988425/795429765124980756/IMG_20210104_001314.jpg)
 
 06/01/21 - Estalla una guerra mundial.
-Varios meses llevabamos todos atentos  a una posible guerra mundial. Al final, ha estallado como se prevenía. Esta vez, se enfrentan LBA y NF contra Chaos y G20, mientras que GoH no acaba de posicionarse. Probablemente la guerra se decidirá dependiendo de como se posicione GoH, si decide atacar o mantenerse neutral. Hoy se abre el primer frente, veremos hasta cuando se alarga.
+Varios meses llevabamos todos atentos a una posible guerra mundial. Al final, ha estallado como se prevenía. Esta vez, se enfrentan LBA y NF contra Chaos y G20, mientras que GoH no acaba de posicionarse. Probablemente la guerra se decidirá dependiendo de como se posicione GoH, si decide atacar o mantenerse neutral. Hoy se abre el primer frente, veremos hasta cuando se alarga.
 
 10/01/21 - Reporte de guerra.
 Muy pronto se vió la superioridad de LBA y NF en la guerra. Cuatro días después, y habiendo looteado Teherán, Chaos y G20 - están casi derrotados.
@@ -135,7 +141,7 @@ Hoy a las 6pm ha acabado la votación saliendo ganador miguelpuchi. Enhorabuena!
 ![Imagen del recuento votos](https://cdn.discordapp.com/attachments/531953896780988425/804461379755049001/Screenshot_2021-01-28-22-18-54-571_org.telegram.messenger.png)
 
 12/02/21 - varias cosas.
-Poco movimiento en general. Como cada x tiempo, después de una guerra mundial hay un tiempo de farmeo en el que no suele pasar nada importante. Eso si, hay que destacar el ambiente de tensión en el que se encuentra constantemente LBA. Después de la guerra se perdieron varias regiones y una de ellas, Kuwait, fue casi objeto nuevamente de una guerra, pero tras el periodo de paz se firma un NAP entre LBA y NF, por un lado, y GOH y los turcos e italianos por el otro lado (24/01/21). Después de esto, si acabó habiendo una guerra en territorio de NF en el que volvieron a enfrentarse los mismos bandos ignorando completamente el NAP los días 2 y 3 febrero. La victoria fue nuevamente para el lado de LBA y NF y, a consecuencia de esto, la inestabilidad entre los bloques no hizo más que empeorar. Veremos si esto vuelve a acabar en guerra y quien acabará ganando. 
+Poco movimiento en general. Como cada x tiempo, después de una guerra mundial hay un tiempo de farmeo en el que no suele pasar nada importante. Eso si, hay que destacar el ambiente de tensión en el que se encuentra constantemente LBA. Después de la guerra se perdieron varias regiones y una de ellas, Kuwait, fue casi objeto nuevamente de una guerra, pero tras el periodo de paz se firma un NAP entre LBA y NF, por un lado, y GOH y los turcos e italianos por el otro lado (24/01/21). Después de esto, si acabó habiendo una guerra en territorio de NF en el que volvieron a enfrentarse los mismos bandos ignorando completamente el NAP los días 2 y 3 febrero. La victoria fue nuevamente para el lado de LBA y NF y, a consecuencia de esto, la inestabilidad entre los bloques no hizo más que empeorar. Veremos si esto vuelve a acabar en guerra y quien acabará ganando.
 
 Por otro lado, en términos de la comunidad, todo sigue más o menos igual, no hay mucho movimiento. Algún movimiento de partidos que se unen y otros que cambian de roleo.
 
@@ -153,8 +159,8 @@ La guerra se estabiliza y LBA gana algún frente. Los dos bandos se reorganizan 
 01/03/21 - reportes de guerra.
 La luna es un polvorín. Hace unos días, los americanos, de madrugada, tumbaron la capital del estado de WD en la luna, y así dos veces más durante ayer y hoy de madrugada. Esto ha provocado que WD se vea indefenso en la luna y la abandone. Así, la guerra se ha extendido por toda la luna y todo el mundo esté aprovechando para hacerse con alguna región. La luna ha dejado de ser absolutamente el fortín de WD.
 
-02/03/21 - reportes de guerra. 
-WD intenta lootearse, pero LBA le defiende los frentes. Además, portugueses aprovechan el momento para abrir revoluciones por la península. 
+02/03/21 - reportes de guerra.
+WD intenta lootearse, pero LBA le defiende los frentes. Además, portugueses aprovechan el momento para abrir revoluciones por la península.
 
 03/03/21 - reportes de guerra.
 Se empiezan a abrir frentes contra las regiones de Sud África, esta vez, no parece que WD tenga posibilidades de resistir.
@@ -173,6 +179,7 @@ Después de esta guerra de desgaste veremos que hacen los bloques ganadores.
 
 21/03/21 - tensiones en LBA.
 Poco han tardado en llegar problemas por el reparto de las ganancias. En este caso, en la luna. LBA y NF quieren monopolizar los recursos de la luna, más concretamente el helio, y los antiguos líderes de lo que era Icarus se han puesto en contra mientras recibían apoyo de una parte importante de la comunidad. Ahora mismo hay un debate encarnizado en la comunidad por parte de los defensores de LBA e Icarus. Aquí los artículos de los representantes de las dos partes:
+
 - [Icarus](https://m.rivalregions.com/#news/show/3170630)
 - [LBA](https://rivalregions.com/#news/show/3170662)
 
@@ -188,8 +195,8 @@ El 25 de junio del 2021 - Noel presenta su dimisión como rey a causa de la prof
 
 El 2 de julio empiezan a constituirse las primeras Taifas dando comienzo a una nueva etapa.
 
-*FIN 2 de julio 2021*
+_FIN 2 de julio 2021_
 
-* * *
+---
 
-[*Volver al Índice*](../)
+[_Volver al Índice_](../)

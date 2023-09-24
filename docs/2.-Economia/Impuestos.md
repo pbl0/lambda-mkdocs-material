@@ -1,3 +1,7 @@
+---
+comments: true
+---
+
 # Impuestos
 
 > Los impuestos son tasas que se cobran desde una organización gubernamental, ya sea nacional o autonómico, a las actividades económicas de sus ciudadanos.
