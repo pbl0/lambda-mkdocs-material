@@ -142,7 +142,7 @@ x: Energía trabajada (E)
 
         Está fórmula es aplicable tanto para recursos como para oro.
 
-## Bonus de nación por puntos nacionales trabajados en cada categoría de los departamentos
+## Bonus por puntos nacionales trabajados en cada categoría de los departamentos
 
 ```
 x = a/b x 10%
@@ -211,6 +211,8 @@ x: Nivel de fábrica (uds)
 ```
 
 ## Daño inicial en un frente
+
+> A partir de 21 de Mayo de 2024 se han duplicado el daño inicial para el ataque y la defensa.
 
 ```
 x = 450.000c

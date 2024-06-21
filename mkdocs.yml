@@ -29,6 +29,7 @@ theme:
     - search.suggest
     - search.highlight
     - search.share
+    - content.tooltips
 markdown_extensions:
   - pymdownx.tasklist:
       custom_checkbox: true
@@ -42,6 +43,11 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+  - abbr
+  - pymdownx.snippets
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
 extra_css:
   - css/styles.css
 extra:
