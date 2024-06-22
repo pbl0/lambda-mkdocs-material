@@ -2,7 +2,7 @@
 
 > (Bonus de nación 2024)
 
-El 21 de mayo de 2024 el administrador del juego anunció el cambio referente al nuevo _Homeland bonus_ (a falta de traducción oficial, entiéndase como equivalente al antiguo bonus de nación).
+El [29 de mayo de 2024 :rr-logo:](https://rivalregions.com/#news/show/3788487) el administrador del juego anunció el cambio referente al nuevo _Homeland bonus_ (a falta de traducción oficial, entiéndase como equivalente al antiguo bonus de nación).
 
 A diferencia del antiguo bonus de nación, el homeland bonus está relacionado a la residencia del jugador, **en guerras aumenta la fuerza en 300 y un 20% de productividad al farmear**. Se puede ver desde el perfil:
 

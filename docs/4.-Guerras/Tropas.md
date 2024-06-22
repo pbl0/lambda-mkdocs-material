@@ -6,7 +6,7 @@ comments: true
 
 ??? note "Últimas revisiones"
 
-    - _05/08/2022 por [@Gohkduk](https://t.me/Gohkduk)_
+    - _05/08/2022 por [@Gohkduk :fontawesome-brands-telegram:](https://t.me/Gohkduk)_
 
 <figure markdown>
   ![Imagen de tropas](/img/posts/guerras/tropas.png){ loading=lazy }

@@ -6,7 +6,7 @@ comments: true
 
 ??? note "Últimas revisiones"
 
-    - _03/08/2023 [@SilverFRE](https://t.me/SilverFRE)_
+    - _03/08/2023 [@SilverFRE :fontawesome-brands-telegram:](https://t.me/SilverFRE)_
 
 Existen varios recursos en el juego, cada uno tiene sus funciones y formas de conseguirlo
 

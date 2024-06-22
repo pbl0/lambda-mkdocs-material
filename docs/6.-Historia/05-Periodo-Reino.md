@@ -18,7 +18,7 @@ comments: true
   <figcaption>Reino de España</figcaption>
 </figure>
 
-El Reino nace el día 3/11/19 con la coronación de Noel después de un periodo demasiado ambicioso que supuso La República. Se decide entonces seguir con el proyecto de unión, pero desde un enfoque menos arriesgado, desde una monarquía y un consejo, comienza así el quinto periodo de nuestra historia en RR. Este periodo podría llamarse periodo monárquico, pero este nombre no haría justicia al propio periodo ya que nunca antes se había producido una unión de la comunidad bajo unas mismas bases y estado durante tanto tiempo. Como bien dice Izeta en el [artículo del cumpleaños del reino](https://rivalregions.com/#news/show/3053618), esto es más bien una edad de oro de la comunidad donde se han conseguidos objetivos tales como el fin de los conflictos internos a gran escala y la construcción de Azores Top 1. Por lo tanto, es correcto decir en retrospectiva que, después de un año, con El Reino se inicia una edad de oro que continua a día de hoy (03/11/20).
+El Reino nace el día 3/11/19 con la coronación de Noel después de un periodo demasiado ambicioso que supuso La República. Se decide entonces seguir con el proyecto de unión, pero desde un enfoque menos arriesgado, desde una monarquía y un consejo, comienza así el quinto periodo de nuestra historia en RR. Este periodo podría llamarse periodo monárquico, pero este nombre no haría justicia al propio periodo ya que nunca antes se había producido una unión de la comunidad bajo unas mismas bases y estado durante tanto tiempo. Como bien dice Izeta en el [artículo del cumpleaños del reino :rr-logo:](https://rivalregions.com/#news/show/3053618), esto es más bien una edad de oro de la comunidad donde se han conseguidos objetivos tales como el fin de los conflictos internos a gran escala y la construcción de Azores Top 1. Por lo tanto, es correcto decir en retrospectiva que, después de un año, con El Reino se inicia una edad de oro que continua a día de hoy (03/11/20).
 
 Inaugurado el reino, como ya hemos aclarado, bajo la idea de mantener una unión comunitaria, se establecen las bases del mismo. Estos van a ser el Rey, el Consejo, la Asamblea Real (AR) y la constitución. El rey, ya mencionado, y el Consejo van a formar el órgano legislativo del Reino, la AR será el órgano consultivo y la constitución establecerá las normas básicas de funcionamiento del reino.
 
@@ -71,7 +71,7 @@ Lo que parecía una guerra inminente contra LBA parece haberse convertido con lo
 
 23/11/20 - Nap entre LBA y los turcos.
 Varios días después del anuncio de una posible guerra mundial, llega un Nap (pacto de no agresión) entr LBA y la comunidad turca.
-[Artículo](https://m.rivalregions.com/#news/show/3071584)
+[Artículo :rr-logo:](https://rivalregions.com/#news/show/3071584)
 
 24/11/20 - Segundo pleno de la AR.
 El tema principal que se encuentra en las propuestas es la guerra, parece que este hecho está conmocionando a la comunidad y se puede ver reflejado en sus propuestas a la AR.
@@ -180,10 +180,10 @@ Después de esta guerra de desgaste veremos que hacen los bloques ganadores.
 21/03/21 - tensiones en LBA.
 Poco han tardado en llegar problemas por el reparto de las ganancias. En este caso, en la luna. LBA y NF quieren monopolizar los recursos de la luna, más concretamente el helio, y los antiguos líderes de lo que era Icarus se han puesto en contra mientras recibían apoyo de una parte importante de la comunidad. Ahora mismo hay un debate encarnizado en la comunidad por parte de los defensores de LBA e Icarus. Aquí los artículos de los representantes de las dos partes:
 
-- [Icarus](https://m.rivalregions.com/#news/show/3170630)
-- [LBA](https://rivalregions.com/#news/show/3170662)
+- [Icarus :rr-logo:](https://rivalregions.com/#news/show/3170630)
+- [LBA :rr-logo:](https://rivalregions.com/#news/show/3170662)
 
-Mientras tanto, la batalla se decide en el siguiente [frente](https://m.rivalregions.com/#war/details/382352)
+Mientras tanto, la batalla se decide en el siguiente [frente :rr-logo:](https://rivalregions.com/#war/details/382352)
 
 ### RESUMEN del fin del período
 

@@ -1,4 +1,3 @@
-
 # Primeros Pasos
 
 ## Introducción
@@ -19,10 +18,10 @@ Como puedes ver, tienes muchísimas opciones, solo debes encontrar tu lugar. Y p
 
 - Las guías [Habilidades](/1.-Perfil/Habilidades/), [Academia Militar](/1.-Perfil/Academia-Militar/), [Trabajar](/2.-Economia/Trabajar/), [Entrenamiento militar](/4.-Guerras/Entrenamiento-Militar/) son un buen sitio para empezar.
 
-- **Leer las [reglas](https://wiki.rivalregions.com/Rules/es) del juego** antes de publicar tu primer artículo o hablar en los chats.
+- **Leer las [reglas :fontawesome-brands-wikipedia-w:](https://wiki.rivalregions.com/Rules/es) del juego** antes de publicar tu primer artículo o hablar en los chats.
 
-- [Wiki oficial](https://wiki.rivalregions.com/Rival_Regions_Wiki/es) del juego.
+- [Wiki oficial :fontawesome-brands-wikipedia-w:](https://wiki.rivalregions.com/Rival_Regions_Wiki/es) del juego.
 
 - No dudes en preguntar a jugadores veteranos, por normal general no tendrán problemas en ayudarte en tus inicios.
 
-- Tener en cuenta que Lambda sigue en construcción, no toda la información está aquí ni todas las guías están completas pudiendo haber contenido que no está  actualizado a la par que el juego.
+- Tener en cuenta que Lambda sigue en construcción, no toda la información está aquí ni todas las guías están completas pudiendo haber contenido que no está actualizado a la par que el juego.

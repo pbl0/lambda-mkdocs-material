@@ -11,7 +11,7 @@ comments: true
 
 Está sección ha sido transcrita desde los canales del servidor de Discord del Lambda.
 
-Fue escrita en su momento inicial por **[Tun Ant](https://rivalregions.com/#slide/profile/2000156291)** y posteriormente continuada por **[Erik B](https://rivalregions.com/#slide/profile/2000213056)**.
+Fue escrita en su momento inicial por **[Tun Ant :rr-logo:](https://rivalregions.com/#slide/profile/2000156291)** y posteriormente continuada por **[Erik B :rr-logo:](https://rivalregions.com/#slide/profile/2000213056)**.
 
 ## Índice
 
@@ -29,4 +29,4 @@ Fue escrita en su momento inicial por **[Tun Ant](https://rivalregions.com/#slid
 
 !!! warning "Se buscan historiadores voluntarios"
 
-    Y aquí termina el relato contado por Tun Ant y Erik B. Por cosas del destino ambos han abandonado el juego y por tanto la historia de España en RR está inacabada. Si quieres aportar con la continuación de la sección, contacta con [@pablo_rr](https://t.me/pablo_rr).
+    Y aquí termina el relato contado por Tun Ant y Erik B. Por cosas del destino ambos han abandonado el juego y por tanto la historia de España en RR está inacabada. Si quieres aportar con la continuación de la sección, contacta con [@pablo_rr :fontawesome-brands-telegram:](https://t.me/pablo_rr).

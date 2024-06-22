@@ -63,7 +63,7 @@ Hay tres: Fuerza, educación y resistencia.
 
   - Nivel de la biblioteca (casa).
 
-- [Formula oficial](https://wiki.rivalregions.com/Perks/es). Esta formula no contempla la biblioteca.
+- [Formula oficial :fontawesome-brands-wikipedia-w:](https://wiki.rivalregions.com/Perks/es). Esta formula no contempla la biblioteca.
 
 <figure markdown>
   ![Imagen de habilidades](/img/posts/perks/perk2.jpg){ .screenshot loading=lazy }

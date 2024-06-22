@@ -28,7 +28,7 @@ Empieza por [primeros pasos](/01-Primeros-Pasos).
 
 Si quieres colaborar con Lambda puedes aportar de varias maneras. Algunas de las cuales las tengo apuntadas aquí debajo.
 
-Para editar o añadir páginas habla con [@pablo_rr](https://t.me/pablo_rr).
+Para editar o añadir páginas habla con [@pablo_rr :fontawesome-brands-telegram:](https://t.me/pablo_rr).
 Se recomienda leer esta [guía de markdown](https://docs.github.com/es/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ??? example "Tareas pedientes"

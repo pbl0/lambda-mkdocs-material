@@ -6,7 +6,7 @@ comments: true
 
 ??? note "Últimas revisiones"
 
-    - _01/10/2022 por [@Marco_15](https://t.me/Marco_15)_
+    - _01/10/2022 por [@Marco_15 :fontawesome-brands-telegram:](https://t.me/Marco_15)_
 
 <!-- * -->
 

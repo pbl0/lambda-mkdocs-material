@@ -6,7 +6,7 @@ comments: true
 
 ??? note "Últimas revisiones"
 
-    - _03/08/2022 por [@Gohkduk](https://t.me/Gohkduk)_
+    - _03/08/2022 por [@Gohkduk :fontawesome-brands-telegram:](https://t.me/Gohkduk)_
 
 <figure markdown>
   ![Imagen de parlamento](/img/posts/politica/parlamento.jpg){ .screenshot loading=lazy }

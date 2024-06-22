@@ -76,13 +76,13 @@ Al proponer la [ley de construir un nuevo edificio](/3.-Politica/Leyes/#nuevo-ed
 
 ## Clasificación de regiones
 
-- [Medicina](http://rivalregions.com/#listed/country/-2/0/hospital)
+- [Medicina :rr-logo:](https://rivalregions.com/#listed/country/-2/0/hospital)
 
-- [Militar](http://rivalregions.com/#listed/country/-2/0/military)
+- [Militar :rr-logo:](https://rivalregions.com/#listed/country/-2/0/military)
 
-- [Educación](http://rivalregions.com/#listed/country/-2/0/school)
+- [Educación :rr-logo:](https://rivalregions.com/#listed/country/-2/0/school)
 
-- [Desarrollo](http://m.rivalregions.com/#listed/country/-2/0/homes)
+- [Desarrollo :rr-logo:](https://rivalregions.com/#listed/country/-2/0/homes)
 
 !!! tip "Recomendado"
 

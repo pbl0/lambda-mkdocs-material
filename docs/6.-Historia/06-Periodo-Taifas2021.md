@@ -38,7 +38,7 @@ comments: true
 
 Se presenta el proyecto de la República central que consiste en una república ingame en las regiones de CLM y C. madrid. Se trata de un proyecto para que los partidos más nuevos tengan la posibilidad de llevar un estado.
 
-[Aquí el link](https://m.rivalregions.com/#news/show/3251209)
+[Aquí el link :rr-logo:](https://rivalregions.com/#news/show/3251209)
 
 Antes de seguir, hay que tener en cuenta que en este período de taifas predominan los proyectos privados, precisamente eso son las taifas, por lo que creo de deberíamos centrarnos un poco más en la República Central ya que es el proyecto más "público" que hay en la península. Esto, junto con los bandos y alianzas que han surgido durante este mes tanto a nivel comunidad como a nivel internacional serán los temas principales de esta etapa por ahora.
 
@@ -55,12 +55,12 @@ Han habido algunas polémicas como que Dinastía Borbónica, partido en el gobie
 Luego, a nivel internacional, RC se decide que sea un estado neutral que no participa en ninguno de los bloques españoles que han surgido desde la caída de LBA. Eso sí, a su vez, el resto de taifas de la península velan por la seguridad de RC.
 
 **10/08/21 - neutralidad:**
-A propósito de la neutralidad de RC, se ha subido un [artículo](https://rivalregions.com/#news/show/3271441) hoy que condena la participación de cualquier cargo ingame de la república en guerras fuera de la comunidad con la destitución inmediata.
+A propósito de la neutralidad de RC, se ha subido un [artículo :rr-logo:](https://rivalregions.com/#news/show/3271441) hoy que condena la participación de cualquier cargo ingame de la república en guerras fuera de la comunidad con la destitución inmediata.
 
 **24/08/21 - Ataque a Madeira:**
 Los portugueses, en su intento de reunir las regiones nativas, atacan Madeira. Lo que queda del Lolireich ya descompuesto trata de defender desesperadamente la región que tanto cariño le han tenido, pero la guerra parece estar lista para sentencia incluso antes de que se iniciara.
 
-[Link de la guerra](https://m.rivalregions.com/#war/details/408875)
+[Link de la guerra :rr-logo:](https://rivalregions.com/#war/details/408875)
 
 **27/08/21 - Conflicto en RC:**
 RC pasa por una pequeña crisis política que hoy se ha plasmado en los artículos. La coalición de gobierno se ha peleado y se ha disuelto. A raíz de esto, ha habido algo de tensión en RC cuando, desde el exterior, se ha visto la situación y han pedido explicación a los integrantes del gobierno de RC, aunque la cosa no ha ido a más.
