@@ -86,4 +86,4 @@ Al proponer la [ley de construir un nuevo edificio](/3.-Politica/Leyes/#nuevo-ed
 
 !!! tip "Recomendado"
 
-          El script [BetterIndex](https://rr-tools.eu/mod/2)
+    El script [BetterIndex](https://rr-tools.eu/mod/2)
