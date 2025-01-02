@@ -54,7 +54,7 @@ markdown_extensions:
 extra_css:
   - css/styles.css
 extra:
-  link_copyright: https://github.com/pbl0/
+  link_copyright: https://pablob.eu
   generator: false
   social:
     - icon: fontawesome/brands/github
