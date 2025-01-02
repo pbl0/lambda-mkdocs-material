@@ -62,7 +62,7 @@ extra:
       name: Source code
     - icon: fontawesome/solid/link
       link: https://pablob.eu
-copyright: Copyright &copy; 2021-2022 Pablo
+copyright: Copyright &copy; 2021-2025 Pablo
 plugins:
   - search
   - glightbox
