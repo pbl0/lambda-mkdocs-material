@@ -59,6 +59,7 @@ extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/pbl0/lambda-rr
+      name: Source code
     - icon: fontawesome/solid/link
       link: https://pablob.eu
 copyright: Copyright &copy; 2021-2022 Pablo
