@@ -20,6 +20,39 @@
 <!-- Copyright and theme information -->
 <div class="md-copyright">
   {% if config.copyright %}
+  <div>
+    El contenido de la comunidad está disponible bajo licencia
+    <a
+      href="https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      <span class="twemoji">
+        {% include ".icons/fontawesome/brands/creative-commons.svg" %}
+      </span>
+      BY-NC-SA 4.0</a
+    >.
+  </div>
+  <div>
+    El código fuente de la página está disponible en
+    <a
+      href="https://github.com/pbl0/lambda-rr"
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      <span class="twemoji">
+        {% include ".icons/fontawesome/brands/github.svg" %}
+      </span>
+      Github</a
+    >
+    bajo licencia
+    <a
+      href="https://github.com/pbl0/lambda-rr/blob/master/LICENSE"
+      target="_blank"
+      rel="noopener noreferrer"
+      >MIT</a
+    >.
+  </div>
   <div class="md-copyright__highlight">
     <a
       href="{{config.extra.link_copyright}}"
@@ -28,31 +61,6 @@
     >
       {{ config.copyright }}
     </a>
-  </div>
-  <div>
-    El contenido de la comunidad está disponible bajo licencia
-    <a
-      href="https://creativecommons.org/licenses/by-nc-sa/4.0/"
-      target="_blank"
-      rel="noopener noreferrer"
-      >CC BY-NC-SA 4.0</a
-    >
-  </div>
-  <div>
-    El código fuente de la página está disponible en
-    <a
-      href="https://github.com/pbl0/lambda-rr"
-      target="_blank"
-      rel="noopener noreferrer"
-      >Github</a
-    >
-    bajo licencia
-    <a
-      href="https://github.com/pbl0/lambda-rr/blob/master/LICENSE"
-      target="_blank"
-      rel="noopener noreferrer"
-      >MIT</a
-    >
   </div>
   {% endif %} {% if not config.extra.generator == false %} Made with
   <a
