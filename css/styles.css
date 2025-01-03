@@ -16,6 +16,7 @@ body[data-md-color-scheme="default"] {
 
   animation-range: entry 25% cover 30%;
   animation-fill-mode: both;
+  animation-duration: 1ms; /* Firefox requires this to apply the animation */
 }
 
 .md-typeset {
