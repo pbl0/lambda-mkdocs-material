@@ -16,15 +16,15 @@ body[data-md-color-scheme="default"] {
 
   animation-range: entry 25% cover 30%;
   animation-fill-mode: both;
-  animation-duration: 1ms; /* Firefox requires this to apply the animation */
+  animation-duration: 1ms; /* Firefox requires this to apply the animation. */
 }
 
-.md-typeset {
-  font-size: 0.9rem;
-}
-
-.md-nav {
-  font-size: 0.8rem;
+/* Disable animation in browsers that don't support -webkit-appearance */
+/* TODO: remove this when animation-range works properly in Firefox. */
+@-moz-document url-prefix() {
+  .screenshot {
+    animation-name: none; /* Remove the animation in Firefox */
+  }
 }
 
 @keyframes show {
@@ -37,4 +37,12 @@ body[data-md-color-scheme="default"] {
     opacity: 1;
     scale: 100%;
   }
+}
+
+.md-typeset {
+  font-size: 0.9rem;
+}
+
+.md-nav {
+  font-size: 0.8rem;
 }
