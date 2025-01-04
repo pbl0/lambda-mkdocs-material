@@ -8,7 +8,7 @@ Lambda es un servidor de **Discord** :fontawesome-brands-discord: creado por la 
   ![Mapa de Rival Regions](/img/posts/historia/mapa-04-08-2023.png){ .screenshot loading=lazy }
 </figure>
 
-Como proyecto aparte, la página web de Lambda surge para mantener accesible, fuera de **Discord**, el contenido educativo que hasta entonces estaba alojado únicamente en el servidor, y que además pueda ser fácilmente actualizado por la propia comunidad.
+Como proyecto aparte, la página web de Lambda surge para mantener accesible, fuera de **Discord** :fontawesome-brands-discord:, el contenido educativo que hasta entonces estaba alojado únicamente en el servidor, y que además pueda ser fácilmente actualizado por la propia comunidad.
 
 El proyecto original fue creado por **Alexia/Yuuuh/Elsa**, un antiguo jugador de :rr-logo: que mantuvo la página y cubrió sus costes hasta su cierre en octubre de 2021, momento en el que decidí tomar las riendas de la página Lambda.
 
@@ -16,7 +16,7 @@ La nueva página **no tiene ánimo de lucro** y, por el momento, no contendrá n
 
 El contenido aquí presente pertenece al conjunto de la comunidad española de :rr-logo:. Si vas a utilizarlo o modificarlo para otros fines, por favor, acredita debidamente añadiendo un enlace a esta página.
 
-## ¿Eres nuevo en RR?
+## ¿Eres nuevo en :rr-logo:?
 
 Empieza por [Primeros Pasos](/01-Primeros-Pasos).
 

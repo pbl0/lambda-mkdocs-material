@@ -8,7 +8,7 @@ comments: true
 
 ¡Bienvenido a **Lambda** y a **Rival Regions**! Lambda es un servidor de **Discord** :fontawesome-brands-discord: que ha decidido trasladar toda su información a esta página web para facilitar su lectura y acceso, sin necesidad de utilizar otra aplicación. En Lambda, personas con experiencia comparten sus conocimientos para que los nuevos jugadores tengan menos dificultades al adaptarse al juego.
 
-**_Rival Regions_**, o su acrónimo :rr-logo: (**RR**), es un juego diferente a los que probablemente hayas jugado antes. Al principio, no te preocupes si ves muchos botones; es normal sentirse abrumado. En términos generales, :rr-logo: se divide en tres vertientes principales: **política o diplomática**, **económica** y **militar**:
+**Rival Regions**, o su acrónimo :rr-logo: (**RR**), es un juego diferente a los que probablemente hayas jugado antes. Al principio, no te preocupes si ves muchos botones; es normal sentirse abrumado. En términos generales, :rr-logo: se divide en tres vertientes principales: **política o diplomática**, **económica** y **militar**:
 
 - **[Militar](../../4.-Guerras/)**: :rr-logo: incluye [guerras](../../4.-Guerras/Guerras) y estrategias de gestión bélica. A menudo, se desarrollan varias guerras simultáneamente, por lo que es crucial saber organizar un grupo para causar el mayor daño posible. Estas guerras conllevan un gasto significativo para todas las partes implicadas, excepto para los grupos [mercenarios](../../4.-Guerras/Mercenarios).
 
