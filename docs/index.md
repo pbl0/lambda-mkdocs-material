@@ -1,40 +1,36 @@
----
-comments: true
----
-
 # Home
 
 ## ¿Qué es Lambda?
 
-Lambda es un servidor discord creado por la comunidad española de Rival Regions con el objetivo de educar a los nuevos jugadores. Hoy en día el servidor se encuentra semi-abandonado.
+Lambda es un servidor de **Discord** :fontawesome-brands-discord: creado por la comunidad española de **Rival Regions** :rr-logo: con el objetivo de educar a los nuevos jugadores. Hoy en día, el servidor se encuentra semiabandonado.
 
 <figure markdown>
   ![Mapa de Rival Regions](/img/posts/historia/mapa-04-08-2023.png){ .screenshot loading=lazy }
 </figure>
 
-Como proyecto a parte, la página web de Lambda surge para mantener accesible fuera de discord el contenido educativo alojado hasta entonces solamente en discord y que a su vez sea fácilmente actualizado por la propia comunidad.
+Como proyecto aparte, la página web de Lambda surge para mantener accesible, fuera de **Discord**, el contenido educativo que hasta entonces estaba alojado únicamente en el servidor, y que además pueda ser fácilmente actualizado por la propia comunidad.
 
-El proyecto original fue creado por Alexia/Yuuuh/Elsa, antiguo jugador de RR que mantuvo la página y sus costes hasta su cierre en octubre del 2021, cuando decidí tomar las riendas de la página Lambda.
+El proyecto original fue creado por **Alexia/Yuuuh/Elsa**, un antiguo jugador de :rr-logo: que mantuvo la página y cubrió sus costes hasta su cierre en octubre de 2021, momento en el que decidí tomar las riendas de la página Lambda.
 
-La nueva página **no tiene ánimos de lucro**, y por el momento no contendrá ningún tipo anuncios ya que tampoco tiene costes de alojamiento.
+La nueva página **no tiene ánimo de lucro** y, por el momento, no contendrá ningún tipo de anuncios, ya que tampoco tiene costes de alojamiento.
 
-El contenido aquí presente pertenece al conjunto de la comunidad española de RR, si vas a utilizarlo o modificarlo para otros usos por favor acreditar debidamente añadiendo un enlace a esta página.
+El contenido aquí presente pertenece al conjunto de la comunidad española de :rr-logo:. Si vas a utilizarlo o modificarlo para otros fines, por favor, acredita debidamente añadiendo un enlace a esta página.
 
 ## ¿Eres nuevo en RR?
 
-Empieza por [primeros pasos](/01-Primeros-Pasos).
+Empieza por [Primeros Pasos](/01-Primeros-Pasos).
 
-## Como puedes colaborar con Lambda
+## ¿Cómo puedes colaborar con Lambda?
 
-Lambda es un esfuerzo comunitario, y como tal depende de la comunidad para mantener actualizado su contenido. Si encuentras algún fallo o información desactualizada o que consideras que debería estar aquí presente no dudes en aportar con su corrección.
+Lambda es un esfuerzo comunitario, y como tal depende de la comunidad para mantener actualizado su contenido. Si encuentras algún error, información desactualizada o crees que debería añadirse algo nuevo, no dudes en aportar con tu corrección.
 
-Si quieres colaborar con Lambda puedes aportar de varias maneras. Algunas de las cuales las tengo apuntadas aquí debajo en Tareas Pendientes.
+Si quieres colaborar con Lambda, puedes hacerlo de varias maneras, algunas de las cuales están apuntadas más abajo en **Tareas Pendientes**.
 
-Para editar o añadir páginas habla con [@pablobls :fontawesome-brands-telegram:](https://t.me/pablobls).
+Para editar o añadir páginas, contacta con [@pablobls :fontawesome-brands-telegram:](https://t.me/pablobls).
 
-Si tienes conocimientos de Git, puedes crear una pull request directamente en nuestro [repositorio en Github](https://github.com/pbl0/lambda-rr).
+Si tienes conocimientos de :fontawesome-brands-git:, puedes crear una pull request directamente en nuestro [repositorio en GitHub :fontawesome-brands-github:](https://github.com/pbl0/lambda-rr).
 
-Se recomienda leer esta [guía de markdown](https://docs.github.com/es/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) antes de editar los archivos.
+Se recomienda leer esta [guía de Markdown :fontawesome-brands-markdown:](https://docs.github.com/es/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) antes de editar los archivos.
 
 ??? example "Tareas pedientes"
 

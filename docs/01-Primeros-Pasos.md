@@ -1,27 +1,35 @@
+---
+comments: true
+---
+
 # Primeros Pasos
 
 ## Introducción
 
-Bienvenido a Lambda y a _Rival Regions_. Lambda es un servidor de discord que ha decidido traspasar toda su información a esta página web para que sea mas sencilla de leer y de acceder, sin necesidad de disponer de otra aplicación. En Lambda, gente con experiencia vuelca todo su conocimiento para que los nuevos jugadores tengan menos problemas de adaptación al juego. _Rival Regions_, o su acrónimo RR, es un juego diferente a los que habrás jugado normalmente. No te estreses al principio al ver tantos botones. Resumiendolo mucho, RR es un juego que tiene tres vertientes, política o diplomática, económica y militar:
+¡Bienvenido a **Lambda** y a **Rival Regions**! Lambda es un servidor de **Discord** :fontawesome-brands-discord: que ha decidido trasladar toda su información a esta página web para facilitar su lectura y acceso, sin necesidad de utilizar otra aplicación. En Lambda, personas con experiencia comparten sus conocimientos para que los nuevos jugadores tengan menos dificultades al adaptarse al juego.
 
-- **[Militar](../../4.-Guerras/)**, porque nos encontramos [guerras](../../4.-Guerras/Guerras) y estrategia de gestión de guerra, dado que puede que se realicen varias guerras simultaneas y es muy importante saber organizar a un grupo para hacer el mayor daño posible. Estas guerras suponen un enorme gasto para todas las partes implicadas, con la excepción de los grupos [mercenarios](../../4.-Guerras/Mercenarios).
-- **[Económico](../../2.-Economia/)**, porque es posible desarrollar cada región del juego de una forma específica. Muchas fórmulas se basan en los [índices](../../2.-Economia/Indices) y los edificios que cada región puede construir. Además existen varios [recursos](/2.-Economia/Recursos/) que son necesarios para construir, para ello existen diferentes [fábricas](/2.-Economia/Fabricas/).
-- **[Político](../../3.-Politica/) o Diplomático**, el apartado mas importante del juego, porque justamente para evitar lo primero y poder hacer tranquilamente lo segundo, necesitas formar alianzas, participar en algún [bloque](/3.-Politica/Bloque/) geopolítico, firmar o romper tratados y, si es necesario, declarar la guerra.
+**_Rival Regions_**, o su acrónimo :rr-logo: (**RR**), es un juego diferente a los que probablemente hayas jugado antes. Al principio, no te preocupes si ves muchos botones; es normal sentirse abrumado. En términos generales, :rr-logo: se divide en tres vertientes principales: **política o diplomática**, **económica** y **militar**:
 
-Como puedes ver, tienes muchísimas opciones, solo debes encontrar tu lugar. Y para eso hemos llegado hasta aquí, y ahora si que podemos decir... **Bienvenido a Rival Regions!**
+- **[Militar](../../4.-Guerras/)**: :rr-logo: incluye [guerras](../../4.-Guerras/Guerras) y estrategias de gestión bélica. A menudo, se desarrollan varias guerras simultáneamente, por lo que es crucial saber organizar un grupo para causar el mayor daño posible. Estas guerras conllevan un gasto significativo para todas las partes implicadas, excepto para los grupos [mercenarios](../../4.-Guerras/Mercenarios).
+
+- **[Económico](../../2.-Economia/)**: En este apartado, puedes desarrollar cada región del juego de una forma específica. Muchas mecánicas se basan en los [índices](../../2.-Economia/Indices) y los edificios que cada región puede construir. Además, existen varios [recursos](/2.-Economia/Recursos/) necesarios para la construcción, producidos en distintas [fábricas](/2.-Economia/Fabricas/).
+
+- **[Político](../../3.-Politica/) o Diplomático**: Este es el aspecto más importante del juego. Para evitar conflictos bélicos o potenciar el desarrollo económico, necesitas formar alianzas, participar en algún [bloque](/3.-Politica/Bloque/) geopolítico, firmar tratados y, si es necesario, declarar guerras.
+
+Como puedes ver, tienes muchas opciones disponibles. Solo necesitas encontrar tu lugar, y para eso estamos aquí. Así que ahora sí podemos decir: **¡Bienvenido a Rival Regions!**
 
 ## Recomendaciones
 
-- Utilizar **Telegram** ya que es la herramienta utilizada por la comunidad del juego para comunicarse. Está disponible en [web](https://web.telegram.org/), [Android](https://play.google.com/store/apps/details?id=org.telegram.messenger&hl=es) e [iOS](https://apps.apple.com/es/app/telegram-messenger/id686449807).
+- **Utiliza Telegram** :fontawesome-brands-telegram:, ya que es la herramienta principal que la comunidad del juego utiliza para comunicarse. Puedes acceder a través de su versión [web](https://web.telegram.org/), [Android](https://play.google.com/store/apps/details?id=org.telegram.messenger&hl=es) e [iOS](https://apps.apple.com/es/app/telegram-messenger/id686449807).
 
-- Únete a un partido y pregunta por su grupo de telegram. Si quieres socializar aun mas pregunta por los grupos comunitarios, internacionales, mercados, etc.
+- Únete a un partido y pregunta por su grupo de **Telegram** :fontawesome-brands-telegram:. Si quieres socializar aún más, pregunta por los grupos comunitarios, internacionales, mercados, etc.
 
-- Las guías [Habilidades](/1.-Perfil/Habilidades/), [Academia Militar](/1.-Perfil/Academia-Militar/), [Trabajar](/2.-Economia/Trabajar/), [Entrenamiento militar](/4.-Guerras/Entrenamiento-Militar/) son un buen sitio para empezar.
+- Las guías como [Habilidades](/1.-Perfil/Habilidades/), [Academia Militar](/1.-Perfil/Academia-Militar/), [Trabajar](/2.-Economia/Trabajar/) y [Entrenamiento militar](/4.-Guerras/Entrenamiento-Militar/) son un excelente punto de partida.
 
-- **Leer las [reglas :fontawesome-brands-wikipedia-w:](https://wiki.rivalregions.com/Rules/es) del juego** antes de publicar tu primer artículo o hablar en los chats.
+- **Lee las [reglas :fontawesome-brands-wikipedia-w:](https://wiki.rivalregions.com/Rules/es) del juego** antes de publicar tu primer artículo o participar en los chats.
 
-- [Wiki oficial :fontawesome-brands-wikipedia-w:](https://wiki.rivalregions.com/Rival_Regions_Wiki/es) del juego.
+- Consulta la [Wiki oficial :fontawesome-brands-wikipedia-w:](https://wiki.rivalregions.com/Rival_Regions_Wiki/es) del juego.
 
-- No dudes en preguntar a jugadores veteranos, por normal general no tendrán problemas en ayudarte en tus inicios.
+- No dudes en preguntar a jugadores veteranos. Por lo general, estarán encantados de ayudarte en tus primeros pasos.
 
-- Ten en cuenta que Lambda es un esfuerzo comunitario, y como tal depende de la comunidad para mantener actualizado su contenido. Si encuentras algún fallo o información desactualizada o que consideras que debería estar aquí presente no dudes en aportar con su corrección.
+- Recuerda que Lambda es un esfuerzo comunitario y depende de la participación de la comunidad para mantener su contenido actualizado. Si encuentras algún error, información desactualizada o consideras que falta algo importante, no dudes en contribuir con tus correcciones.
