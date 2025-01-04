@@ -16,7 +16,7 @@ Aumentan los [índices](/2.-Economia/Indices/) de la región. Cada uno es espec�
 - **Viviendas**: Mejora el índice de [desarrollo](/2.-Economia/Indices/#desarrollo).
 
 <figure markdown>
-  ![Imagen de edificios](/img/posts/edificios.svg){ loading=lazy }
+  ![Imagen de edificios](/img/posts/edificios.svg){ .screenshot loading=lazy }
   <figcaption>Edificios</figcaption>
 </figure>
 

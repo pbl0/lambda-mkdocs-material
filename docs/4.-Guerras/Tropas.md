@@ -9,7 +9,7 @@ comments: true
     - _05/08/2022 por [@Gohkduk :fontawesome-brands-telegram:](https://t.me/Gohkduk)_
 
 <figure markdown>
-  ![Imagen de tropas](/img/posts/guerras/tropas.png){ loading=lazy }
+  ![Imagen de tropas](/img/posts/guerras/tropas.png){ .screenshot loading=lazy }
   <figcaption>Tropas o armamento</figcaption>
 </figure>
 

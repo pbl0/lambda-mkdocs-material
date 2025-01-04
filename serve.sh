@@ -1,4 +1,4 @@
 #!/bin/bash
 source .venv/bin/activate
-# env/bin/python generate-indexs.py && 
+.venv/bin/python generate-indexs.py && 
 mkdocs serve

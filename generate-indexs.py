@@ -25,8 +25,8 @@ section_dict = {
 nav = []
 
 for page in sections:
-    
-    if '.md' in page or 'img' in page or 'css' in page or 'Historia' in page or 'CNAME' in page or '.html' in page:
+    excluded = ['.md', 'img', 'css', 'Historia', 'CNAME', '.html', 'LICENSE']
+    if any(exclusion in page for exclusion in excluded):
         pass
     else:
         pages = os.listdir('docs/'+page)
